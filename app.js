@@ -38,7 +38,7 @@
     for(const c of rows){
       const row=document.createElement('div');row.className='audit-row';
       row.innerHTML=`<div><h3>${escape(c.country)}</h3><span class="audit-status ${escape(c.status)}">${labels[c.status]}</span><p>${escape(c.title)}</p><details><summary>Пояснение и источник</summary><p>${escape(c.note)}</p><a href="${escape(c.source)}" target="_blank" rel="noopener noreferrer">Источник о месте действия ↗</a></details></div>`;
-      if(c.sceneIds.length){const button=document.createElement('button');button.className='audit-map-button';button.textContent=`На карту · ${c.sceneIds.length}`;button.setAttribute('aria-label',`Показать на карте: ${c.country}`);button.addEventListener('click',()=>{const scene=state.scenes.find(s=>s.id===c.sceneIds[0]);$('#country-dialog').close();reset();$('#country').value=scene.country;applyFilters(true);mobileList(false);closeCard(false);});row.append(button);}
+      if(c.sceneIds.length){const button=document.createElement('button');button.className='audit-map-button';button.textContent=`На карту · ${c.sceneIds.length}`;button.setAttribute('aria-label',`Показать на карте: ${c.country}`);button.addEventListener('click',()=>{const scene=state.scenes.find(s=>s.id===c.sceneIds[0]);$('#country-dialog').close();reset(false);$('#country').value=scene.country;applyFilters(true);mobileList(false);closeCard(false);});row.append(button);}
       fragment.append(row);
     }
     if(!rows.length){const empty=document.createElement('p');empty.className='empty';empty.textContent='Ни одной страны по этим условиям. Измените запрос или статус.';fragment.append(empty);}
@@ -46,10 +46,10 @@
   }
   function setHash(id) {const url=new URL(location.href);url.hash=id?'scene='+encodeURIComponent(id):'';history.replaceState(null,'',url);}
   function selectedFromHash() {return new URLSearchParams(location.hash.slice(1)).get('scene');}
-  function reset() {
+  function reset(fit=true) {
     $('#search').value='';$('#decade').value='';$('#genre').value='';$('#country').value='';state.region='';state.film='';state.kind='';
     all('[data-kind]').forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.kind)));renderCollection();
-    all('#regions button').forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.region)));applyFilters(true);
+    all('#regions button').forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.region)));applyFilters(fit!==false);
   }
   function applyFilters(fit=false) {
     const q=normalize($('#search').value.trim()), decade=$('#decade').value,genre=$('#genre').value,country=$('#country').value;
@@ -203,7 +203,7 @@
     window.addEventListener('hashchange',()=>{const id=selectedFromHash();if(id)openScene(id);else closeCard(false);});
   }
   async function main() {
-    const response=await fetch('data.json?v=20261119.6');if(!response.ok)throw new Error('Не удалось загрузить коллекцию. Попробуйте обновить страницу.');
+    const response=await fetch('data.json?v=20261119.7');if(!response.ok)throw new Error('Не удалось загрузить коллекцию. Попробуйте обновить страницу.');
     const catalog=await response.json();state.films=catalog.films;
     state.countryAudit=catalog.countryAudit;state.regionsByCountry=new Map(state.countryAudit.map(c=>[c.iso,c.region]));
     const films=new Map(state.films.map(f=>[f.id,f]));state.scenes=catalog.scenes.map(s=>({...s,movie:films.get(s.film),region:regionFor(s.country,s.lng,s.countryCode)}));
