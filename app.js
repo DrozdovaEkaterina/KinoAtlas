@@ -7,7 +7,7 @@
   const normalize = value => String(value).toLocaleLowerCase('ru').normalize('NFD').replace(/\p{Diacritic}/gu,'').replace(/ё/g,'е');
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const pin = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.5"/></svg>';
-  const state = {films:[],scenes:[],filtered:[],selected:null,region:'',film:'',map:null,markers:new Map(),revealed:new Set(),hideSpoilers:false};
+  const state = {films:[],scenes:[],filtered:[],selected:null,region:'',film:'',kind:'',map:null,markers:new Map(),revealed:new Set(),hideSpoilers:false};
   try { state.hideSpoilers = localStorage.getItem('kinoatlas-spoilers') === 'true'; } catch { /* Storage is optional. */ }
   const regionFor = country => {
     if (['США','Бразилия','Перу'].includes(country)) return 'Америка';
@@ -31,14 +31,15 @@
   function setHash(id) {const url=new URL(location.href);url.hash=id?'scene='+encodeURIComponent(id):'';history.replaceState(null,'',url);}
   function selectedFromHash() {return new URLSearchParams(location.hash.slice(1)).get('scene');}
   function reset() {
-    $('#search').value='';$('#decade').value='';$('#genre').value='';$('#country').value='';state.region='';state.film='';
+    $('#search').value='';$('#decade').value='';$('#genre').value='';$('#country').value='';state.region='';state.film='';state.kind='';
+    all('[data-kind]').forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.kind)));renderCollection();
     all('#regions button').forEach(b=>b.setAttribute('aria-pressed',String(!b.dataset.region)));applyFilters(true);
   }
   function applyFilters(fit=false) {
     const q=normalize($('#search').value.trim()), decade=$('#decade').value,genre=$('#genre').value,country=$('#country').value;
     state.filtered=state.scenes.filter(scene=>{
       const f=scene.movie;
-      return (!q||scene.searchText.includes(q))&&(!decade||String(Math.floor(Number(year(f))/10)*10)===decade)&&(!genre||f.genre===genre)&&(!country||scene.country===country)&&(!state.region||scene.region===state.region)&&(!state.film||f.id===state.film);
+      return (!q||scene.searchText.includes(q))&&(!decade||String(Math.floor(Number(year(f))/10)*10)===decade)&&(!genre||f.genre===genre)&&(!country||scene.country===country)&&(!state.region||scene.region===state.region)&&(!state.film||f.id===state.film)&&(!state.kind||(f.kind||'film')===state.kind);
     });
     if (state.selected&&!state.filtered.some(s=>s.id===state.selected.id)) closeCard(false);
     $('#result-count').textContent=`${state.filtered.length} из ${state.scenes.length}`;
@@ -56,7 +57,7 @@
     for (const scene of state.filtered) {
       const row=document.createElement('button');row.className='scene-row'+(state.selected?.id===scene.id?' selected':'');row.dataset.scene=scene.id;
       row.setAttribute('aria-label',`${scene.movie.title}: ${scene.place}`);
-      row.innerHTML=`<img src="${escape(scene.movie.image)}" alt="" loading="lazy" width="61" height="45"><span class="row-text"><strong>${escape(scene.movie.title)}</strong><small>${escape(scene.place)} · ${year(scene.movie)}</small></span>`;
+      row.innerHTML=`<img src="${escape(scene.image)}" alt="" loading="lazy" width="61" height="45"><span class="row-text"><strong>${escape(scene.movie.title)}</strong><small>${escape(scene.place)} · ${scene.season?`S${scene.season}${scene.episode?` · E${scene.episode}`:''}`:year(scene.movie)}</small></span>`;
       row.addEventListener('click',()=>openScene(scene.id));fragment.append(row);
     }
     $('#scene-list').replaceChildren(fragment);
@@ -105,9 +106,15 @@
     const s=state.selected;if(!s)return;const f=s.movie;
     const count=state.scenes.filter(x=>x.film===f.id).length;
     const concealed=state.hideSpoilers&&!state.revealed.has(s.id);
-    const body=concealed?'<div class="spoiler-cover"><p>Здесь начинается история фильма.</p><button id="reveal-scene">Показать описание сцены</button></div>':`<h3 class="story-heading">${escape(s.title)}</h3><p class="story-copy">${escape(s.description)}</p>`;
-    const sources=[['О фильме',f.source],...(f.releaseSource?[['Дата премьеры',f.releaseSource]]:[]),['О месте',s.locationSource||f.source],['Источник кадра',f.imageSource]];
-    $('#scene-card').innerHTML=`<div class="card-image"><img src="${escape(f.image)}" alt="Кадр из фильма «${escape(f.title)}»"><span class="card-topline">КИНО НА КАРТЕ</span><button class="icon-button card-close" id="close-card" aria-label="Закрыть карточку сцены">×</button></div><span class="frame-caption">Кадр из фильма · иллюстрация, не обязательно этот эпизод</span><div class="card-body"><div class="card-film-meta"><span>${year(f)}</span><span>${escape(f.genre)}</span><span>${escape(s.country)}</span></div><h2 id="card-title">${escape(f.title)}</h2><p class="original-title">${escape(f.original)}</p><dl class="film-facts"><div><dt>Премьера / первый выпуск</dt><dd>${escape(dateText(f.release))}</dd></div><div><dt>Режиссёр</dt><dd>${escape(f.director)}</dd></div></dl><div class="place-line">${pin}<span>${escape(s.place)}</span></div><p class="accuracy">${s.precision==='exact'?'Узнаваемое реальное место':'Приблизительная привязка · см. пояснение'}</p>${body}${s.note?`<p class="location-note">${escape(s.note)}</p>`:''}<div class="card-actions"><button id="film-scenes">${count>1?`Все места фильма · ${count}`:'Оставить этот фильм'}</button><button id="share-scene">Ссылка на сцену</button></div><div class="source-links">${sources.map(([label,url])=>`<a href="${escape(url)}" target="_blank" rel="noopener noreferrer">${label}</a>`).join('')}</div></div>`;
+    const isSeries=f.kind==='series';
+    const body=concealed?'<div class="spoiler-cover"><p>Описание сюжета скрыто.</p><button id="reveal-scene">Показать описание сцены</button></div>':`<h3 class="story-heading">${escape(s.title)}</h3><p class="story-copy">${escape(s.description)}</p>`;
+    const sources=[[isSeries?'О сериале':'О фильме',f.source],...(f.releaseSource?[['Дата премьеры',f.releaseSource]]:[]),['О месте',s.locationSource||f.source],['Кадр и сцена',s.imageSource],...(s.episodeSource?[['Об эпизоде',s.episodeSource]]:[])];
+    const creditLabel=isSeries?(s.director?'Режиссёр эпизода':'Создатель сериала'):'Режиссёр';
+    const credit=s.director||f.creator||f.director;
+    const episode=isSeries&&s.season?`<p class="episode-meta">Сезон ${s.season}${s.episode?` · эпизод ${s.episode}`:''}${s.episodeTitle?`<br>${escape(s.episodeTitle)}`:''}${s.episodeDate?`<span>${escape(dateText(s.episodeDate))}</span>`:''}</p>`:'';
+    const accuracy=s.mapBasis==='filming'?`Место съёмки${s.storyPlace?` · на экране: ${escape(s.storyPlace)}`:''}`:(s.precision==='exact'?'Место действия · узнаваемая локация':'Приблизительная привязка · см. пояснение');
+    const caption=s.frameCaption||`Кадр сцены · ${s.place}`;
+    $('#scene-card').innerHTML=`<div class="card-image"><img src="${escape(s.image)}" alt="${escape(s.shotDescription||`Кадр сцены «${s.title}»: ${s.place}`)}"><span class="card-topline">${isSeries?'СЕРИАЛ НА КАРТЕ':'КИНО НА КАРТЕ'}</span><button class="icon-button card-close" id="close-card" aria-label="Закрыть карточку сцены">×</button></div><span class="frame-caption">${escape(caption)}${s.timecode?` · ${escape(s.timecode)}`:''}</span><div class="card-body"><div class="card-film-meta"><span>${isSeries?'Сериал':'Фильм'}</span><span>${year(f)}</span><span>${escape(f.genre)}</span><span>${escape(s.country)}</span></div><h2 id="card-title">${escape(f.title)}</h2><p class="original-title">${escape(f.original)}</p><dl class="film-facts"><div><dt>${isSeries?'Премьера сериала':'Премьера / первый выпуск'}</dt><dd>${escape(dateText(f.release))}</dd></div><div><dt>${creditLabel}</dt><dd>${escape(credit)}</dd></div></dl>${episode}<div class="place-line">${pin}<span>${escape(s.place)}</span></div><p class="accuracy">${accuracy}</p>${body}${s.note?`<p class="location-note">${escape(s.note)}</p>`:''}<div class="card-actions"><button id="film-scenes">${count>1?`Все места ${isSeries?'сериала':'фильма'} · ${count}`:`Оставить этот ${isSeries?'сериал':'фильм'}`}</button><button id="share-scene">Ссылка на сцену</button></div><div class="source-links">${sources.map(([label,url])=>`<a href="${escape(url)}" target="_blank" rel="noopener noreferrer">${label}</a>`).join('')}</div></div>`;
     $('#scene-card').hidden=false;$('#scene-card').scrollTop=0;$('.map-stage').classList.add('has-card');
     $('#close-card').addEventListener('click',()=>closeCard());
     $('#reveal-scene')?.addEventListener('click',()=>{state.revealed.add(s.id);renderCard();});
@@ -119,13 +126,15 @@
   }
   function selectFilm(id) {
     reset();state.film=id;$('#search').value=state.films.find(f=>f.id===id).title;applyFilters(true);closeCard(false);mobileList(false);$('#collection-dialog').close();
-    toast('На карте — места выбранного фильма');
+    toast('На карте — места выбранной истории');
   }
   function renderCollection() {
     const fragment=document.createDocumentFragment();
     for(const f of [...state.films].sort((a,b)=>a.title.localeCompare(b.title,'ru'))) {
+      if(state.kind&&(f.kind||'film')!==state.kind)continue;
       const count=state.scenes.filter(s=>s.film===f.id).length;
-      const tile=document.createElement('button');tile.className='film-tile';tile.innerHTML=`<img src="${escape(f.image)}" alt="Кадр из фильма «${escape(f.title)}»" loading="lazy"><strong>${escape(f.title)}</strong><small>${year(f)} · ${escape(f.director)}<br>${count} ${count===1?'место':count<5?'места':'мест'}</small>`;
+      const firstScene=state.scenes.find(s=>s.film===f.id);
+      const tile=document.createElement('button');tile.className='film-tile';tile.innerHTML=`<img src="${escape(firstScene?.image||f.image)}" alt="Кадр ${f.kind==='series'?'сериала':'фильма'} «${escape(f.title)}»" loading="lazy"><strong>${escape(f.title)}</strong><small>${f.kind==='series'?'Сериал':'Фильм'} · ${year(f)} · ${escape(f.creator||f.director)}<br>${count} ${count===1?'место':count<5?'места':'мест'}</small>`;
       tile.addEventListener('click',()=>selectFilm(f.id));fragment.append(tile);
     }$('#film-grid').replaceChildren(fragment);
   }
@@ -160,6 +169,7 @@
     $('#search').addEventListener('input',()=>{state.film='';applyFilters();});
     for(const id of ['decade','genre','country'])$('#'+id).addEventListener('change',()=>applyFilters(true));
     $('#clear').addEventListener('click',reset);
+    all('[data-kind]').forEach(button=>button.addEventListener('click',()=>{state.kind=button.dataset.kind;state.film='';all('[data-kind]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.kind===state.kind)));renderCollection();applyFilters(true);}));
     all('#regions button').forEach(button=>button.addEventListener('click',()=>{state.region=button.dataset.region;all('#regions button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));applyFilters(true);}));
     $('#spoiler-toggle').setAttribute('aria-checked',String(state.hideSpoilers));
     $('#spoiler-toggle').addEventListener('click',()=>{state.hideSpoilers=!state.hideSpoilers;state.revealed.clear();$('#spoiler-toggle').setAttribute('aria-checked',String(state.hideSpoilers));try{localStorage.setItem('kinoatlas-spoilers',String(state.hideSpoilers));}catch{}renderCard();});
@@ -178,9 +188,10 @@
     const response=await fetch('data.json');if(!response.ok)throw new Error('Не удалось загрузить коллекцию. Попробуйте обновить страницу.');
     const catalog=await response.json();state.films=catalog.films;
     const films=new Map(state.films.map(f=>[f.id,f]));state.scenes=catalog.scenes.map(s=>({...s,movie:films.get(s.film),region:regionFor(s.country)}));
-    for(const scene of state.scenes)scene.searchText=normalize([scene.movie.title,scene.movie.original,scene.movie.director,scene.place,scene.country,scene.title,year(scene.movie)].join(' '));
+    for(const scene of state.scenes)scene.searchText=normalize([scene.movie.title,scene.movie.original,scene.movie.creator,scene.movie.director,scene.director,scene.episodeTitle,scene.place,scene.country,scene.title,year(scene.movie)].join(' '));
     const countries=new Set(state.scenes.map(s=>s.country));
-    $('#stats').innerHTML=`<span><strong>${state.scenes.length}</strong>сцен</span><span><strong>${state.films.length}</strong>фильма</span><span><strong>${countries.size}</strong>стран</span>`;
+    const seriesCount=state.films.filter(f=>f.kind==='series').length;
+    $('#stats').innerHTML=`<span><strong>${state.scenes.length}</strong>сцен</span><span><strong>${state.films.length-seriesCount}</strong>фильма</span><span><strong>${seriesCount}</strong>сериалов</span><span><strong>${countries.size}</strong>стран</span>`;
     $('#nav-count').textContent=state.films.length;
     fillSelect('#decade',[...new Set(state.films.map(f=>Math.floor(Number(year(f))/10)*10))].sort((a,b)=>b-a),d=>d+'-е');
     fillSelect('#genre',[...new Set(state.films.map(f=>f.genre))].sort((a,b)=>a.localeCompare(b,'ru')));

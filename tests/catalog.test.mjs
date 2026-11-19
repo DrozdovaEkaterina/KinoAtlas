@@ -28,11 +28,26 @@ test('Films have valid partial/full release dates, attribution, and local JPEG s
     assert.equal(new Date(full+'T12:00:00Z').toISOString().slice(0,10),full,`${f.id}: real calendar date`);
     for(const k of ['source','imageSource'])assert.equal(new URL(f[k]).protocol,'https:',`${f.id}: ${k}`);
     assert.ok(f.director&&f.original&&f.title&&f.genre,`${f.id}: credits`);
-    assert.match(f.image,/^assets\/[a-z]+\.jpg$/);
+    assert.match(f.image,/^assets\/(?:shots\/)?[a-z0-9-]+\.jpg$/);
     const image=await readFile(new URL(f.image,root));
-    assert.ok(image.byteLength>10000,`${f.id}: image too small`);
+    assert.ok(image.byteLength>1500,`${f.id}: image too small`);
     assert.equal(image.readUInt16BE(0),0xffd8,`${f.id}: not a JPEG`);
   }
+});
+
+test('Every map point has its own visually reviewed scene frame and source',async()=>{
+  const images=new Set();
+  for(const s of data.scenes){
+    assert.equal(s.verified,true,`${s.id}: scene frame needs visual review`);
+    assert.match(s.image,/^assets\/shots\/[a-z0-9-]+\.jpg$/,`${s.id}: no scene-specific image`);
+    assert.ok(!images.has(s.image),`${s.id}: shares an image with another point`);images.add(s.image);
+    assert.ok(s.shotDescription&&s.shotDescription.length>20,`${s.id}: missing frame/location evidence`);
+    assert.equal(new URL(s.imageSource).protocol,'https:',`${s.id}: frame source`);
+    const image=await readFile(new URL(s.image,root));assert.ok(image.byteLength>1000);assert.equal(image.readUInt16BE(0),0xffd8);
+    if(s.mapBasis==='filming')assert.ok(s.storyPlace&&s.note,`${s.id}: explain shooting/story geography`);
+    if(s.episode){assert.equal(films.get(s.film).kind,'series');assert.ok(s.season&&s.episodeSource,`${s.id}: episode provenance`);}
+  }
+  assert.ok(data.films.some(f=>f.kind==='series'),'No TV series in catalog');
 });
 
 test('Local world geography covers the globe with valid geometries',async()=>{

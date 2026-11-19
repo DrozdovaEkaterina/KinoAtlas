@@ -8,8 +8,9 @@
       "genre": "Романтика",
       "release": "1953-08-20",
       "source": "https://en.wikipedia.org/wiki/Roman_Holiday",
-      "image": "assets/roman.jpg",
-      "imageSource": "https://film-grab.com/2017/03/01/roman-holiday/"
+      "image": "assets/shots/roman-gelato.jpg",
+      "imageSource": "https://www.extstreet.com/Roman_Holiday.html",
+      "kind": "film"
     },
     {
       "id": "dolce",
@@ -19,8 +20,9 @@
       "genre": "Драма",
       "release": "1960-02-05",
       "source": "https://en.wikipedia.org/wiki/La_Dolce_Vita",
-      "image": "assets/dolce.jpg",
-      "imageSource": "https://film-grab.com/2014/10/03/la-dolce-vita/"
+      "image": "assets/shots/dolce-trevi.jpg",
+      "imageSource": "https://film-grab.com/2014/10/03/la-dolce-vita/",
+      "kind": "film"
     },
     {
       "id": "amelie",
@@ -30,8 +32,9 @@
       "genre": "Романтика",
       "release": "2001-04-25",
       "source": "https://en.wikipedia.org/wiki/Am%C3%A9lie",
-      "image": "assets/amelie.jpg",
-      "imageSource": "https://film-grab.com/2012/11/05/amelie/"
+      "image": "assets/shots/amelie-cafe.jpg",
+      "imageSource": "https://www.extstreet.com/Amelie.html",
+      "kind": "film"
     },
     {
       "id": "sunrise",
@@ -41,8 +44,9 @@
       "genre": "Романтика",
       "release": "1995-01-19",
       "source": "https://en.wikipedia.org/wiki/Before_Sunrise",
-      "image": "assets/sunrise.jpg",
-      "imageSource": "https://film-grab.com/2013/06/19/before-sunrise/"
+      "image": "assets/shots/sunrise-wheel.jpg",
+      "imageSource": "https://www.extstreet.com/Before_Sunrise.html",
+      "kind": "film"
     },
     {
       "id": "thirdman",
@@ -52,8 +56,9 @@
       "genre": "Триллер",
       "release": "1949-09-01",
       "source": "https://en.wikipedia.org/wiki/The_Third_Man",
-      "image": "assets/thirdman.jpg",
-      "imageSource": "https://film-grab.com/2014/04/16/the-third-man/"
+      "image": "assets/shots/thirdman-door.jpg",
+      "imageSource": "https://www.bfi.org.uk/features/third-man-vienna-locations",
+      "kind": "film"
     },
     {
       "id": "notting",
@@ -63,8 +68,9 @@
       "genre": "Романтика",
       "release": "1999-05-21",
       "source": "https://en.wikipedia.org/wiki/Notting_Hill_(film)",
-      "image": "assets/notting.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/509?language=en-US"
+      "image": "assets/shots/notting-door.jpg",
+      "imageSource": "https://www.extstreet.com/Notting_Hill.html",
+      "kind": "film"
     },
     {
       "id": "potter",
@@ -74,8 +80,9 @@
       "genre": "Приключения",
       "release": "2001-11-04",
       "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
-      "image": "assets/potter.jpg",
-      "imageSource": "https://film-grab.com/2016/06/23/harry-potter-and-the-philosophers-stone/"
+      "image": "assets/shots/potter-platform.jpg",
+      "imageSource": "https://www.extstreet.com/Harry_Potter_and_the_Philosopher's_Stone.html",
+      "kind": "film"
     },
     {
       "id": "ghost",
@@ -85,8 +92,9 @@
       "genre": "Комедия",
       "release": "1984-06-08",
       "source": "https://en.wikipedia.org/wiki/Ghostbusters_(1984_film)",
-      "image": "assets/ghost.jpg",
-      "imageSource": "https://film-grab.com/2015/01/08/ghostbusters/"
+      "image": "assets/shots/ghost-library.jpg",
+      "imageSource": "https://www.extstreet.com/Ghostbusters.html",
+      "kind": "film"
     },
     {
       "id": "tiffany",
@@ -96,8 +104,9 @@
       "genre": "Романтика",
       "release": "1961-10-05",
       "source": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(film)",
-      "image": "assets/tiffany.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/164?language=en-US"
+      "image": "assets/shots/tiffany-window.jpg",
+      "imageSource": "https://www.extstreet.com/Breakfast_at_Tiffany's.html",
+      "kind": "film"
     },
     {
       "id": "homealone",
@@ -107,8 +116,9 @@
       "genre": "Комедия",
       "release": "1992-11-20",
       "source": "https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York",
-      "image": "assets/homealone.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/772?language=en-US"
+      "image": "assets/shots/homealone-hotel.jpg",
+      "imageSource": "https://www.extstreet.com/Home_Alone_2_Lost_in_New_York.html",
+      "kind": "film"
     },
     {
       "id": "rocky",
@@ -118,8 +128,9 @@
       "genre": "Драма",
       "release": "1976-11-20",
       "source": "https://en.wikipedia.org/wiki/Rocky",
-      "image": "assets/rocky.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/1366?language=en-US"
+      "image": "assets/shots/rocky-steps.jpg",
+      "imageSource": "https://wp.iamnotastalker.com/2019/07/22/the-philadelphia-museum-of-art-from-rocky/",
+      "kind": "film"
     },
     {
       "id": "vertigo",
@@ -129,8 +140,9 @@
       "genre": "Триллер",
       "release": "1958-05-09",
       "source": "https://en.wikipedia.org/wiki/Vertigo_(film)",
-      "image": "assets/vertigo.jpg",
-      "imageSource": "https://film-grab.com/2013/02/28/vertigo/"
+      "image": "assets/shots/vertigo-bay.jpg",
+      "imageSource": "https://www.extstreet.com/Vertigo.html",
+      "kind": "film"
     },
     {
       "id": "lalaland",
@@ -140,8 +152,9 @@
       "genre": "Мюзикл",
       "release": "2016-08-31",
       "source": "https://en.wikipedia.org/wiki/La_La_Land",
-      "image": "assets/lalaland.jpg",
-      "imageSource": "https://film-grab.com/2019/04/12/la-la-land/"
+      "image": "assets/shots/lalaland-griffith.jpg",
+      "imageSource": "https://film-grab.com/2019/04/12/la-la-land/",
+      "kind": "film"
     },
     {
       "id": "lost",
@@ -151,8 +164,9 @@
       "genre": "Драма",
       "release": "2003-08-29",
       "source": "https://en.wikipedia.org/wiki/Lost_in_Translation_(film)",
-      "image": "assets/lost.jpg",
-      "imageSource": "https://film-grab.com/2010/09/21/lost-in-translation/"
+      "image": "assets/shots/lost-bar.jpg",
+      "imageSource": "https://film-grab.com/2010/09/21/lost-in-translation/",
+      "kind": "film"
     },
     {
       "id": "yourname",
@@ -162,8 +176,9 @@
       "genre": "Анимация",
       "release": "2016-07-03",
       "source": "https://en.wikipedia.org/wiki/Your_Name",
-      "image": "assets/yourname.jpg",
-      "imageSource": "https://film-grab.com/2026/07/13/your-name/"
+      "image": "assets/shots/yourname-stairs.jpg",
+      "imageSource": "https://film-grab.com/2026/07/13/your-name/",
+      "kind": "film"
     },
     {
       "id": "chungking",
@@ -173,8 +188,9 @@
       "genre": "Драма",
       "release": "1994-07-14",
       "source": "https://en.wikipedia.org/wiki/Chungking_Express",
-      "image": "assets/chungking.jpg",
-      "imageSource": "https://film-grab.com/2014/10/20/chungking-express/"
+      "image": "assets/shots/chungking-snack.jpg",
+      "imageSource": "https://film-grab.com/2014/10/20/chungking-express/",
+      "kind": "film"
     },
     {
       "id": "mood",
@@ -185,8 +201,9 @@
       "release": "2000-05-20",
       "source": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
       "releaseSource": "https://2017.festival-lumiere.org/manifestations/in-the-mood-for-love.html",
-      "image": "assets/mood.jpg",
-      "imageSource": "https://film-grab.com/2013/03/09/in-the-mood-for-love/"
+      "image": "assets/shots/mood-noodles.jpg",
+      "imageSource": "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
+      "kind": "film"
     },
     {
       "id": "parasite",
@@ -196,8 +213,9 @@
       "genre": "Триллер",
       "release": "2019-05-21",
       "source": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
-      "image": "assets/parasite.jpg",
-      "imageSource": "https://film-grab.com/2024/02/05/parasite/"
+      "image": "assets/shots/parasite-rain.jpg",
+      "imageSource": "https://film-grab.com/2024/02/05/parasite/",
+      "kind": "film"
     },
     {
       "id": "slumdog",
@@ -207,8 +225,9 @@
       "genre": "Драма",
       "release": "2008-08-30",
       "source": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
-      "image": "assets/slumdog.jpg",
-      "imageSource": "https://film-grab.com/2018/02/19/slumdog-millionaire/"
+      "image": "assets/shots/slumdog-station.jpg",
+      "imageSource": "https://film-grab.com/2018/02/19/slumdog-millionaire/",
+      "kind": "film"
     },
     {
       "id": "lunchbox",
@@ -218,8 +237,9 @@
       "genre": "Драма",
       "release": "2013-05-19",
       "source": "https://en.wikipedia.org/wiki/The_Lunchbox",
-      "image": "assets/lunchbox.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/191714?language=en-US"
+      "image": "assets/shots/lunchbox-delivery.jpg",
+      "imageSource": "https://www.themoviedb.org/movie/191714/images/backdrops?language=en-US",
+      "kind": "film"
     },
     {
       "id": "separation",
@@ -229,8 +249,9 @@
       "genre": "Драма",
       "release": "2011-02",
       "source": "https://en.wikipedia.org/wiki/A_Separation",
-      "image": "assets/separation.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/60243?language=en-US"
+      "image": "assets/shots/separation-court.jpg",
+      "imageSource": "https://www.themoviedb.org/movie/60243/images/backdrops?language=en-US",
+      "kind": "film"
     },
     {
       "id": "emperor",
@@ -240,8 +261,9 @@
       "genre": "Драма",
       "release": "1987-10-04",
       "source": "https://en.wikipedia.org/wiki/The_Last_Emperor",
-      "image": "assets/emperor.jpg",
-      "imageSource": "https://film-grab.com/2024/08/13/the-last-emperor/"
+      "image": "assets/shots/emperor-palace.jpg",
+      "imageSource": "https://film-grab.com/2024/08/13/the-last-emperor/",
+      "kind": "film"
     },
     {
       "id": "citygod",
@@ -251,8 +273,9 @@
       "genre": "Драма",
       "release": "2002-05-18",
       "source": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
-      "image": "assets/citygod.jpg",
-      "imageSource": "https://film-grab.com/2020/12/17/city-of-god/"
+      "image": "assets/shots/citygod-camera.jpg",
+      "imageSource": "https://film-grab.com/2020/12/17/city-of-god/",
+      "kind": "film"
     },
     {
       "id": "motorcycle",
@@ -263,8 +286,9 @@
       "release": "2004-01-15",
       "source": "https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(film)",
       "releaseSource": "https://www.filmportal.de/film/the-motorcycle-diaries_9572a64ff83540cb83640dea11b81b0b",
-      "image": "assets/motorcycle.jpg",
-      "imageSource": "https://film-grab.com/2025/02/17/the-motorcycle-diaries/"
+      "image": "assets/shots/motorcycle-machu.jpg",
+      "imageSource": "https://film-grab.com/2025/02/17/the-motorcycle-diaries/",
+      "kind": "film"
     },
     {
       "id": "central",
@@ -274,8 +298,9 @@
       "genre": "Драма",
       "release": "1998-01-16",
       "source": "https://en.wikipedia.org/wiki/Central_Station_(film)",
-      "image": "assets/central.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/666?language=en-US"
+      "image": "assets/shots/central-letters.jpg",
+      "imageSource": "https://www.atmospheres53.org/film/central-do-brasil/",
+      "kind": "film"
     },
     {
       "id": "algiers",
@@ -286,8 +311,9 @@
       "release": "1966-08-31",
       "source": "https://en.wikipedia.org/wiki/The_Battle_of_Algiers",
       "releaseSource": "https://web.library.yale.edu/film/notes/fn00037",
-      "image": "assets/algiers.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/17295?language=en-US"
+      "image": "assets/shots/algiers-casbah.jpg",
+      "imageSource": "https://www.sensesofcinema.com/2026/feature-articles/the-eternal-return-the-battle-of-algiers-at-60/",
+      "kind": "film"
     },
     {
       "id": "cairo",
@@ -297,8 +323,9 @@
       "genre": "Драма",
       "release": "1958-01-20",
       "source": "https://en.wikipedia.org/wiki/Cairo_Station",
-      "image": "assets/cairo.jpg",
-      "imageSource": "https://film-grab.com/2017/01/05/cairo-station/"
+      "image": "assets/shots/cairo-station.jpg",
+      "imageSource": "https://film-grab.com/2017/01/05/cairo-station/",
+      "kind": "film"
     },
     {
       "id": "touki",
@@ -309,8 +336,9 @@
       "release": "1973-05",
       "source": "https://en.wikipedia.org/wiki/Touki_Bouki",
       "releaseSource": "https://www.cinemateca.pt/CinematecaSite/media/Documentos/2023-12-05_TOUKI-BOUKI.pdf",
-      "image": "assets/touki.jpg",
-      "imageSource": "https://film-grab.com/2022/09/01/touki-bouki/"
+      "image": "assets/shots/touki-dakar.jpg",
+      "imageSource": "https://film-grab.com/2022/09/01/touki-bouki/",
+      "kind": "film"
     },
     {
       "id": "piano",
@@ -320,8 +348,9 @@
       "genre": "Драма",
       "release": "1993-05-15",
       "source": "https://en.wikipedia.org/wiki/The_Piano",
-      "image": "assets/piano.jpg",
-      "imageSource": "https://film-grab.com/2013/09/17/the-piano/"
+      "image": "assets/shots/piano-beach.jpg",
+      "imageSource": "https://film-grab.com/2013/09/17/the-piano/",
+      "kind": "film"
     },
     {
       "id": "dundee",
@@ -331,8 +360,9 @@
       "genre": "Комедия",
       "release": "1986-04-24",
       "source": "https://en.wikipedia.org/wiki/Crocodile_Dundee",
-      "image": "assets/dundee.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/9671?language=en-US"
+      "image": "assets/shots/dundee-outback.jpg",
+      "imageSource": "https://nycinfilm.com/2024/03/28/crocodile-dundee-1986/",
+      "kind": "film"
     },
     {
       "id": "wings",
@@ -342,8 +372,9 @@
       "genre": "Драма",
       "release": "1987-05-17",
       "source": "https://en.wikipedia.org/wiki/Wings_of_Desire",
-      "image": "assets/wings.jpg",
-      "imageSource": "https://film-grab.com/2013/09/26/wings-of-desire/"
+      "image": "assets/shots/wings-angel.jpg",
+      "imageSource": "https://film-grab.com/2013/09/26/wings-of-desire/",
+      "kind": "film"
     },
     {
       "id": "paradiso",
@@ -353,8 +384,9 @@
       "genre": "Драма",
       "release": "1988-11-17",
       "source": "https://en.wikipedia.org/wiki/Cinema_Paradiso",
-      "image": "assets/paradiso.jpg",
-      "imageSource": "https://film-grab.com/2014/06/10/cinema-paradiso/"
+      "image": "assets/shots/paradiso-square.jpg",
+      "imageSource": "https://film-grab.com/2014/06/10/cinema-paradiso/",
+      "kind": "film"
     },
     {
       "id": "potemkin",
@@ -364,8 +396,9 @@
       "genre": "Драма",
       "release": "1925-12-21",
       "source": "https://en.wikipedia.org/wiki/Battleship_Potemkin",
-      "image": "assets/potemkin.jpg",
-      "imageSource": "https://film-grab.com/2014/12/17/battleship-potemkin/"
+      "image": "assets/shots/potemkin-stairs.jpg",
+      "imageSource": "https://film-grab.com/2014/12/17/battleship-potemkin/",
+      "kind": "film"
     },
     {
       "id": "midnight",
@@ -376,8 +409,165 @@
       "release": "2011-05-11",
       "source": "https://en.wikipedia.org/wiki/Midnight_in_Paris",
       "releaseSource": "https://www.festival-cannes.com/en/2011/woody-allens-midnight-in-paris-is-to-open-the-64th-festival-de-cannes/",
-      "image": "assets/midnight.jpg",
-      "imageSource": "https://www.themoviedb.org/movie/59436?language=en-US"
+      "image": "assets/shots/midnight-steps.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/204/Midnight-in-Paris/Saint-tienne-du-Mont",
+      "kind": "film"
+    },
+    {
+      "id": "breakingbad",
+      "title": "Во все тяжкие",
+      "original": "Breaking Bad",
+      "creator": "Винс Гиллиган",
+      "director": "Винс Гиллиган",
+      "release": "2008-01-20",
+      "genre": "Драма",
+      "source": "https://en.wikipedia.org/wiki/Breaking_Bad",
+      "kind": "series",
+      "image": "assets/shots/breakingbad-pollos.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/5062/Breaking-Bad/Twisters-Burgers-and-Burritos"
+    },
+    {
+      "id": "friends",
+      "title": "Друзья",
+      "original": "Friends",
+      "creator": "Дэвид Крейн и Марта Кауффман",
+      "director": "Дэвид Крейн и Марта Кауффман",
+      "release": "1994-09-22",
+      "genre": "Комедия",
+      "source": "https://en.wikipedia.org/wiki/Friends",
+      "kind": "series",
+      "image": "assets/shots/friends-bedford.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/726/Friends/90-Bedford-Street-apartment"
+    },
+    {
+      "id": "sherlock",
+      "title": "Шерлок",
+      "original": "Sherlock",
+      "creator": "Стивен Моффат и Марк Гэтисс",
+      "director": "Стивен Моффат и Марк Гэтисс",
+      "release": "2010-07-25",
+      "genre": "Детектив",
+      "source": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)",
+      "kind": "series",
+      "image": "assets/shots/sherlock-baker.jpg",
+      "imageSource": "https://moviemaps.org/images/2zp"
+    },
+    {
+      "id": "strangerthings",
+      "title": "Очень странные дела",
+      "original": "Stranger Things",
+      "creator": "Мэтт и Росс Даффер",
+      "director": "Мэтт и Росс Даффер",
+      "release": "2016-07-15",
+      "genre": "Фантастика",
+      "source": "https://en.wikipedia.org/wiki/Stranger_Things",
+      "kind": "series",
+      "image": "assets/shots/strangerthings-starcourt.jpg",
+      "imageSource": "https://moviemaps.org/images/1hq4"
+    },
+    {
+      "id": "gameofthrones",
+      "title": "Игра престолов",
+      "original": "Game of Thrones",
+      "creator": "Дэвид Бениофф и Д. Б. Уайсс",
+      "director": "Дэвид Бениофф и Д. Б. Уайсс",
+      "release": "2011-04-17",
+      "genre": "Фэнтези",
+      "source": "https://en.wikipedia.org/wiki/Game_of_Thrones",
+      "kind": "series",
+      "image": "assets/shots/gameofthrones-kingsroad.jpg",
+      "imageSource": "https://moviemaps.org/images/41k"
+    },
+    {
+      "id": "twinpeaks",
+      "title": "Твин Пикс",
+      "original": "Twin Peaks",
+      "creator": "Дэвид Линч и Марк Фрост",
+      "director": "Дэвид Линч и Марк Фрост",
+      "release": "1990-04-08",
+      "genre": "Детектив",
+      "source": "https://en.wikipedia.org/wiki/Twin_Peaks",
+      "kind": "series",
+      "image": "assets/shots/twinpeaks-doubler.jpg",
+      "imageSource": "https://moviemaps.org/images/kwt"
+    },
+    {
+      "id": "emilyinparis",
+      "title": "Эмили в Париже",
+      "original": "Emily in Paris",
+      "creator": "Даррен Стар",
+      "director": "Даррен Стар",
+      "release": "2020-10-02",
+      "genre": "Комедия",
+      "source": "https://en.wikipedia.org/wiki/Emily_in_Paris",
+      "kind": "series",
+      "image": "assets/shots/emilyinparis-palais.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/4458/Emily-in-Paris/Jardin-Du-Palais-Royale"
+    },
+    {
+      "id": "saul",
+      "kind": "series",
+      "title": "Лучше звоните Солу",
+      "original": "Better Call Saul",
+      "creator": "Винс Гиллиган, Питер Гулд",
+      "director": "Винс Гиллиган и другие",
+      "genre": "Криминальная драма",
+      "release": "2015-02-08",
+      "source": "https://en.wikipedia.org/wiki/Better_Call_Saul",
+      "image": "assets/shots/saul-cinnabon.jpg",
+      "imageSource": "https://thespinoff.co.nz/culture/11-02-2015/better-call-saul-uno-and-mijo"
+    },
+    {
+      "id": "wednesday",
+      "kind": "series",
+      "title": "Уэнсдей",
+      "original": "Wednesday",
+      "creator": "Альфред Гоф, Майлз Миллар",
+      "director": "Тим Бёртон и другие",
+      "genre": "Мистика",
+      "release": "2022-11-23",
+      "source": "https://www.netflix.com/tudum/articles/wednesday-jenna-ortega-release-date-poster",
+      "image": "assets/shots/wednesday-nevermore.jpg",
+      "imageSource": "https://wednesdayseries.com/tour"
+    },
+    {
+      "id": "peaky",
+      "kind": "series",
+      "title": "Острые козырьки",
+      "original": "Peaky Blinders",
+      "creator": "Стивен Найт",
+      "director": "Отто Батёрст и другие",
+      "genre": "Криминальная драма",
+      "release": "2013-09-12",
+      "source": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)",
+      "image": "assets/shots/peaky-danny.jpg",
+      "imageSource": "https://simkl.com/tv/42580/peaky-blinders/season-1/episode-1/screencaps/"
+    },
+    {
+      "id": "satc",
+      "kind": "series",
+      "title": "Секс в большом городе",
+      "original": "Sex and the City",
+      "creator": "Даррен Стар",
+      "director": "Даррен Стар",
+      "genre": "Романтика",
+      "release": "1998-06-06",
+      "source": "https://en.wikipedia.org/wiki/Sex_and_the_City",
+      "image": "assets/shots/satc-magnolia.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/1693/Sex-and-the-City/Magnolia-Bakery"
+    },
+    {
+      "id": "downton",
+      "kind": "series",
+      "title": "Аббатство Даунтон",
+      "original": "Downton Abbey",
+      "creator": "Джулиан Феллоуз",
+      "director": "Джулиан Феллоуз",
+      "genre": "Драма",
+      "release": "2010-09-26",
+      "source": "https://en.wikipedia.org/wiki/Downton_Abbey",
+      "image": "assets/shots/downton-bates.jpg",
+      "imageSource": "https://shotonlocation-eng.blogspot.com/2017/05/highclere-castle-england.html"
     }
   ],
   "scenes": [
@@ -392,7 +582,13 @@
       "precision": "exact",
       "description": "Принцесса Анна ест мороженое на Испанской лестнице. Здесь она снова встречает Джо: прогулка по Риму становится возможностью ненадолго выйти из роли наследницы престола.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/r/Roman-Holiday.php"
+      "locationSource": "https://www.movie-locations.com/movies/r/Roman-Holiday.php",
+      "image": "assets/shots/roman-gelato.jpg",
+      "imageSource": "https://www.extstreet.com/Roman_Holiday.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1932487392172748743185677427.jpg",
+      "shotDescription": "Кадр эпизода на Испанской лестнице: ступени и площадь Испании внизу.",
+      "verified": true,
+      "timecode": "1:01:45"
     },
     {
       "id": "roman-truth",
@@ -405,7 +601,13 @@
       "precision": "exact",
       "description": "Джо просовывает руку в каменную маску и разыгрывает Анну, притворяясь, что лишился кисти. Её испуг сменяется смехом — один из самых узнаваемых моментов их римского дня.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/r/Roman-Holiday.php"
+      "locationSource": "https://www.movie-locations.com/movies/r/Roman-Holiday.php",
+      "image": "assets/shots/roman-truth.jpg",
+      "imageSource": "https://www.extstreet.com/Roman_Holiday.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1932487392172748743185707244.jpg",
+      "shotDescription": "Джо и Анна у каменной маски «Уста истины» в сцене с проверкой на правду.",
+      "verified": true,
+      "timecode": "1:18:30"
     },
     {
       "id": "dolce-trevi",
@@ -417,7 +619,12 @@
       "lng": 12.48331,
       "precision": "exact",
       "description": "Сильвия заходит в воду фонтана Треви и зовёт Марчелло за собой. Ночное приключение превращает туристическую достопримечательность в пространство мечты, которая исчезает с наступлением утра.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/dolce-trevi.jpg",
+      "imageSource": "https://film-grab.com/2014/10/03/la-dolce-vita/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/2014/10/26-582.jpg",
+      "shotDescription": "Сильвия под струями фонтана Треви; позади видна каменная скульптура фонтана.",
+      "verified": true
     },
     {
       "id": "amelie-cafe",
@@ -430,7 +637,13 @@
       "precision": "exact",
       "description": "Амели работает в кафе и присматривается к привычкам его посетителей. Именно здесь она начинает вмешиваться в чужие судьбы: за повседневными разговорами и чашками кофе скрывается целая история о близости.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/a/Amelie.php"
+      "locationSource": "https://www.movie-locations.com/movies/a/Amelie.php",
+      "image": "assets/shots/amelie-cafe.jpg",
+      "imageSource": "https://www.extstreet.com/Amelie.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1814418290166783.jpg",
+      "shotDescription": "Экстерьер кафе «Две мельницы» из фильма: светящаяся угловая вывеска и вход. Кадр показывает фасад, не интерьер.",
+      "verified": true,
+      "timecode": "0:09:42"
     },
     {
       "id": "amelie-sacre",
@@ -443,7 +656,13 @@
       "precision": "exact",
       "description": "Амели превращает возвращение потерянного альбома Нино в игру с подсказками. Лестницы и карусель у Сакре-Кёр становятся частью маршрута, позволяющего ей приблизиться к человеку и пока остаться незнакомкой.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/a/Amelie.php"
+      "locationSource": "https://www.movie-locations.com/movies/a/Amelie.php",
+      "image": "assets/shots/amelie-sacre.jpg",
+      "imageSource": "https://www.extstreet.com/Amelie.html",
+      "imageOriginal": "https://www.extstreet.com/stills/56246966995135857.jpg",
+      "shotDescription": "Карусель и террасы у подножия Сакре-Кёр из эпизода игры Амели с Нино.",
+      "verified": true,
+      "timecode": "1:12:48"
     },
     {
       "id": "sunrise-wheel",
@@ -456,7 +675,13 @@
       "precision": "exact",
       "description": "Джесси и Селин поднимаются над Веной в кабинке колеса обозрения. Разговор двух случайных попутчиков прерывается первым поцелуем: короткая остановка в городе превращается в начало общей истории.",
       "note": "",
-      "locationSource": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations"
+      "locationSource": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations",
+      "image": "assets/shots/sunrise-wheel.jpg",
+      "imageSource": "https://www.extstreet.com/Before_Sunrise.html",
+      "imageOriginal": "https://www.extstreet.com/stills/48491991301820526229506845911.jpg",
+      "shotDescription": "Венское колесо обозрения и вход в Пратер из эпизода прогулки Джесси и Селин. Кадр показывает колесо снаружи, не поцелуй в кабинке.",
+      "verified": true,
+      "timecode": "0:30:49"
     },
     {
       "id": "sunrise-records",
@@ -469,7 +694,13 @@
       "precision": "exact",
       "description": "В тесной кабине музыкального магазина Джесси и Селин слушают пластинку. Они украдкой смотрят друг на друга и отводят глаза: неловкое молчание говорит о зарождающемся чувстве больше, чем их бесконечные беседы.",
       "note": "В фильме показан магазин Teuchtler на Windmühlgasse.",
-      "locationSource": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations"
+      "locationSource": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations",
+      "image": "assets/shots/sunrise-records.jpg",
+      "imageSource": "https://www.extstreet.com/Before_Sunrise.html",
+      "imageOriginal": "https://www.extstreet.com/stills/48491991301820526229506843082.jpg",
+      "shotDescription": "Экстерьер Alt & Neu / Teuchtler из эпизода посещения музыкального магазина: вывеска над входом. Кадр не изображает кабину прослушивания.",
+      "verified": true,
+      "timecode": "0:26:01"
     },
     {
       "id": "thirdman-door",
@@ -481,20 +712,31 @@
       "lng": 16.36386,
       "precision": "exact",
       "description": "В тёмном дверном проёме внезапно появляется лицо Гарри Лайма. Короткая вспышка света меняет смысл расследования Холли Мартинса и превращает венскую улицу в сцену одного из знаменитых появлений в истории кино.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/thirdman-door.jpg",
+      "imageSource": "https://www.bfi.org.uk/features/third-man-vienna-locations",
+      "imageOriginal": "https://core-cms.bfi.org.uk/sites/default/files/styles/responsive/public/2024-08/the-third-man-1949-door.jpg/1440x0/the-third-man-1949-door.jpg",
+      "shotDescription": "Дверной проём Schreyvogelgasse 8 в сцене первого появления Гарри Лайма: тёмная фигура у дверей.",
+      "verified": true
     },
     {
       "id": "notting-door",
       "film": "notting",
-      "title": "За синей дверью",
+      "title": "Спайк перед папарацци",
       "place": "Ноттинг-Хилл · Лондон",
       "country": "Великобритания",
       "lat": 51.5174,
       "lng": -0.2055,
       "precision": "exact",
-      "description": "После неловкого столкновения и пролитого сока Уильям приглашает Анну Скотт к себе привести одежду в порядок. За синей дверью начинается знакомство скромного книготорговца и мировой кинозвезды.",
+      "description": "Папарацци окружают дом Уильяма, узнав, что у него остановилась Анна Скотт. Спайк выходит к синей двери и позирует фотографам, превращая неловкую осаду в комическую сцену.",
       "note": "Внешний вид дома связан с адресом 280 Westbourne Park Road; интерьеры фильма — отдельная съёмочная локация.",
-      "locationSource": "https://www.movie-locations.com/movies/n/Notting-Hill.php"
+      "locationSource": "https://www.extstreet.com/Notting_Hill.html",
+      "image": "assets/shots/notting-door.jpg",
+      "imageSource": "https://www.extstreet.com/Notting_Hill.html",
+      "imageOriginal": "https://www.extstreet.com/stills/59434371094088260596248514.jpg",
+      "shotDescription": "Папарацци у синей двери дома Уильяма на Westbourne Park Road; Спайк выходит к фотографам.",
+      "verified": true,
+      "timecode": "1:23:28"
     },
     {
       "id": "potter-platform",
@@ -506,7 +748,13 @@
       "lng": -0.1238,
       "precision": "exact",
       "description": "Гарри не может найти платформу девять и три четверти. Следуя совету миссис Уизли, он направляет тележку прямо к барьеру и впервые попадает на платформу Хогвартс-экспресса.",
-      "note": "Место действия — Кингс-Кросс. Сцену снимали между реальными платформами 4 и 5; туристическая тележка находится в другом месте вокзала."
+      "note": "Место действия — Кингс-Кросс. Сцену снимали между реальными платформами 4 и 5; туристическая тележка находится в другом месте вокзала.",
+      "image": "assets/shots/potter-platform.jpg",
+      "imageSource": "https://www.extstreet.com/Harry_Potter_and_the_Philosopher's_Stone.html",
+      "imageOriginal": "https://www.extstreet.com/stills/31363922244104316658705697250954601919767689041187625434926257027987.jpg",
+      "shotDescription": "Общий план вокзала Кингс-Кросс перед отправлением в Хогвартс: платформы и стеклянный свод.",
+      "verified": true,
+      "timecode": "0:31:46"
     },
     {
       "id": "ghost-library",
@@ -519,7 +767,13 @@
       "precision": "exact",
       "description": "Исследователи паранормальных явлений сталкиваются с призраком библиотекарши. Попытка спокойно наладить контакт заканчивается поспешным бегством и даёт будущим охотникам первый опыт встречи с привидением.",
       "note": "Действие происходит в Нью-Йорке; часть библиотечных интерьеров снимали в Лос-Анджелесе.",
-      "locationSource": "https://www.movie-locations.com/movies/g/Ghostbusters.php"
+      "locationSource": "https://www.movie-locations.com/movies/g/Ghostbusters.php",
+      "image": "assets/shots/ghost-library.jpg",
+      "imageSource": "https://www.extstreet.com/Ghostbusters.html",
+      "imageOriginal": "https://www.extstreet.com/stills/56372894530476853044857.jpg",
+      "shotDescription": "Экстерьер Нью-Йоркской публичной библиотеки в начале эпизода с призраком: колонны и вход. Кадр фасада, не интерьера.",
+      "verified": true,
+      "timecode": "0:00:30"
     },
     {
       "id": "ghost-firehouse",
@@ -532,7 +786,13 @@
       "precision": "exact",
       "description": "Команда устраивает штаб в старом пожарном депо. Здесь появляются автомобиль, оборудование и ловушка для призраков — место обычной городской службы становится базой необычного бизнеса.",
       "note": "Экстерьер — Hook & Ladder 8 на North Moore Street. Для интерьеров использовали другое депо в Лос-Анджелесе.",
-      "locationSource": "https://www.movie-locations.com/movies/g/Ghostbusters.php"
+      "locationSource": "https://www.movie-locations.com/movies/g/Ghostbusters.php",
+      "image": "assets/shots/ghost-firehouse.jpg",
+      "imageSource": "https://www.extstreet.com/Ghostbusters.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1747559730444782444396513.jpg",
+      "shotDescription": "Депо Hook & Ladder 8 в «Охотниках за привидениями»: красные ворота и угловой фасад штаба.",
+      "verified": true,
+      "timecode": "0:15:48"
     },
     {
       "id": "tiffany-window",
@@ -545,7 +805,13 @@
       "precision": "exact",
       "description": "Ранним утром Холли Голайтли выходит из такси и завтракает перед витриной Tiffany. Бумажный стаканчик, вечернее платье и почти пустая Пятая авеню сразу задают тон её мечте о красивой жизни.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/b/Breakfast-At-Tiffanys.php"
+      "locationSource": "https://www.movie-locations.com/movies/b/Breakfast-At-Tiffanys.php",
+      "image": "assets/shots/tiffany-window.jpg",
+      "imageSource": "https://www.extstreet.com/Breakfast_at_Tiffany's.html",
+      "imageOriginal": "https://www.extstreet.com/stills/43296052048265116197990979175783075687.jpg",
+      "shotDescription": "Холли Голайтли перед витриной Tiffany в начальном эпизоде фильма; видны вывеска и окно ювелирного магазина.",
+      "verified": true,
+      "timecode": "0:00:36"
     },
     {
       "id": "homealone-hotel",
@@ -556,9 +822,15 @@
       "lat": 40.76453,
       "lng": -73.97447,
       "precision": "exact",
-      "description": "Оказавшись в Нью-Йорке без семьи, Кевин добирается до Plaza и с помощью записанного голоса взрослого убеждает сотрудников отеля поселить его в номере. Потерявшийся ребёнок начинает собственные роскошные каникулы.",
+      "description": "Оказавшись в Нью-Йорке без семьи, Кевин добирается до отеля Plaza и заселяется с помощью отцовской кредитной карты. Потерявшийся ребёнок начинает собственные роскошные каникулы.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/h/Home-Alone-2.php"
+      "locationSource": "https://www.extstreet.com/Home_Alone_2_Lost_in_New_York.html",
+      "image": "assets/shots/homealone-hotel.jpg",
+      "imageSource": "https://www.extstreet.com/Home_Alone_2_Lost_in_New_York.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1241702084775192583671964696738806002569997962837435.jpg",
+      "shotDescription": "Кевин у украшенного к Рождеству входа в Plaza: кадр из эпизода его прибытия в отель.",
+      "verified": true,
+      "timecode": "0:26:22"
     },
     {
       "id": "homealone-tree",
@@ -571,7 +843,13 @@
       "precision": "exact",
       "description": "Кевин приходит к огромной рождественской ёлке и просит вернуть ему маму. Она догадывается, где искать сына: праздничная площадь становится местом их долгожданного воссоединения.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/h/Home-Alone-2.php"
+      "locationSource": "https://www.movie-locations.com/movies/h/Home-Alone-2.php",
+      "image": "assets/shots/homealone-tree.jpg",
+      "imageSource": "https://www.extstreet.com/Home_Alone_2_Lost_in_New_York.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1241702084775192583671964696738806002569997962987202.jpg",
+      "shotDescription": "Кевин перед рождественской ёлкой Рокфеллер-центра в финальном эпизоде встречи с мамой.",
+      "verified": true,
+      "timecode": "1:50:38"
     },
     {
       "id": "rocky-steps",
@@ -584,7 +862,12 @@
       "precision": "exact",
       "description": "Во время подготовки к бою Рокки взбегает по ступеням музея и поднимает руки над городом. Лестница превращает тяжёлую ежедневную тренировку в маленькую победу, которую можно увидеть и почувствовать.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/r/Rocky.php"
+      "locationSource": "https://www.movie-locations.com/movies/r/Rocky.php",
+      "image": "assets/shots/rocky-steps.jpg",
+      "imageSource": "https://wp.iamnotastalker.com/2019/07/22/the-philadelphia-museum-of-art-from-rocky/",
+      "imageOriginal": "https://wp.iamnotastalker.com/wp-content/uploads/2019/07/c69229e0-8f5c-4f49-9720-05c009547d87.jpg",
+      "shotDescription": "Рокки в сером тренировочном костюме поднимает руки на вершине лестницы Художественного музея Филадельфии; вдали виден город.",
+      "verified": true
     },
     {
       "id": "vertigo-bay",
@@ -597,7 +880,13 @@
       "precision": "exact",
       "description": "Скотти наблюдает за Мадлен у подножия моста Золотые Ворота. Когда она падает в воду, он бросается ей на помощь: слежка превращается в личную связь и ещё глубже затягивает его в загадку.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/v/Vertigo.php"
+      "locationSource": "https://www.movie-locations.com/movies/v/Vertigo.php",
+      "image": "assets/shots/vertigo-bay.jpg",
+      "imageSource": "https://www.extstreet.com/Vertigo.html",
+      "imageOriginal": "https://www.extstreet.com/stills/2271027505867009249.jpg",
+      "shotDescription": "Мадлен у воды под мостом Золотые Ворота; видны красная опора моста, залив и набережная Форт-Пойнт.",
+      "verified": true,
+      "timecode": "0:42:34"
     },
     {
       "id": "vertigo-mission",
@@ -610,7 +899,13 @@
       "precision": "exact",
       "description": "Скотти возвращается к миссии и заставляет Джуди подняться по лестнице колокольни. Здесь он пытается восстановить правду о прошлом и справиться со страхом высоты, определившим его жизнь.",
       "note": "Экранная колокольня — художественное дополнение: такой высокой башни у реальной миссии не было.",
-      "locationSource": "https://www.movie-locations.com/movies/v/Vertigo.php"
+      "locationSource": "https://www.movie-locations.com/movies/v/Vertigo.php",
+      "image": "assets/shots/vertigo-mission.jpg",
+      "imageSource": "https://film-grab.com/2013/02/28/vertigo/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/61%20%281114%29.jpg?bwg=1547479422",
+      "frameIndex": 61,
+      "shotDescription": "Ночной общий план миссии Сан-Хуан-Баутиста с экранной колокольней перед финальным возвращением Скотти и Джуди. Последующие кадры галереи показывают подъём в башню; это не более ранний визит в миссию Долорес.",
+      "verified": true
     },
     {
       "id": "lalaland-griffith",
@@ -623,7 +918,13 @@
       "precision": "exact",
       "description": "Миа и Себастьян приходят в обсерваторию и продолжают своё свидание в планетарии. Их танец освобождается от земного притяжения: Лос-Анджелес на несколько минут становится музыкальной фантазией.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/l/La-La-Land.php"
+      "locationSource": "https://www.movie-locations.com/movies/l/La-La-Land.php",
+      "image": "assets/shots/lalaland-griffith.jpg",
+      "imageSource": "https://film-grab.com/2019/04/12/la-la-land/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/lalal026.jpg?bwg=1551286197",
+      "frameIndex": 26,
+      "shotDescription": "Миа и Себастьян внутри обсерватории Гриффита рядом с маятником во время ночного свидания. Видна характерная затемнённая ротонда; на этом месте начинается их переход к планетарию.",
+      "verified": true
     },
     {
       "id": "lalaland-bench",
@@ -636,7 +937,13 @@
       "precision": "exact",
       "description": "Миа и Себастьян идут к машинам и останавливаются над вечерним городом. Поддразнивание превращается в совместный танец — герои отрицают взаимное влечение, пока их движения рассказывают обратное.",
       "note": "Скамейку и фонарь установили для съёмок; постоянными элементами смотровой площадки они не были.",
-      "locationSource": "https://www.movie-locations.com/movies/l/La-La-Land.php"
+      "locationSource": "https://www.movie-locations.com/movies/l/La-La-Land.php",
+      "image": "assets/shots/lalaland-bench.jpg",
+      "imageSource": "https://film-grab.com/2019/04/12/la-la-land/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/lalal021.jpg?bwg=1551286196",
+      "frameIndex": 21,
+      "shotDescription": "Миа в жёлтом платье и Себастьян исполняют танец на смотровой площадке Cathy’s Corner в Гриффит-парке на закате.",
+      "verified": true
     },
     {
       "id": "lost-bar",
@@ -649,7 +956,13 @@
       "precision": "exact",
       "description": "Боб и Шарлотта встречаются в баре отеля высоко над Токио. Двое людей, не находящих себе места в чужом городе, начинают разговор, из которого вырастает короткая и важная для обоих дружба.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/l/Lost-In-Translation.php"
+      "locationSource": "https://www.movie-locations.com/movies/l/Lost-In-Translation.php",
+      "image": "assets/shots/lost-bar.jpg",
+      "imageSource": "https://film-grab.com/2010/09/21/lost-in-translation/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/22%20%28643%29.jpg?bwg=1547229509",
+      "frameIndex": 22,
+      "shotDescription": "Боб и Шарлотта сидят с напитками у стойки New York Bar в Park Hyatt; за ними видны огни ночного Токио.",
+      "verified": true
     },
     {
       "id": "lost-karaoke",
@@ -662,7 +975,13 @@
       "precision": "exact",
       "description": "Боб и Шарлотта проводят ночь с новыми знакомыми в караоке. За чужими песнями и шутками появляется редкое ощущение свободы от повседневных ролей — знаменитого актёра и растерянной молодой жены.",
       "note": "Караоке-сцены снимали в Karaoke Kan на Udagawacho.",
-      "locationSource": "https://www.movie-locations.com/movies/l/Lost-In-Translation.php"
+      "locationSource": "https://www.movie-locations.com/movies/l/Lost-In-Translation.php",
+      "image": "assets/shots/lost-karaoke.jpg",
+      "imageSource": "https://film-grab.com/2010/09/21/lost-in-translation/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/31%20%28637%29.jpg?bwg=1547229508",
+      "frameIndex": 31,
+      "shotDescription": "Боб поёт с микрофоном перед Шарлоттой и друзьями в комнате Karaoke Kan в Сибуе; видны диван, стол и гирлянды комнаты.",
+      "verified": true
     },
     {
       "id": "yourname-stairs",
@@ -674,7 +993,13 @@
       "lng": 139.72253,
       "precision": "exact",
       "description": "Таки и Мицуха замечают друг друга в городе и встречаются на лестнице. Они не могут объяснить ощущение узнавания, но наконец решаются остановиться и спросить друг друга об имени.",
-      "note": "Анимационная сцена воспроизводит реальную лестницу у храма Суга. Это место действия и визуальный прототип, а не съёмочная площадка."
+      "note": "Анимационная сцена воспроизводит реальную лестницу у храма Суга. Это место действия и визуальный прототип, а не съёмочная площадка.",
+      "image": "assets/shots/yourname-stairs.jpg",
+      "imageSource": "https://film-grab.com/2026/07/13/your-name/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/Your_Name_64.jpg?bwg=1701349712",
+      "frameIndex": 64,
+      "shotDescription": "Таки и Мицуха встречаются на лестнице с красными перилами у храма Суга в финальной сцене.",
+      "verified": true
     },
     {
       "id": "chungking-snack",
@@ -686,7 +1011,13 @@
       "lng": 114.1557,
       "precision": "approx",
       "description": "Фэй работает в закусочной, слушает California Dreamin’ и наблюдает за полицейским 663. Между заказами и случайными разговорами начинается история о том, как чужое одиночество незаметно становится своим делом.",
-      "note": "Закусочная Midnight Express связана с Central и районом эскалатора Mid-Levels. Отметка обозначает район, а не сохранившуюся точку питания."
+      "note": "Закусочная Midnight Express связана с Central и районом эскалатора Mid-Levels. Отметка обозначает район, а не сохранившуюся точку питания.",
+      "image": "assets/shots/chungking-snack.jpg",
+      "imageSource": "https://film-grab.com/2014/10/20/chungking-express/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/41%20%28242%29.jpg?bwg=1547204683",
+      "frameIndex": 41,
+      "shotDescription": "Полицейский 663 пьёт кофе перед Фэй у стойки закусочной Midnight Express; видны плитка, витрина и соусы закусочной.",
+      "verified": true
     },
     {
       "id": "mood-noodles",
@@ -698,19 +1029,32 @@
       "lng": 114.1772,
       "precision": "approx",
       "description": "Су Личжэнь и Чоу Мован всё чаще пересекаются у съёмных комнат и по дороге за лапшой. Внешне случайные встречи постепенно становятся историей близости, которую герои не позволяют себе назвать.",
-      "note": "Указан город действия. Значительная часть Гонконга 1960-х была воссоздана на локациях Бангкока; точного адреса героев карта не утверждает."
+      "note": "Указан город действия. Значительная часть Гонконга 1960-х была воссоздана на локациях Бангкока; точного адреса героев карта не утверждает.",
+      "image": "assets/shots/mood-noodles.jpg",
+      "imageSource": "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/18%20%28504%29.jpg?bwg=1547222277",
+      "frameIndex": 18,
+      "shotDescription": "Чоу Мован стоит в узком переулке у лапшичной под настенным фонарём в повторяющейся последовательности походов героев за лапшой.",
+      "verified": true
     },
     {
       "id": "parasite-rain",
       "film": "parasite",
-      "title": "Спуск под дождём",
-      "place": "Сеул",
+      "title": "Путь домой под дождём",
+      "place": "Тоннель Чахамун · Сеул",
       "country": "Южная Корея",
-      "lat": 37.5722,
-      "lng": 126.9752,
-      "precision": "approx",
+      "lat": 37.59116,
+      "lng": 126.96541,
+      "precision": "exact",
       "description": "Кимы уходят из дома Паков под проливным дождём и всё ниже спускаются по городским лестницам. Возвращение в затопленное жильё превращает маршрут через Сеул в наглядную карту социального неравенства.",
-      "note": "Отметка обозначает Сеул по сюжету. В маршруте использованы разные площадки, в том числе лестница у тоннеля Чахамун; дом Паков построили как декорацию."
+      "note": "На кадре семья проходит внутри тоннеля Чахамун. Предшествующие и последующие лестницы в этой последовательности снимали в нескольких других районах Сеула; дом Паков был построен как декорация.",
+      "image": "assets/shots/parasite-rain.jpg",
+      "imageSource": "https://film-grab.com/2024/02/05/parasite/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/Parasite_41.jpg?bwg=1699894052",
+      "frameIndex": 41,
+      "shotDescription": "Трое членов семьи Ким идут по пешеходной дорожке внутри тоннеля Чахамун под дождём, возвращаясь от дома Паков. Видны характерные арочные панели и красные сигналы тоннеля.",
+      "verified": true,
+      "locationSource": "https://english.visitseoul.net/other/Jahamun-Tunnel/ENP037158"
     },
     {
       "id": "slumdog-station",
@@ -722,7 +1066,13 @@
       "lng": 72.83598,
       "precision": "exact",
       "description": "После завершения основной истории Джамаль и Латика появляются в большом танцевальном номере под Jai Ho. Вокзальная платформа превращается в пространство праздничного финала с участием героев разных возрастов.",
-      "note": "Это музыкальная кода на титрах, а не буквальное продолжение событий основного сюжета."
+      "note": "Это музыкальная кода на титрах, а не буквальное продолжение событий основного сюжета.",
+      "image": "assets/shots/slumdog-station.jpg",
+      "imageSource": "https://film-grab.com/2018/02/19/slumdog-millionaire/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/slumdog062.jpg?bwg=1546960832",
+      "frameIndex": 62,
+      "shotDescription": "Джамаль и Латика танцуют вместе с большой группой на платформе вокзала Чхатрапати-Шиваджи в номере Jai Ho; по обе стороны видны поезда.",
+      "verified": true
     },
     {
       "id": "lunchbox-delivery",
@@ -734,7 +1084,13 @@
       "lng": 72.8562,
       "precision": "approx",
       "description": "Домашний обед Илы по ошибке попадает к бухгалтеру Сааджану. Он возвращает пустые контейнеры, а она вкладывает записку: ежедневная доставка становится перепиской двух одиноких людей.",
-      "note": "Отметка обозначает город. Доставка проходит через несколько районов, поэтому единственный точный адрес был бы условностью."
+      "note": "Отметка обозначает город. Доставка проходит через несколько районов, поэтому единственный точный адрес был бы условностью.",
+      "image": "assets/shots/lunchbox-delivery.jpg",
+      "imageSource": "https://www.themoviedb.org/movie/191714/images/backdrops?language=en-US",
+      "imageOriginal": "https://media.themoviedb.org/t/p/w780/8J34fjRNdYyLXzAmt9LYvj91MRp.jpg",
+      "frameIndex": 4,
+      "shotDescription": "Сааджан ест из стального контейнера с доставленным обедом, сидя за своим столом в мумбайском офисе среди других работников. Это один кадр, не рекламный коллаж.",
+      "verified": true
     },
     {
       "id": "separation-court",
@@ -746,7 +1102,13 @@
       "lng": 51.389,
       "precision": "approx",
       "description": "Надер и Симин объясняют судье, почему не могут договориться о будущем семьи. Один хочет остаться рядом с больным отцом, другая — уехать ради дочери; вступительная сцена задаёт конфликт без простого виновника.",
-      "note": "Указан Тегеран по сюжету, без утверждения конкретного адреса суда."
+      "note": "Указан Тегеран по сюжету, без утверждения конкретного адреса суда.",
+      "image": "assets/shots/separation-court.jpg",
+      "imageSource": "https://www.themoviedb.org/movie/60243/images/backdrops?language=en-US",
+      "imageOriginal": "https://media.themoviedb.org/t/p/w780/6DEl5KfpKkS6ZEiy4s9s7EukpAB.jpg",
+      "frameIndex": 2,
+      "shotDescription": "Надер и Симин сидят рядом на стульях лицом к судье во вступительной судебной сцене. Совпадают персонажи, одежда и простая стена помещения суда.",
+      "verified": true
     },
     {
       "id": "emperor-palace",
@@ -758,7 +1120,13 @@
       "lng": 116.39716,
       "precision": "exact",
       "description": "Маленький Пу И становится императором и видит перед собой огромный двор преклонившихся людей. Контраст детского любопытства и монументального церемониала показывает власть как мир, в котором ему предстоит вырасти.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/emperor-palace.jpg",
+      "imageSource": "https://film-grab.com/2024/08/13/the-last-emperor/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Last_Emperor_13.jpg?bwg=1715934758",
+      "frameIndex": 13,
+      "shotDescription": "Маленький Пу И стоит на жёлтой церемониальной дорожке перед рядами придворных во дворе Запретного города во время вступления на престол.",
+      "verified": true
     },
     {
       "id": "citygod-camera",
@@ -770,7 +1138,13 @@
       "lng": -43.3627,
       "precision": "approx",
       "description": "Бускапе оказывается между вооружёнными группами и полицией с фотоаппаратом в руках. Возможность сделать снимок становится шансом рассказать историю своего района и найти собственный выход из круга насилия.",
-      "note": "Отметка обозначает район действия. Фильм снимали также в других районах Рио, включая Нову-Сепетибу."
+      "note": "Отметка обозначает район действия. Фильм снимали также в других районах Рио, включая Нову-Сепетибу.",
+      "image": "assets/shots/citygod-camera.jpg",
+      "imageSource": "https://film-grab.com/2020/12/17/city-of-god/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/City_of_God_001.jpg?bwg=1602064526",
+      "frameIndex": 1,
+      "shotDescription": "Бускапе с фотоаппаратом смотрит через видоискатель в открывающей последовательности на улицах Сидади-ди-Деус. Это реальный кадр сцены, а не афиша.",
+      "verified": true
     },
     {
       "id": "motorcycle-machu",
@@ -782,7 +1156,13 @@
       "lng": -72.54496,
       "precision": "exact",
       "description": "Эрнесто и Альберто останавливаются среди руин Мачу-Пикчу и размышляют о судьбе коренных жителей континента. Путешествие друзей всё заметнее перестаёт быть только приключением на мотоцикле.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/motorcycle-machu.jpg",
+      "imageSource": "https://film-grab.com/2025/02/17/the-motorcycle-diaries/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/The_Motorcycle_Diaries_32.jpg?bwg=1718182880",
+      "frameIndex": 32,
+      "shotDescription": "Эрнесто и Альберто со спины сидят перед руинами и характерными горами Мачу-Пикчу во время разговора о судьбе коренных жителей.",
+      "verified": true
     },
     {
       "id": "motorcycle-river",
@@ -795,7 +1175,15 @@
       "precision": "approx",
       "description": "В день рождения Эрнесто переплывает реку, чтобы оказаться рядом с пациентами лепрозория. Река, разделяющая больных и персонал, становится границей, которую он решает пересечь буквально.",
       "note": "Указан район исторического лепрозория Сан-Пабло в Перу. Положение приблизительное, не точка съёмки речной сцены.",
-      "locationSource": "https://en.wikipedia.org/wiki/San_Pablo,_Peru"
+      "locationSource": "https://en.wikipedia.org/wiki/San_Pablo,_Peru",
+      "image": "assets/shots/motorcycle-river.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=i6_k0Tkw8rk&t=116s",
+      "imageOriginal": "https://www.youtube.com/watch?v=i6_k0Tkw8rk&t=116s",
+      "sourceVideo": "https://www.youtube.com/watch?v=i6_k0Tkw8rk",
+      "sourceVideoTime": 116,
+      "licensedSceneReference": "https://www.youtube.com/watch?v=KBh1vdpGWhE",
+      "shotDescription": "Эрнесто плывёт ночью через реку у лепрозория Сан-Пабло: в воде видны его голова, рука и синие всплески. Кадр извлечён на 1:56 из короткого фрагмента именно сцены переплывания; лодки и плота здесь нет.",
+      "verified": true
     },
     {
       "id": "central-letters",
@@ -807,19 +1195,32 @@
       "lng": -43.1912,
       "precision": "exact",
       "description": "Дора зарабатывает тем, что пишет письма за неграмотных пассажиров. На вокзале она знакомится с Анной и её сыном Жозуэ: случайная работа становится началом путешествия, меняющего её отношение к людям.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/central-letters.jpg",
+      "imageSource": "https://www.atmospheres53.org/film/central-do-brasil/",
+      "imageOriginal": "https://www.atmospheres53.org/wp-content/uploads/2022/05/Central-do-Brasil-4-1170x700.png",
+      "locationSource": "https://www.ucd.ie/t4cms/Central%20Station%20-%20Andrew%20Jackson.pdf",
+      "shotDescription": "Анна и её сын Жозуэ стоят перед столом Доры во вступительной сцене диктовки письма в Центральном вокзале Рио. На кадре мать мальчика Анна, а не пожилая Дора.",
+      "verified": true
     },
     {
       "id": "algiers-casbah",
       "film": "algiers",
-      "title": "Город становится лабиринтом",
+      "title": "Гнев на улицах Касбы",
       "place": "Касба · Алжир",
       "country": "Алжир",
       "lat": 36.7842,
       "lng": 3.06,
       "precision": "approx",
-      "description": "Али Ла Пуэнт включается в подпольную борьбу. Узкие улицы Касбы связывают встречи, погони и тайные переходы, а сам район становится одним из главных участников истории города.",
-      "note": "Показан район действия. Фильм реконструирует исторические события художественными средствами."
+      "description": "После взрыва в Касбе Али Ла Пуэнт идёт по улицам вместе с возмущённой толпой. Частная боль становится общим гневом: квартал показан как пространство солидарности, страха и нарастающего насилия.",
+      "note": "Показан район действия. Фильм реконструирует исторические события художественными средствами.",
+      "image": "assets/shots/algiers-casbah.jpg",
+      "imageSource": "https://www.sensesofcinema.com/2026/feature-articles/the-eternal-return-the-battle-of-algiers-at-60/",
+      "imageOriginal": "https://www.sensesofcinema.com/wp-content/uploads/2026/07/IMAGE-19.jpg",
+      "shotDescription": "После взрыва в Касбе Али Ла Пуэнт идёт с возмущённой толпой по улицам квартала. Эпизод и кадр идентифицированы в покадровом разборе Senses of Cinema.",
+      "verified": true,
+      "width": 1000,
+      "height": 542
     },
     {
       "id": "cairo-station",
@@ -831,7 +1232,14 @@
       "lng": 31.2473,
       "precision": "exact",
       "description": "Продавец газет Кинави наблюдает за торговкой напитками Ханумой и мечтает о взаимности. На переполненном вокзале его одиночество сталкивается с повседневной жизнью работников и постепенно превращается в опасную одержимость.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/cairo-station.jpg",
+      "imageSource": "https://film-grab.com/2017/01/05/cairo-station/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/2635 (1).jpg?bwg=1547130068",
+      "shotDescription": "Ханума, торговка напитками, рядом с работником вокзала под узнаваемой крышей железнодорожных платформ; кадр действия фильма на Каирском вокзале.",
+      "verified": true,
+      "width": 786,
+      "height": 480
     },
     {
       "id": "touki-dakar",
@@ -842,8 +1250,15 @@
       "lat": 14.6928,
       "lng": -17.4467,
       "precision": "approx",
-      "description": "Мори и Анта ездят по Дакару на мотоцикле с рогами и мечтают добраться до Парижа. Городские улицы и морское побережье становятся пространством их планов, дерзких поступков и сомнений перед отъездом.",
-      "note": "Отметка обозначает город действия; экранный маршрут соединяет несколько мест Дакара."
+      "description": "Мори едет по Дакару на мотоцикле с рогами на руле. Вместе с Антой он мечтает добраться до Парижа: улицы и побережье города становятся пространством их планов, дерзких поступков и сомнений перед отъездом.",
+      "note": "Отметка обозначает город действия; экранный маршрут соединяет несколько мест Дакара.",
+      "image": "assets/shots/touki-dakar.jpg",
+      "imageSource": "https://film-grab.com/2022/09/01/touki-bouki/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/Touki_Bouki_012.jpg?bwg=1660727651",
+      "shotDescription": "Мори едет на мотоцикле с рогами по улице Дакара; в кадре видны рога над фарой, склон улицы и указатель к часовне.",
+      "verified": true,
+      "width": 1000,
+      "height": 729
     },
     {
       "id": "piano-beach",
@@ -855,33 +1270,68 @@
       "lng": 174.479,
       "precision": "approx",
       "description": "Ада и её дочь высаживаются на берег вместе с вещами и пианино. Инструмент остаётся на пляже, когда новые спутники отказываются нести его через лес: разлука с ним становится для Ады потерей собственного голоса.",
-      "note": "Действие — Новая Зеландия XIX века, без современного адреса. Знаменитый берег снимали на пляже Карекаре; точка привязана к этому визуальному ориентиру."
+      "note": "Действие — Новая Зеландия XIX века, без современного адреса. Знаменитый берег снимали на пляже Карекаре; точка привязана к этому визуальному ориентиру.",
+      "image": "assets/shots/piano-beach.jpg",
+      "imageSource": "https://film-grab.com/2013/09/17/the-piano/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/06 (1135).jpg?bwg=1547469278",
+      "shotDescription": "Начальная высадка на пляже Карекаре: Ада, Флора, лодка, багаж и пианино на песке перед прибоями.",
+      "verified": true,
+      "width": 1000,
+      "height": 538
     },
     {
       "id": "dundee-outback",
       "film": "dundee",
-      "title": "Встреча в австралийской глубинке",
-      "place": "Северная территория",
+      "title": "Бритьё перед Нурланги",
+      "place": "Анбангбанг-биллабонг · Какаду",
       "country": "Австралия",
-      "lat": -12.8667,
-      "lng": 132.8333,
+      "lat": -12.8688,
+      "lng": 132.8126,
       "precision": "approx",
-      "description": "Журналистка Сью приезжает познакомиться с Миком Данди и отправляется с ним в буш. Его привычки и уверенность в дикой природе становятся для неё первым знакомством с человеком за газетной легендой.",
-      "note": "Поселение Уоллаби-Крик вымышлено. Показан регион действия; природные сцены снимали в том числе в Какаду.",
-      "locationSource": "https://www.movie-locations.com/movies/c/Crocodile-Dundee.php"
+      "description": "Во время первой прогулки по бушу Мик изображает бритьё своим огромным ножом, пытаясь впечатлить Сью. За героями возвышается Нурланги: австралийский пейзаж становится частью истории об опыте Данди и его показной невозмутимости.",
+      "note": "Кадр снят у Anbangbang Billabong в Какаду; показанный на заднем плане массив — Нурланги. Отметка обозначает район, а не точное положение камеры.",
+      "locationSource": "https://www.movie-locations.com/movies/c/Crocodile-Dundee.php",
+      "image": "assets/shots/dundee-outback.jpg",
+      "imageSource": "https://nycinfilm.com/2024/03/28/crocodile-dundee-1986/",
+      "imageOriginal": "https://nycinfilm.com/wp-content/uploads/2024/03/croc-australia5.jpg",
+      "shotDescription": "Мик изображает бритьё огромным ножом, Сью рядом; за ними узнаваемый массив Нурланги у Anbangbang Billabong в Какаду.",
+      "verified": true,
+      "width": 1000,
+      "height": 423,
+      "cropBox": [
+        0,
+        0,
+        2267,
+        959
+      ],
+      "cropNote": "Из сопоставления «тогда и сейчас» сохранена только верхняя половина — настоящий кадр фильма; современное фото исключено."
     },
     {
       "id": "dundee-nyc",
       "film": "dundee",
       "title": "Вот это нож",
-      "place": "Манхэттен · Нью-Йорк",
+      "place": "Аркада Municipal Building · Нью-Йорк",
       "country": "США",
-      "lat": 40.754,
-      "lng": -73.984,
-      "precision": "approx",
+      "lat": 40.7128,
+      "lng": -74.0037,
+      "precision": "exact",
       "description": "На вечерней прогулке в Нью-Йорке Мик и Сью сталкиваются с уличным грабителем. Данди отвечает на маленький нож своим охотничьим — его австралийский опыт неожиданно работает и в большом городе.",
-      "note": "Указан район действия, без утверждения точного перекрёстка. У этого фильма есть и австралийская точка на карте.",
-      "locationSource": "https://www.movie-locations.com/movies/c/Crocodile-Dundee.php"
+      "note": "Сцена с ножом происходит в южной аркаде Municipal Building у выхода станции Chambers Street, 1 Centre Street.",
+      "locationSource": "https://www.movie-locations.com/movies/c/Crocodile-Dundee.php",
+      "image": "assets/shots/dundee-nyc.jpg",
+      "imageSource": "https://nycinfilm.com/2024/03/28/crocodile-dundee-1986/",
+      "imageOriginal": "https://nycinfilm.com/wp-content/uploads/2024/03/croc-mug4b.jpg",
+      "shotDescription": "Мик Данди с ножом и Сью в ночной аркаде Municipal Building, в сцене встречи с грабителями.",
+      "verified": true,
+      "width": 1000,
+      "height": 425,
+      "cropBox": [
+        0,
+        0,
+        1946,
+        827
+      ],
+      "cropNote": "Из сопоставления «тогда и сейчас» сохранена только верхняя половина — настоящий кадр фильма; современное фото исключено."
     },
     {
       "id": "wings-angel",
@@ -894,7 +1344,14 @@
       "precision": "exact",
       "description": "Ангел Дамиэль смотрит на Берлин с высоты Колонны Победы и слушает человеческие мысли. Город открывается как множество отдельных внутренних миров, к которым он может приблизиться, но пока не может присоединиться.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/w/Wings-Of-Desire.php"
+      "locationSource": "https://www.movie-locations.com/movies/w/Wings-Of-Desire.php",
+      "image": "assets/shots/wings-angel.jpg",
+      "imageSource": "https://film-grab.com/2013/09/26/wings-of-desire/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/23 (1330).jpg?bwg=1547481682",
+      "shotDescription": "Дамиэль сидит на плече позолоченной Виктории: лицо статуи и крыло Колонны Победы занимают кадр.",
+      "verified": true,
+      "width": 1000,
+      "height": 555
     },
     {
       "id": "wings-library",
@@ -907,20 +1364,36 @@
       "precision": "exact",
       "description": "Ангелы проходят между читателями библиотеки и слышат их мысли. Тихий зал оказывается наполнен голосами, воспоминаниями и вопросами: чтение становится ещё одной формой человеческого одиночества и общения.",
       "note": "Показана библиотека на Potsdamer Straße.",
-      "locationSource": "https://www.movie-locations.com/movies/w/Wings-Of-Desire.php"
+      "locationSource": "https://www.movie-locations.com/movies/w/Wings-Of-Desire.php",
+      "image": "assets/shots/wings-library.jpg",
+      "imageSource": "https://film-grab.com/2013/09/26/wings-of-desire/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/13 (1330).jpg?bwg=1547481684",
+      "shotDescription": "Гомер сидит в читальном зале Государственной библиотеки на Potsdamer Straße; видны характерные галереи, перила и столы внизу.",
+      "verified": true,
+      "width": 1000,
+      "height": 555
     },
     {
       "id": "paradiso-square",
       "film": "paradiso",
       "title": "Кино для всей площади",
-      "place": "Джанкольдо · Сицилия",
+      "place": "Площадь Умберто I · Палаццо-Адриано",
       "country": "Италия",
       "lat": 37.6807,
       "lng": 13.4273,
       "precision": "approx",
       "description": "Альфредо направляет изображение из кинозала на стену дома напротив. Люди смотрят фильм прямо с площади: кино на несколько минут выходит за пределы здания и становится общим городским праздником.",
       "note": "Джанкольдо — вымышленный город. Его экранный образ связан с несколькими местами Сицилии; точка показывает Палаццо-Адриано, где снимали площадь.",
-      "locationSource": "https://www.movie-locations.com/movies/c/Cinema-Paradiso.php"
+      "locationSource": "https://www.movie-locations.com/movies/c/Cinema-Paradiso.php",
+      "image": "assets/shots/paradiso-square.jpg",
+      "imageSource": "https://film-grab.com/2014/06/10/cinema-paradiso/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/30 (246).jpg?bwg=1547204778",
+      "shotDescription": "Тото и Альфредо проецируют кино на стену дома напротив: в кадре ночная площадь с фонтаном и экранным изображением на фасаде.",
+      "verified": true,
+      "width": 1000,
+      "height": 598,
+      "mapBasis": "filming",
+      "storyPlace": "Джанкольдо · вымышленный сицилийский город"
     },
     {
       "id": "potemkin-stairs",
@@ -932,7 +1405,14 @@
       "lng": 30.7412,
       "precision": "exact",
       "description": "Во время расстрела толпы по ступеням катится детская коляска. Монтаж отдельных лиц, движения солдат и стремительного спуска превращает лестницу в один из самых известных образов немого кино.",
-      "note": "Это художественная сцена, а не документальная съёмка. Конкретного расстрела на лестнице, показанного в фильме, исторические источники не подтверждают."
+      "note": "Это художественная сцена, а не документальная съёмка. Конкретного расстрела на лестнице, показанного в фильме, исторические источники не подтверждают.",
+      "image": "assets/shots/potemkin-stairs.jpg",
+      "imageSource": "https://film-grab.com/2014/12/17/battleship-potemkin/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/47 (121).jpg?bwg=1547149152",
+      "shotDescription": "Расстрел на Одесской лестнице: мать с ребёнком стоит на ступенях перед строем солдат, вокруг лежат погибшие.",
+      "verified": true,
+      "width": 910,
+      "height": 699
     },
     {
       "id": "potemkin-harbor",
@@ -944,7 +1424,14 @@
       "lng": 30.7505,
       "precision": "approx",
       "description": "Жители Одессы приходят проститься с погибшим матросом Вакуленчуком. Частная смерть становится общей причиной сочувствия восставшей команде: порт соединяет корабль и город.",
-      "note": "Отметка обозначает портовый район действия."
+      "note": "Отметка обозначает портовый район действия.",
+      "image": "assets/shots/potemkin-harbor.jpg",
+      "imageSource": "https://film-grab.com/2014/12/17/battleship-potemkin/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/28 (126).jpg?bwg=1547149153",
+      "shotDescription": "Палатка с телом Вакуленчука на одесской набережной; к ней подходят горожане, за ними видны корабли порта.",
+      "verified": true,
+      "width": 910,
+      "height": 699
     },
     {
       "id": "midnight-steps",
@@ -957,7 +1444,14 @@
       "precision": "exact",
       "description": "Заблудившийся Гил садится на ступени и слышит бой полуночных часов. Подъезжает старинный автомобиль, пассажиры зовут его с собой — обычная прогулка по Парижу превращается в путешествие в любимую эпоху.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/m/Midnight-In-Paris.php"
+      "locationSource": "https://www.movie-locations.com/movies/m/Midnight-In-Paris.php",
+      "image": "assets/shots/midnight-steps.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/204/Midnight-in-Paris/Saint-tienne-du-Mont",
+      "imageOriginal": "https://www.sceen-it.com/Service/sceenit/sceen/thumb/2404.jpg/w/1000/h/600/crop/false/jpg/true/nos/59436_05_MidnightinParis_SaintE%e2%95%a0%c3%bctienneduMont_01.jpg",
+      "shotDescription": "Гил сидит ночью на изогнутых каменных ступенях бокового входа Сент-Этьен-дю-Мон, перед появлением старинного автомобиля.",
+      "verified": true,
+      "width": 1000,
+      "height": 542
     },
     {
       "id": "roman-farewell",
@@ -970,7 +1464,14 @@
       "precision": "exact",
       "description": "Анна возвращается к официальным обязанностям и отвечает на вопросы журналистов. Среди них стоит Джо: вместо продолжения римской прогулки героям остаётся короткий публичный разговор, в котором слышится их личное прощание.",
       "note": "",
-      "locationSource": "https://www.movie-locations.com/movies/r/Roman-Holiday.php"
+      "locationSource": "https://www.movie-locations.com/movies/r/Roman-Holiday.php",
+      "image": "assets/shots/roman-farewell.jpg",
+      "imageSource": "https://www.extstreet.com/Roman_Holiday.html",
+      "imageOriginal": "https://www.extstreet.com/stills/1932487392172748743185764877.jpg",
+      "shotDescription": "Пресс-конференция принцессы Анны в колонном зале Палаццо Колонна; видны мраморные колонны, лестница и журналисты.",
+      "verified": true,
+      "width": 360,
+      "height": 270
     },
     {
       "id": "sunrise-bridge",
@@ -983,7 +1484,14 @@
       "precision": "exact",
       "description": "В начале прогулки Джесси и Селин встречают на мосту двух молодых актёров и спрашивают, куда сходить в Вене. Те приглашают их на свой спектакль: случайное знакомство открывает город как пространство неожиданных встреч.",
       "note": "",
-      "locationSource": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations"
+      "locationSource": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations",
+      "image": "assets/shots/sunrise-bridge.jpg",
+      "imageSource": "https://www.extstreet.com/Before_Sunrise.html",
+      "imageOriginal": "https://www.extstreet.com/stills/48491991301820526229506838281.jpg",
+      "shotDescription": "Джесси и Селин разговаривают с двумя актёрами на зелёном металлическом мосту Zollamtssteg.",
+      "verified": true,
+      "width": 360,
+      "height": 192
     },
     {
       "id": "amelie-shop",
@@ -996,7 +1504,14 @@
       "precision": "exact",
       "description": "Амели замечает, как Коллиньон унижает своего помощника Люсьена. Она решает наказать хозяина маленькими домашними розыгрышами: её привычка помогать людям оборачивается тайной защитой того, кто не умеет за себя постоять.",
       "note": "Экстерьер лавки — Au Marché de la Butte на Rue des Trois Frères.",
-      "locationSource": "https://www.movie-locations.com/movies/a/Amelie.php"
+      "locationSource": "https://www.movie-locations.com/movies/a/Amelie.php",
+      "image": "assets/shots/amelie-shop.jpg",
+      "imageSource": "https://www.extstreet.com/Amelie.html",
+      "imageOriginal": "https://www.extstreet.com/stills/56246966995044492.jpg",
+      "shotDescription": "Экстерьер лавки Коллиньона с прилавками овощей, фруктов и зелёной витриной на Rue des Trois Frères.",
+      "verified": true,
+      "width": 360,
+      "height": 152
     },
     {
       "id": "mood-angkor",
@@ -1008,7 +1523,324 @@
       "lng": 103.8667,
       "precision": "exact",
       "description": "Чоу приезжает в Ангкор-Ват и шепчет свой секрет в углубление стены. То, о чём он не смог сказать открыто, остаётся среди древних камней — вместо объяснения и окончательной точки в истории отношений.",
-      "note": ""
+      "note": "",
+      "image": "assets/shots/mood-angkor.jpg",
+      "imageSource": "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/64 (369).jpg?bwg=1547222276",
+      "shotDescription": "Финальная сцена фильма в Ангкор-Вате: силуэты главных башен храма видны через каменный дверной проём.",
+      "verified": true,
+      "width": 1000,
+      "height": 600
+    },
+    {
+      "id": "breakingbad-pollos",
+      "title": "Предложение Гуса",
+      "place": "Los Pollos Hermanos · Альбукерке",
+      "country": "США",
+      "lat": 35.014634,
+      "lng": -106.686394,
+      "precision": "exact",
+      "description": "Гус Фринг предлагает Уолтеру продолжить работу и называет новую сумму сделки. Разговор происходит в Los Pollos Hermanos: за обычным ресторанным столиком скрывается переход к гораздо более крупному и опасному бизнесу.",
+      "note": "Ресторан на экране — реальная закусочная Twisters на Isleta Boulevard; она изображает Los Pollos Hermanos в том же городе.",
+      "season": 3,
+      "episode": 1,
+      "episodeTitle": "No Más",
+      "episodeDate": "2010-03-21",
+      "director": "Брайан Крэнстон",
+      "episodeSource": "https://en.wikipedia.org/wiki/No_M%C3%A1s_(Breaking_Bad)",
+      "locationSource": "https://www.mytwisters.com/location/isleta/",
+      "film": "breakingbad",
+      "image": "assets/shots/breakingbad-pollos.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/5062/Breaking-Bad/Twisters-Burgers-and-Burritos",
+      "imageOriginal": "https://www.sceen-it.com/Service/sceenit/sceen/thumb/65078.jpg/w/600/h/340/crop/true/nos/5062_breaking%20bad_twisters%20burgers%20and%20burritos_0.jpg",
+      "verified": true,
+      "shotDescription": "Гус и Уолтер сидят друг напротив друга за столиком Los Pollos Hermanos; видны красно-жёлтые перегородки и жалюзи реального Twisters."
+    },
+    {
+      "id": "friends-bedford",
+      "title": "Дом, где собираются друзья",
+      "place": "Дом на Bedford Street · Нью-Йорк",
+      "country": "США",
+      "lat": 40.732076,
+      "lng": -74.005245,
+      "precision": "exact",
+      "description": "Знакомый переходный план возвращает зрителя к дому Моники, Рэйчел, Джоуи и Чендлера. Этот фасад связывает повседневные разговоры, встречи и ссоры героев с нью-йоркским Гринвич-Виллидж.",
+      "note": "В кадре — настоящий экстерьер 90 Bedford Street. Квартиры героев снимали в студии в Калифорнии; показанный фасад не является реальным интерьером квартир.",
+      "frameCaption": "Кадр сериала · внешний план дома героев",
+      "locationSource": "https://moviemaps.org/locations/88",
+      "film": "friends",
+      "image": "assets/shots/friends-bedford.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/726/Friends/90-Bedford-Street-apartment",
+      "imageOriginal": "https://www.sceen-it.com/Service/sceenit/sceen/thumb/8190.jpg/w/600/h/340/crop/true/nos/1668_01_Friends_Appartment_01.jpg",
+      "verified": true,
+      "shotDescription": "Переходный кадр сериала: угловой фасад дома 90 Bedford Street с пожарными лестницами и красным первым этажом."
+    },
+    {
+      "id": "sherlock-baker",
+      "title": "Из дома — на первое дело",
+      "place": "187 North Gower Street · Лондон",
+      "country": "Великобритания",
+      "lat": 51.5263,
+      "lng": -0.1364,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "221B Бейкер-стрит · Лондон",
+      "description": "Шерлок и Джон покидают квартиру на такси, отправляясь по следу загадочных смертей. Повседневный лондонский фасад становится входом в их общий мир расследований.",
+      "note": "Показанный экранный дом 221B Baker Street снимали на 187 North Gower Street. Точка стоит у реально видимого в кадре фасада, а не по вымышленному экранному адресу.",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "A Study in Pink",
+      "episodeDate": "2010-07-25",
+      "director": "Пол Макгиган",
+      "episodeSource": "https://en.wikipedia.org/wiki/A_Study_in_Pink",
+      "locationSource": "https://moviemaps.org/locations/1v8",
+      "film": "sherlock",
+      "image": "assets/shots/sherlock-baker.jpg",
+      "imageSource": "https://moviemaps.org/images/2zp",
+      "imageOriginal": "https://storage.googleapis.com/moviemaps/img/2zp.8qxr5.940.jpg",
+      "verified": true,
+      "shotDescription": "Лондонское такси едет по North Gower Street; на заднем плане виден экранный дом Шерлока и соседнее кафе Speedy’s."
+    },
+    {
+      "id": "strangerthings-starcourt",
+      "title": "В кино через служебный коридор",
+      "place": "Gwinnett Place Mall · Дулут",
+      "country": "США",
+      "lat": 33.961,
+      "lng": -84.125,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "Starcourt Mall · вымышленный Хоукинс",
+      "description": "Стив смотрит, как Уилл, Лукас, Макс и Майк проходят через служебный коридор к кинотеатру. Магазин мороженого Scoops Ahoy становится их тайным входом в кино и одной из главных точек нового летнего маршрута.",
+      "note": "Хоукинс — вымышленный город Индианы. Показанный интерьер Starcourt снят в Gwinnett Place Mall в штате Джорджия; точка обозначает именно съёмочный торговый центр.",
+      "season": 3,
+      "episode": 1,
+      "episodeTitle": "Chapter One: Suzie, Do You Copy?",
+      "episodeDate": "2019-07-04",
+      "director": "Братья Даффер",
+      "episodeSource": "https://en.wikipedia.org/wiki/Stranger_Things_season_3",
+      "locationSource": "https://en.wikipedia.org/wiki/Gwinnett_Place_Mall",
+      "film": "strangerthings",
+      "image": "assets/shots/strangerthings-starcourt.jpg",
+      "imageSource": "https://moviemaps.org/images/1hq4",
+      "imageOriginal": "https://storage.googleapis.com/moviemaps/img/1hq4.fg64h1.940.jpg",
+      "verified": true,
+      "shotDescription": "Уилл, Лукас, Макс и Майк идут по служебному коридору Starcourt; позади в дверях остаётся Стив в форме Scoops Ahoy."
+    },
+    {
+      "id": "gameofthrones-kingsroad",
+      "title": "Дорога на Север",
+      "place": "Dark Hedges · Северная Ирландия",
+      "country": "Великобритания",
+      "lat": 55.1347,
+      "lng": -6.3794,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "Королевский тракт · Вестерос",
+      "description": "Арья и Джендри едут на повозке вместе с отрядом новобранцев Ночного дозора. Переплетённые кроны деревьев превращают дорогу прочь из столицы в переход к новой, пока неизвестной жизни.",
+      "note": "Вестерос не относится к географии Земли. В кадре показана настоящая буковая аллея Dark Hedges на Bregagh Road; точка отмечает место съёмки Королевского тракта.",
+      "season": 2,
+      "episode": 1,
+      "episodeTitle": "The North Remembers",
+      "episodeDate": "2012-04-01",
+      "director": "Алан Тейлор",
+      "episodeSource": "https://en.wikipedia.org/wiki/The_North_Remembers",
+      "locationSource": "https://moviemaps.org/locations/29x",
+      "film": "gameofthrones",
+      "image": "assets/shots/gameofthrones-kingsroad.jpg",
+      "imageSource": "https://moviemaps.org/images/41k",
+      "imageOriginal": "https://storage.googleapis.com/moviemaps/img/41k.1o2est.940.jpg",
+      "verified": true,
+      "shotDescription": "Повозка с новобранцами Ночного дозора движется под сплетёнными буками настоящей аллеи Dark Hedges."
+    },
+    {
+      "id": "twinpeaks-doubler",
+      "title": "Окончание смены в Double R",
+      "place": "Twede’s Cafe · Норт-Бенд",
+      "country": "США",
+      "lat": 47.4945,
+      "lng": -121.786,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "Закусочная Double R · вымышленный Твин Пикс",
+      "description": "В пилоте Шелли работает за стойкой Double R, а после смены уезжает с Бобби. Привычная закусочная становится одной из точек, где повседневная жизнь городка переплетается с личными тайнами его жителей.",
+      "note": "Внешний вид Double R в пилоте принадлежит реальному кафе Twede’s в Норт-Бенде, штат Вашингтон. Твин Пикс — вымышленный город; точка привязана к показанному кафе.",
+      "season": 1,
+      "episodeTitle": "Пилот — Northwest Passage",
+      "episodeDate": "1990-04-08",
+      "director": "Дэвид Линч",
+      "episodeSource": "https://en.wikipedia.org/wiki/Pilot_(Twin_Peaks)",
+      "locationSource": "https://moviemaps.org/locations/2no",
+      "film": "twinpeaks",
+      "image": "assets/shots/twinpeaks-doubler.jpg",
+      "imageSource": "https://moviemaps.org/images/kwt",
+      "imageOriginal": "https://storage.googleapis.com/moviemaps/img/kwt.uw30.940.jpg",
+      "verified": true,
+      "shotDescription": "Шелли стоит за стойкой закусочной Double R в пилоте; видны тарелки, кофейники и оборудование настоящего Twede’s Cafe."
+    },
+    {
+      "id": "emilyinparis-palais",
+      "title": "Первая встреча с Минди",
+      "place": "Сад Пале-Рояль · Париж",
+      "country": "Франция",
+      "lat": 48.8654,
+      "lng": 2.3374,
+      "precision": "exact",
+      "description": "Во время обеденного перерыва Эмили знакомится в саду с Минди. Случайный разговор на скамейке помогает ей почувствовать себя в новом городе менее одинокой и становится началом дружбы.",
+      "note": "Встреча снята в настоящем саду Пале-Рояль; место съёмки совпадает с парижским местом действия.",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "Emily in Paris",
+      "episodeDate": "2020-10-02",
+      "director": "Эндрю Флеминг",
+      "episodeSource": "https://en.wikipedia.org/wiki/Emily_in_Paris",
+      "locationSource": "https://www.paris.fr/pages/sur-les-traces-de-la-serie-emily-in-paris-22893",
+      "film": "emilyinparis",
+      "image": "assets/shots/emilyinparis-palais.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/4458/Emily-in-Paris/Jardin-Du-Palais-Royale",
+      "imageOriginal": "https://www.sceen-it.com/Service/sceenit/sceen/thumb/55834.jpg/w/600/h/340/crop/true/nos/l-4458_emily%20in%20paris_jardin%20du%20luxembourg%20_%20le%20jardin%20du%20luxembourg_1.png",
+      "verified": true,
+      "shotDescription": "Эмили и Минди сидят рядом на скамейке под ровными рядами деревьев в саду Пале-Рояль."
+    },
+    {
+      "id": "saul-cinnabon",
+      "film": "saul",
+      "title": "Новая жизнь Джина",
+      "place": "Cinnabon, Cottonwood Mall · Альбукерке",
+      "country": "США",
+      "lat": 35.1980952,
+      "lng": -106.6566082,
+      "precision": "approx",
+      "mapBasis": "filming",
+      "storyPlace": "Cinnabon · Омаха, Небраска",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "Uno",
+      "director": "Винс Гиллиган",
+      "episodeDate": "2015-02-08",
+      "episodeSource": "https://en.wikipedia.org/wiki/Uno_(Better_Call_Saul)",
+      "description": "В чёрно-белом прологе Сол Гудман живёт под именем Джин Такавик и работает в Cinnabon. Вместо адвокатских выступлений — выпечка и настороженные взгляды на посетителей торгового центра. В выбранном кадре Джин работает с тестом у стойки.",
+      "note": "По сюжету это Омаха. Сцену сняли в действующей пекарне Cottonwood Mall в Альбукерке; метка показывает реальный торговый центр, а не вымышленный адрес Джина. Координаты приблизительные внутри комплекса.",
+      "locationSource": "https://www.moviemaps.org/locations/7cm",
+      "image": "assets/shots/saul-cinnabon.jpg",
+      "imageSource": "https://thespinoff.co.nz/culture/11-02-2015/better-call-saul-uno-and-mijo",
+      "imageOriginal": "https://images.thespinoff.co.nz/images/01a04167-61c9-72c0-ad2b-47e26940b3ed?w=800",
+      "shotDescription": "Чёрно-белый кадр из пролога Uno: Джин в фартуке Cinnabon держит тесто, на заднем плане печь и рабочая стойка. В статье кадр расположен прямо под разбором открытия первой серии; MovieMaps подтверждает съёмочную локацию Cottonwood Mall.",
+      "verified": true
+    },
+    {
+      "id": "wednesday-nevermore",
+      "film": "wednesday",
+      "title": "Прибытие в «Невермор»",
+      "place": "Замок Кантакузино · Буштени",
+      "country": "Румыния",
+      "lat": 45.41404,
+      "lng": 25.54285,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "Академия «Невермор» · Джерико, Вермонт",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "Wednesday’s Child Is Full of Woe",
+      "director": "Тим Бёртон",
+      "episodeDate": "2022-11-23",
+      "episodeSource": "https://www.tvmaze.com/episodes/2382723/wednesday-1x01-chapter-i-wednesdays-child-is-full-of-woe",
+      "description": "Родители привозят Уэнсдей в академию «Невермор» после исключения из прежней школы. В кадре семейный автомобиль стоит перед мрачным фасадом — здесь начинается её новая школьная жизнь.",
+      "note": "«Невермор» — вымышленная школа в Вермонте. Метка стоит у румынского замка Кантакузино, который послужил основой экранного фасада. Готические башни и часть архитектуры добавлены цифровыми эффектами.",
+      "locationSource": "https://wednesdayseries.com/tour",
+      "coordinateSource": "https://it.wikipedia.org/wiki/Castello_Cantacuzino",
+      "image": "assets/shots/wednesday-nevermore.jpg",
+      "imageSource": "https://wednesdayseries.com/tour",
+      "imageOriginal": "https://wednesdayseries.com/img/tour/image5.png",
+      "shotDescription": "Экранный фасад Nevermore с готическими надстройками; внизу виден чёрный автомобиль семьи Аддамс. Фанатский путеводитель сопоставляет этот кадр с фото Cantacuzino Castle в разделе первой серии. Это кадр с цифровой достройкой реального замка, а не современная туристическая фотография.",
+      "verified": true
+    },
+    {
+      "id": "peaky-danny",
+      "film": "peaky",
+      "title": "Мнимая казнь Дэнни",
+      "place": "Двор Чарли, Black Country Living Museum · Дадли",
+      "country": "Великобритания",
+      "lat": 52.52333,
+      "lng": -2.0763,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "Двор Чарли Стронга · Смолл-Хит, Бирмингем",
+      "description": "Томми Шелби беседует с Дэнни перед его показательной казнью во дворе Чарли. Чтобы избежать войны с итальянцами, Томми разыгрывает смерть товарища, а затем отправляет его в Лондон. На кадре — их разговор перед выстрелом.",
+      "note": "Двор Чарли по сюжету находится в Бирмингеме. Сцену сняли возле Anchor Forge и лодочного двора музея Black Country Living Museum в Дадли; метка показывает реальное место съёмок.",
+      "locationSource": "https://bclm.com/tickets-and-events/whats-on/peaky-blinders-filming-location-tours/",
+      "coordinateSource": "https://www.geograph.org.uk/photo/6231583",
+      "image": "assets/shots/peaky-danny.jpg",
+      "imageSource": "https://simkl.com/tv/42580/peaky-blinders/season-1/episode-1/screencaps/",
+      "imageOriginal": "https://simkl.net/episodes/58/5832084d0d6516caa_0.jpg",
+      "shotDescription": "Стоп-кадр S1E1: Томми и Дэнни стоят у кирпичной стены и промышленного навеса перед инсценировкой казни. SIMKL относит изображение к первой серии; официальный музейный гид подтверждает съёмку казни Дэнни в Charlie’s Yard в episode one. Кадр визуально сопоставлен с соседними стоп-кадрами той же сцены и музейной площадкой.",
+      "verified": true,
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "Episode 1",
+      "director": "Отто Батёрст",
+      "episodeDate": "2013-09-12",
+      "episodeSource": "https://en.wikipedia.org/wiki/List_of_Peaky_Blinders_episodes"
+    },
+    {
+      "id": "satc-magnolia",
+      "film": "satc",
+      "title": "Капкейки и разговор об Эйдане",
+      "place": "Magnolia Bakery · Нью-Йорк",
+      "country": "США",
+      "lat": 40.73587,
+      "lng": -74.00498,
+      "precision": "exact",
+      "description": "Кэрри и Миранда сидят на скамейке перед Magnolia Bakery, едят капкейки и обсуждают увлечение Кэрри Эйданом. Небольшая сцена превращает обычную кондитерскую Вест-Виллиджа в узнаваемое место сериала.",
+      "note": "Реальная кондитерская на углу Bleecker Street и West 11th Street; место действия и место съёмки совпадают.",
+      "season": 3,
+      "episode": 5,
+      "episodeTitle": "No Ifs, Ands, or Butts",
+      "episodeDate": "2000-07-09",
+      "episodeDirector": "Николь Холофсенер",
+      "episodeSource": "https://www.tvmaze.com/episodes/59527/sex-and-the-city-3x05-no-ifs-ands-or-butts",
+      "source": "https://www.sceen-it.com/sceen/1693/Sex-and-the-City/Magnolia-Bakery",
+      "locationSource": "https://www.magnoliabakery.com/blogs/stores/bleecker-street",
+      "shotDescription": "Кэрри и Миранда сидят рядом с красно-коричневой витриной кондитерской и одновременно едят капкейки. На витрине читается название Magnolia.",
+      "image": "assets/shots/satc-magnolia.jpg",
+      "imageSource": "https://www.sceen-it.com/sceen/1693/Sex-and-the-City/Magnolia-Bakery",
+      "imageOriginal": "https://www.sceen-it.com/Service/sceenit/sceen/thumb/18451.jpg/w/1000/h/600/crop/false/jpg/true/nos/105_03_Sexandthecity_MagnoliaBakery_01.jpg",
+      "verified": true,
+      "width": 1000,
+      "height": 670,
+      "director": "Николь Холофсенер"
+    },
+    {
+      "id": "downton-bates",
+      "film": "downton",
+      "title": "Джон Бейтс приезжает в Даунтон",
+      "place": "Хайклерский замок · Хэмпшир",
+      "country": "Великобритания",
+      "lat": 51.326667,
+      "lng": -1.361389,
+      "precision": "exact",
+      "mapBasis": "filming",
+      "storyPlace": "Поместье Даунтон · Йоркшир (вымышленное)",
+      "description": "Джон Бейтс приезжает в поместье, чтобы стать камердинером графа Грэнтэма. Его появление вызывает недоверие среди слуг, но за назначением стоит прежняя служба Бейтса рядом с Робертом Кроули.",
+      "note": "На карте отмечено место съёмки: Highclere Castle в Хэмпшире. Вымышленное поместье Даунтон по сюжету находится в Йоркшире. Кадр из первого эпизода, 00:16:06.",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "Episode One",
+      "episodeDate": "2010-09-26",
+      "episodeDirector": "Брайан Персивал",
+      "episodeSource": "https://www.tvmaze.com/episodes/20851/downton-abbey-1x01-episode-1",
+      "source": "https://shotonlocation-eng.blogspot.com/2017/05/highclere-castle-england.html",
+      "locationSource": "https://en.wikipedia.org/wiki/Highclere_Castle",
+      "shotDescription": "Джон Бейтс в чёрном костюме и пальто стоит перед светлым каменным фасадом Highclere Castle; различимы ряды окон и газон перед замком.",
+      "timecode": "00:16:06",
+      "image": "assets/shots/downton-bates.jpg",
+      "imageSource": "https://shotonlocation-eng.blogspot.com/2017/05/highclere-castle-england.html",
+      "imageOriginal": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwZX_8EggRbfHj9YZtuUNGTfTDEsXC5A7Y6dBkSwrLrmYZP-TnW-dCDD7-Wr9SmzuIeTNAlwZ5pZ-93Dmgix8jBUpcc-6k2WIrqD0siyBKzzax34arU9SM9S4BkemKqO3uxGRHTAHkuZM/s1600/Downton+Abbey+S1E1+0-16-06.jpg",
+      "verified": true,
+      "width": 620,
+      "height": 350,
+      "director": "Брайан Персивал"
     }
-  ]
+  ],
+  "schemaVersion": 2
 }
