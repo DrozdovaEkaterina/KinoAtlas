@@ -63,8 +63,8 @@
     $('#scene-list').replaceChildren(fragment);
   }
   function renderMarkers() {
-    if(!state.cluster) return;
-    state.cluster.clearLayers();state.markers.clear();
+    if(!state.sceneLayer) return;
+    state.sceneLayer.clearLayers();state.markers.clear();
     for(const scene of state.filtered) {
       const active=state.selected?.id===scene.id;
       const marker=L.marker([scene.lat,scene.lng],{
@@ -72,7 +72,7 @@
         icon:L.divIcon({className:'film-marker'+(active?' is-active':''),html:`<span class="film-dot ${scene.precision==='approx'?'approx':''}"></span>`,iconSize:[32,32],iconAnchor:[16,16]})
       });
       marker.bindTooltip(`${escape(scene.movie.title)} <span style="opacity:.65">· ${year(scene.movie)}</span>`,{direction:'top',offset:[0,-12]});
-      marker.on('click',()=>openScene(scene.id));state.markers.set(scene.id,marker);state.cluster.addLayer(marker);
+      marker.on('click',()=>openScene(scene.id));state.markers.set(scene.id,marker);state.sceneLayer.addLayer(marker);
     }
   }
   function fitScenes(scenes=state.filtered) {
@@ -159,7 +159,7 @@
     tiles.on('tileload',()=>{failures=0;$('#map-notice').hidden=true;});
     const updateZoom=()=>{const detailed=state.map.getZoom()>=5;$('.map-stage').classList.toggle('zoomed',detailed);if(detailed&&!state.map.hasLayer(tiles)){tiles.addTo(state.map);state.map.removeLayer(labels);state.map.removeLayer(graticule);}else if(!detailed&&state.map.hasLayer(tiles)){state.map.removeLayer(tiles);labels.addTo(state.map);graticule.addTo(state.map);$('#map-notice').hidden=true;}};
     state.map.on('zoomend',updateZoom);
-    state.cluster=L.markerClusterGroup({showCoverageOnHover:false,maxClusterRadius:43,spiderfyOnMaxZoom:true,animate:!reducedMotion,iconCreateFunction:cluster=>L.divIcon({html:String(cluster.getChildCount()),className:'cluster-marker',iconSize:[38,38]})}).addTo(state.map);
+    state.sceneLayer=L.layerGroup().addTo(state.map);
     $('#world-view').addEventListener('click',()=>{closeCard(false);fitScenes();});$('#zoom-in').addEventListener('click',()=>state.map.zoomIn());$('#zoom-out').addEventListener('click',()=>state.map.zoomOut());
     $('#fullscreen').addEventListener('click',async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else await $('.map-stage').requestFullscreen();}catch{toast('Полноэкранный режим недоступен в этом браузере');}});
     document.addEventListener('fullscreenchange',()=>{state.map.invalidateSize();$('#fullscreen').setAttribute('aria-label',document.fullscreenElement?'Выйти из полного экрана':'Полноэкранная карта');});
