@@ -1,0 +1,11 @@
+{
+  "name": "kinoatlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Интерактивный атлас событий мирового кино",
+  "scripts": {
+    "start": "python3 -m http.server 8765 --bind 127.0.0.1",
+    "test": "node --test tests/catalog.test.mjs",
+    "check": "node --check app.js"
+  }
+}

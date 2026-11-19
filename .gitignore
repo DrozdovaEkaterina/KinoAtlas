@@ -1,0 +1,8 @@
+.DS_Store
+.research/
+__pycache__/
+films.research.json
+location-sources.json
+scripts/*.py
+node_modules/
+.publish-manifest.json

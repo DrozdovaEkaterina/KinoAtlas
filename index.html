@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101417">
+  <meta name="description" content="Путешествуйте по Земле через сцены мирового кино. Интерактивная карта с кадрами, историями мест и проверяемыми источниками.">
+  <meta property="og:title" content="Киноатлас — у каждой истории есть своё место">
+  <meta property="og:description" content="50 сцен мирового кино на одной карте. Находите знакомые места и открывайте новые фильмы.">
+  <title>Киноатлас — мир через истории кино</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="vendor/leaflet.css">
+  <link rel="stylesheet" href="vendor/MarkerCluster.css">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="vendor/leaflet.js"></script>
+  <script defer src="vendor/leaflet.markercluster.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#search">К поиску фильмов</a>
+  <header class="header">
+    <a class="brand" href="./" aria-label="Киноатлас, главная"><span class="brand-icon" aria-hidden="true">▰<i></i></span><span>КИНО<span class="brand-light">АТЛАС</span><small>ИСТОРИИ НА КАРТЕ МИРА</small></span></a>
+    <nav aria-label="Основная навигация"><button id="map-nav" class="nav-button active">Карта</button><button id="collection-nav" class="nav-button">Коллекция <span id="nav-count"></span></button><button id="about-nav" class="nav-button">О проекте</button></nav>
+    <span class="header-note">Большое кино. Настоящий мир.</span>
+  </header>
+  <main class="workspace">
+    <aside class="sidebar" id="sidebar" aria-label="Поиск и коллекция сцен">
+      <div class="sidebar-intro"><p class="eyebrow"><span class="tiny-frame" aria-hidden="true"></span> ВАШ БИЛЕТ В МИРОВОЕ КИНО</p><h1>У каждой истории<br> есть <em>своё место.</em></h1><p class="intro-copy">Находите на карте места, где происходило кино. И истории, которые остались с нами.</p><div class="stats" id="stats"><span><strong>—</strong>сцен</span><span><strong>—</strong>фильма</span><span><strong>—</strong>страны</span></div></div>
+      <div class="filter-section">
+        <label class="search-box" for="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><input type="search" id="search" aria-label="Поиск по фильму, режиссёру и месту" placeholder="Фильм, режиссёр, место…" autocomplete="off"><kbd>/</kbd></label>
+        <div class="filter-row"><label><span class="sr-only">Десятилетие выхода</span><select id="decade"><option value="">Все десятилетия</option></select></label><label><span class="sr-only">Жанр</span><select id="genre"><option value="">Все жанры</option></select></label></div>
+        <div class="filter-row country-row"><label><span class="sr-only">Страна места действия</span><select id="country"><option value="">Все страны</option></select></label><button class="clear-button" id="clear" title="Сбросить фильтры" aria-label="Сбросить все фильтры">Сбросить</button></div>
+        <div class="spoiler-setting"><span>Скрывать сюжет <small>Для новых открытий</small></span><button id="spoiler-toggle" class="switch" role="switch" aria-checked="false" aria-label="Скрывать сюжет"><span></span></button></div>
+      </div>
+      <div class="result-heading"><h2>Места и истории</h2><span id="result-count" aria-live="polite">Загрузка…</span></div>
+      <div id="scene-list" class="scene-list" aria-label="Найденные сцены"></div>
+      <div class="sidebar-footer"><button id="random" class="random-button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h3c4 0 8 12 12 12h3M17 3l4 3-4 3M3 18h3c1.5 0 3-1.8 4.5-4M13.5 10C15 7.8 16.5 6 18 6h3M17 15l4 3-4 3"/></svg>Случайный кадр</button><p>Хорошая история может начаться где угодно.</p></div>
+    </aside>
+    <section class="map-stage" aria-label="Карта кино">
+      <div id="map" role="region" aria-label="Интерактивная карта мест событий фильмов"></div>
+      <div class="map-shade" aria-hidden="true"></div>
+      <div class="region-bar" id="regions" role="group" aria-label="Часть света"><button data-region="" aria-pressed="true">Весь мир</button><button data-region="Европа" aria-pressed="false">Европа</button><button data-region="Азия" aria-pressed="false">Азия</button><button data-region="Америка" aria-pressed="false">Америка</button><button data-region="Африка" aria-pressed="false">Африка</button><button data-region="Океания" aria-pressed="false">Океания</button></div>
+      <div class="map-title" aria-hidden="true"><span>ЗЕМЛЯ КРУПНЫМ ПЛАНОМ</span><p>Мир — это тоже<br>съёмочная площадка.</p></div>
+      <div class="map-tools"><button id="world-view" aria-label="Показать все найденные сцены" title="Все сцены"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><ellipse cx="12" cy="12" rx="3.6" ry="8"/><path d="M4 12h16M6 7h12M6 17h12"/></svg></button><button id="zoom-in" aria-label="Приблизить карту">+</button><button id="zoom-out" aria-label="Отдалить карту">−</button><button id="fullscreen" aria-label="Полноэкранная карта" title="Полный экран"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/></svg></button></div>
+      <div class="map-hint" id="map-hint"><span class="hint-pin" aria-hidden="true"></span><div>Каждая точка — история<small>Нажмите на отметку, чтобы открыть сцену</small></div></div>
+      <div id="map-notice" class="map-notice" role="status" hidden></div>
+      <button id="mobile-list" class="mobile-list">Все сцены <span id="mobile-count"></span></button>
+      <article id="scene-card" class="scene-card" aria-labelledby="card-title" hidden></article>
+      <div class="map-bottom"><div class="legend"><span><i class="legend-exact"></i>Реальное место</span><span><i class="legend-approx"></i>Приблизительная привязка</span></div><span class="edition">КОЛЛЕКЦИЯ 01 / МИРОВОЕ КИНО</span></div>
+    </section>
+  </main>
+  <dialog id="collection-dialog" class="collection-dialog" aria-labelledby="collection-title"><div class="dialog-header"><div><p class="eyebrow">ВЗГЛЯНИТЕ НА МИР ЧУЖИМИ ГЛАЗАМИ</p><h2 id="collection-title">Коллекция фильмов</h2></div><button class="icon-button dialog-close" aria-label="Закрыть коллекцию">×</button></div><p class="dialog-lead">Выберите фильм — на карте останутся только его места.</p><div id="film-grid" class="film-grid"></div></dialog>
+  <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><div class="dialog-header"><div><p class="eyebrow">О ПРОЕКТЕ</p><h2 id="about-title">У кино есть география.</h2></div><button class="icon-button dialog-close" aria-label="Закрыть информацию о проекте">×</button></div><p>Киноатлас — коллекция сцен мирового кинематографа, нанесённых на карту Земли. Здесь можно узнать знакомую улицу, отправиться за героями в другой город или найти фильм для следующего вечера.</p><h3>Что обозначают точки</h3><p>В основе карты — места событий по сюжету. Сплошная отметка означает узнаваемое реальное место; пунктирная — приблизительную привязку к городу или региону. Если адрес вымышленный, а точка связана со съёмочной географией, это отдельно объясняется в карточке.</p><h3>Как читать карточки</h3><p>Дата — самая ранняя премьера или первый выпуск, указанные в источнике, включая фестивальные показы. Если точный день не установлен, мы показываем только подтверждённый месяц или год. Изображения — настоящие кадры из соответствующих фильмов; кадр не обязательно относится к описанному эпизоду.</p><h3>Источники и материалы</h3><p>У каждой карточки есть ссылки на сведения о фильме, географию сцены и источник изображения. Описания написаны для этой коллекции. Кадры представлены для иллюстрации и обсуждения фильмов; права принадлежат соответствующим правообладателям.</p><p>География: <a href="https://www.naturalearthdata.com/about/terms-of-use/" target="_blank" rel="noopener noreferrer">Natural Earth</a>. Подробная карта: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a>. Интерфейс карты: <a href="https://leafletjs.com/" target="_blank" rel="noopener noreferrer">Leaflet</a>.</p><p class="about-end">Карта рассказывает о художественных произведениях. Экранные события не следует принимать за документальную историю места.</p></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <noscript><div class="fatal">Для интерактивной карты нужен JavaScript. Включите его в настройках браузера.</div></noscript>
+</body>
+</html>
