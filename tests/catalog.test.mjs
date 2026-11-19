@@ -52,7 +52,7 @@ test('Local world geography covers the globe with valid geometries',async()=>{
 test('Page loads local libraries and all declared assets exist',async()=>{
   const page=await readFile(new URL('index.html',root),'utf8');
   for(const match of page.matchAll(/(?:src|href)="([^"#]+)"/g)){
-    const path=match[1];if(/^(https?:|\.\/)/.test(path))continue;
+    const path=match[1].split("?")[0];if(/^(https?:|\.\/)/.test(path))continue;
     const entry=await stat(new URL(path,root));assert.ok(entry.isFile(),path);
   }
   assert.match(page,/lang="ru"/);assert.match(page,/name="viewport"/);
