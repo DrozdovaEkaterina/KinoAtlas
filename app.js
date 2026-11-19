@@ -62,7 +62,7 @@
     $('#scene-list').replaceChildren(fragment);
   }
   function renderMarkers() {
-    if(!state.map) return;
+    if(!state.cluster) return;
     state.cluster.clearLayers();state.markers.clear();
     for(const scene of state.filtered) {
       const active=state.selected?.id===scene.id;

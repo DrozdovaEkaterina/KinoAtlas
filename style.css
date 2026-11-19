@@ -19,3 +19,5 @@ html,body{height:100%;width:100%;overscroll-behavior:none}body{position:fixed;in
 .map-stage.zoomed .map-title{display:none}
 
 @media(max-width:760px){.sidebar.open{z-index:1050}}
+
+@media(max-height:540px) and (min-width:761px){.sidebar-intro{display:none}.filter-section{padding-top:16px}.map-title{display:none}.scene-card{top:76px;max-height:calc(100% - 96px)}.card-image{aspect-ratio:3}.card-body{padding-top:14px}.card-body h2{font-size:24px}.card-film-meta{margin-bottom:9px}}
