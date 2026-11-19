@@ -1,8 +1,8 @@
 # Кадры конкретных сцен и источники
 
-У каждой точки — отдельный настоящий кадр показанной сцены/локации. Общие постеры и случайные кадры произведения в карточках не используются. Права на изображения принадлежат правообладателям фильмов и сериалов.
+У каждой точки — отдельный настоящий кадр показанной сцены/локации. Общие постеры и случайные кадры произведения в карточках не используются. Права на изображения принадлежат правообладателям фильмов, сериалов и мультфильмов.
 
-Экстерьеры подписаны как экстерьеры. Для вымышленных адресов и городов отдельно обозначено реальное место съёмки; кадр не выдаётся за современную фотографию или документальное событие.
+Экстерьеры подписаны как экстерьеры. Для вымышленных адресов и городов отдельно обозначено реальное место съёмки. В анимации подтверждённый реальный прототип отмечается отдельно от вымышленного экранного места; стилизованный пейзаж не выдаётся за точную копию географии.
 
 ## Римские каникулы — Один день без короны
 
@@ -261,6 +261,7 @@
 - [Источник кадра и сцены](https://film-grab.com/2013/03/09/in-the-mood-for-love/)
 - [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/18%20%28504%29.jpg?bwg=1547222277)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/In_the_Mood_for_Love)
+- [Дата премьеры](https://2017.festival-lumiere.org/manifestations/in-the-mood-for-love.html)
 
 ## Паразиты — Путь домой под дождём
 
@@ -325,6 +326,7 @@
 - [Источник кадра и сцены](https://film-grab.com/2025/02/17/the-motorcycle-diaries/)
 - [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/The_Motorcycle_Diaries_32.jpg?bwg=1718182880)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(film))
+- [Дата премьеры](https://www.filmportal.de/film/the-motorcycle-diaries_9572a64ff83540cb83640dea11b81b0b)
 
 ## Дневники мотоциклиста — На другой берег
 
@@ -334,6 +336,7 @@
 - [Источник кадра и сцены](https://www.youtube.com/watch?v=i6_k0Tkw8rk&t=116s)
 - [Исходное изображение](https://www.youtube.com/watch?v=i6_k0Tkw8rk&t=116s)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(film))
+- [Дата премьеры](https://www.filmportal.de/film/the-motorcycle-diaries_9572a64ff83540cb83640dea11b81b0b)
 - [География сцены](https://en.wikipedia.org/wiki/San_Pablo,_Peru)
 - Источник фрагмента: https://www.youtube.com/watch?v=i6_k0Tkw8rk
 
@@ -355,6 +358,7 @@
 - [Источник кадра и сцены](https://www.sensesofcinema.com/2026/feature-articles/the-eternal-return-the-battle-of-algiers-at-60/)
 - [Исходное изображение](https://www.sensesofcinema.com/wp-content/uploads/2026/07/IMAGE-19.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/The_Battle_of_Algiers)
+- [Дата премьеры](https://web.library.yale.edu/film/notes/fn00037)
 
 ## Каирский вокзал — Судьбы у железной дороги
 
@@ -373,6 +377,7 @@
 - [Источник кадра и сцены](https://film-grab.com/2022/09/01/touki-bouki/)
 - [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/Touki_Bouki_012.jpg?bwg=1660727651)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Touki_Bouki)
+- [Дата премьеры](https://www.cinemateca.pt/CinematecaSite/media/Documentos/2023-12-05_TOUKI-BOUKI.pdf)
 
 ## Пианино — Пианино на пустом берегу
 
@@ -428,6 +433,7 @@
 Тото и Альфредо проецируют кино на стену дома напротив: в кадре ночная площадь с фонтаном и экранным изображением на фасаде.
 
 - Место: Площадь Умберто I · Палаццо-Адриано
+- Место съёмки; экранное место: Джанкольдо · вымышленный сицилийский город
 - [Источник кадра и сцены](https://film-grab.com/2014/06/10/cinema-paradiso/)
 - [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/30%20(246).jpg?bwg=1547204778)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Cinema_Paradiso)
@@ -459,6 +465,7 @@
 - [Источник кадра и сцены](https://www.sceen-it.com/sceen/204/Midnight-in-Paris/Saint-tienne-du-Mont)
 - [Исходное изображение](https://www.sceen-it.com/Service/sceenit/sceen/thumb/2404.jpg/w/1000/h/600/crop/false/jpg/true/nos/59436_05_MidnightinParis_SaintE%e2%95%a0%c3%bctienneduMont_01.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Midnight_in_Paris)
+- [Дата премьеры](https://www.festival-cannes.com/en/2011/woody-allens-midnight-in-paris-is-to-open-the-64th-festival-de-cannes/)
 - [География сцены](https://www.movie-locations.com/movies/m/Midnight-In-Paris.php)
 
 ## Римские каникулы — Последняя пресс-конференция
@@ -499,6 +506,7 @@
 - [Источник кадра и сцены](https://film-grab.com/2013/03/09/in-the-mood-for-love/)
 - [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/64%20(369).jpg?bwg=1547222276)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/In_the_Mood_for_Love)
+- [Дата премьеры](https://2017.festival-lumiere.org/manifestations/in-the-mood-for-love.html)
 
 ## Во все тяжкие — Предложение Гуса
 
@@ -526,6 +534,7 @@
 Лондонское такси едет по North Gower Street; на заднем плане виден экранный дом Шерлока и соседнее кафе Speedy’s.
 
 - Место: 187 North Gower Street · Лондон
+- Место съёмки; экранное место: 221B Бейкер-стрит · Лондон
 - [Источник кадра и сцены](https://moviemaps.org/images/2zp)
 - [Исходное изображение](https://storage.googleapis.com/moviemaps/img/2zp.8qxr5.940.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Sherlock_(TV_series))
@@ -537,6 +546,7 @@
 Уилл, Лукас, Макс и Майк идут по служебному коридору Starcourt; позади в дверях остаётся Стив в форме Scoops Ahoy.
 
 - Место: Gwinnett Place Mall · Дулут
+- Место съёмки; экранное место: Starcourt Mall · вымышленный Хоукинс
 - [Источник кадра и сцены](https://moviemaps.org/images/1hq4)
 - [Исходное изображение](https://storage.googleapis.com/moviemaps/img/1hq4.fg64h1.940.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Stranger_Things)
@@ -548,6 +558,7 @@
 Повозка с новобранцами Ночного дозора движется под сплетёнными буками настоящей аллеи Dark Hedges.
 
 - Место: Dark Hedges · Северная Ирландия
+- Место съёмки; экранное место: Королевский тракт · Вестерос
 - [Источник кадра и сцены](https://moviemaps.org/images/41k)
 - [Исходное изображение](https://storage.googleapis.com/moviemaps/img/41k.1o2est.940.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Game_of_Thrones)
@@ -559,6 +570,7 @@
 Шелли стоит за стойкой закусочной Double R в пилоте; видны тарелки, кофейники и оборудование настоящего Twede’s Cafe.
 
 - Место: Twede’s Cafe · Норт-Бенд
+- Место съёмки; экранное место: Закусочная Double R · вымышленный Твин Пикс
 - [Источник кадра и сцены](https://moviemaps.org/images/kwt)
 - [Исходное изображение](https://storage.googleapis.com/moviemaps/img/kwt.uw30.940.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Twin_Peaks)
@@ -581,6 +593,7 @@
 Чёрно-белый кадр из пролога Uno: Джин в фартуке Cinnabon держит тесто, на заднем плане печь и рабочая стойка. В статье кадр расположен прямо под разбором открытия первой серии; MovieMaps подтверждает съёмочную локацию Cottonwood Mall.
 
 - Место: Cinnabon, Cottonwood Mall · Альбукерке
+- Место съёмки; экранное место: Cinnabon · Омаха, Небраска
 - [Источник кадра и сцены](https://thespinoff.co.nz/culture/11-02-2015/better-call-saul-uno-and-mijo)
 - [Исходное изображение](https://images.thespinoff.co.nz/images/01a04167-61c9-72c0-ad2b-47e26940b3ed?w=800)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Better_Call_Saul)
@@ -592,10 +605,12 @@
 Экранный фасад Nevermore с готическими надстройками; внизу виден чёрный автомобиль семьи Аддамс. Фанатский путеводитель сопоставляет этот кадр с фото Cantacuzino Castle в разделе первой серии. Это кадр с цифровой достройкой реального замка, а не современная туристическая фотография.
 
 - Место: Замок Кантакузино · Буштени
+- Место съёмки; экранное место: Академия «Невермор» · Джерико, Вермонт
 - [Источник кадра и сцены](https://wednesdayseries.com/tour)
 - [Исходное изображение](https://wednesdayseries.com/img/tour/image5.png)
 - [Сведения о произведении](https://www.netflix.com/tudum/articles/wednesday-jenna-ortega-release-date-poster)
 - [География сцены](https://wednesdayseries.com/tour)
+- [Координаты](https://it.wikipedia.org/wiki/Castello_Cantacuzino)
 - [Эпизод](https://www.tvmaze.com/episodes/2382723/wednesday-1x01-chapter-i-wednesdays-child-is-full-of-woe)
 
 ## Острые козырьки — Мнимая казнь Дэнни
@@ -603,10 +618,12 @@
 Стоп-кадр S1E1: Томми и Дэнни стоят у кирпичной стены и промышленного навеса перед инсценировкой казни. SIMKL относит изображение к первой серии; официальный музейный гид подтверждает съёмку казни Дэнни в Charlie’s Yard в episode one. Кадр визуально сопоставлен с соседними стоп-кадрами той же сцены и музейной площадкой.
 
 - Место: Двор Чарли, Black Country Living Museum · Дадли
+- Место съёмки; экранное место: Двор Чарли Стронга · Смолл-Хит, Бирмингем
 - [Источник кадра и сцены](https://simkl.com/tv/42580/peaky-blinders/season-1/episode-1/screencaps/)
 - [Исходное изображение](https://simkl.net/episodes/58/5832084d0d6516caa_0.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
 - [География сцены](https://bclm.com/tickets-and-events/whats-on/peaky-blinders-filming-location-tours/)
+- [Координаты](https://www.geograph.org.uk/photo/6231583)
 - [Эпизод](https://en.wikipedia.org/wiki/List_of_Peaky_Blinders_episodes)
 
 ## Секс в большом городе — Капкейки и разговор об Эйдане
@@ -625,6 +642,7 @@
 Джон Бейтс в чёрном костюме и пальто стоит перед светлым каменным фасадом Highclere Castle; различимы ряды окон и газон перед замком.
 
 - Место: Хайклерский замок · Хэмпшир
+- Место съёмки; экранное место: Поместье Даунтон · Йоркшир (вымышленное)
 - [Источник кадра и сцены](https://shotonlocation-eng.blogspot.com/2017/05/highclere-castle-england.html)
 - [Исходное изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwZX_8EggRbfHj9YZtuUNGTfTDEsXC5A7Y6dBkSwrLrmYZP-TnW-dCDD7-Wr9SmzuIeTNAlwZ5pZ-93Dmgix8jBUpcc-6k2WIrqD0siyBKzzax34arU9SM9S4BkemKqO3uxGRHTAHkuZM/s1600/Downton%2BAbbey%2BS1E1%2B0-16-06.jpg)
 - [Сведения о произведении](https://en.wikipedia.org/wiki/Downton_Abbey)
@@ -632,4 +650,189 @@
 - [Эпизод](https://www.tvmaze.com/episodes/20851/downton-abbey-1x01-episode-1)
 - Время сцены по источнику: 00:16:06
 
-Обзорная карта: [Natural Earth, public domain](https://www.naturalearthdata.com/about/terms-of-use/). Подробная подложка: [OpenStreetMap](https://www.openstreetmap.org/copyright). Лицензии Leaflet и MarkerCluster — в `vendor/`.
+## Индиана Джонс и последний крестовый поход — У входа в храм Грааля
+
+Общий план из фильма: всадники подъезжают к высеченному в розовой скале фасаду Эль-Хазне, показанному между стенами ущелья. Кадр на странице SCEEN IT привязан к приближению героев к храму Грааля.
+
+- Место: Эль-Хазне · Петра
+- Место съёмки; экранное место: Храм Грааля · Каньон Полумесяца
+- [Источник кадра и сцены](https://www.sceen-it.com/sceen/1460/Indiana-Jones-and-the-Last-Crusade/Petra)
+- [Исходное изображение](https://www.sceen-it.com/Service/sceenit/sceen/thumb/16032.jpg/w/1000/h/600/crop/false/nos/89_02_IndianaJonesandtheLastCrusade_Petra_01.png)
+- [Сведения о произведении](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade)
+- [География сцены](https://www.sceen-it.com/sceen/1460/Indiana-Jones-and-the-Last-Crusade/Petra)
+- [Координаты](https://en.wikipedia.org/wiki/Al-Khazneh)
+
+## Из Африки — Пикник над саванной
+
+Настоящий кадр сцены пикника: Карен и Денис сидят возле корзины и пледа на зелёном уступе, справа скала, внизу раскрывается равнина Масаи-Мара. SCEEN IT описывает этот пикник; Angama подтверждает место съёмки.
+
+- Место: Откос Олололо · Масаи-Мара
+- [Источник кадра и сцены](https://www.sceen-it.com/sceen/4058/Out-of-Africa/Mara-Triangle)
+- [Исходное изображение](https://www.sceen-it.com/Service/sceenit/sceen/thumb/50540.jpg/w/1000/h/600/crop/false/nos/4058_out%20of%20africa_mara%20triangle_0.jpg)
+- [Сведения о произведении](https://en.wikipedia.org/wiki/Out_of_Africa_(film))
+- [География сцены](https://angama.com/experience/out-of-africa-picnic/)
+- [Координаты](https://ecotourismkenya.org/wp-content/uploads/ekdownloads/facilities/silver/Angama%20Mara%20Web%20profile.pdf)
+
+## Анастасия — Дворец накануне бала
+
+Общий анимационный план Екатерининского дворца ночью: снежный парадный двор, длинный фасад с огнями, экипажи и лучи прожекторов. Кадр №80 из пролога перед балом; не современная фотография дворца.
+
+- Место: Екатерининский дворец · Пушкин
+- Реальный прототип; экранное место: Дворец Романовых · экранный Санкт-Петербург
+- [Источник кадра и сцены](https://animationscreencaps.com/anastasia-1997/)
+- [Исходное изображение](https://i0.wp.com/imgs.screencaps.us/199/7-anastasiaa/full/anastasia-disneyscreencaps.com-80.jpg?w=1000&ssl=1)
+- [Сведения о произведении](https://family.20thcenturystudios.com/movies/anastasia)
+- [География сцены](https://am.animatedviews.com/Anastasia.html)
+
+## Балто — Стил побеждает в гонке
+
+Стил и высокий каюр стоят на заснеженной улице Нома после гонки; по сторонам аплодируют жители, над улицей видна растяжка FINISH. Кадр №1100, рисованная часть Balto.
+
+- Место: Ном · Аляска
+- [Источник кадра и сцены](https://animationscreencaps.com/balto-1995/page/7)
+- [Исходное изображение](https://i0.wp.com/imgs.screencaps.us/199/5-balto-v3/full/balto-v2-animationscreencaps.com-1100.jpg?w=1000&ssl=1)
+- [Сведения о произведении](https://www.universalpicturesathome.com/movies/balto)
+- [Дата премьеры](https://en.wikipedia.org/wiki/Balto_(film))
+- [География сцены](https://amblin.com/movie/balto/)
+
+## Тайна Келлс — Брендан во дворе аббатства
+
+Брендан с рыжими волосами стоит рядом с наклонившимся монахом посреди огородов аббатства; вдали овцы, осёл, братия и строящаяся серая стена. Кадр №160 из начальных монастырских сцен.
+
+- Место: Монастырское поселение Келлс · графство Мит
+- [Источник кадра и сцены](https://animationscreencaps.com/the-secret-of-kells-2009/)
+- [Исходное изображение](https://i0.wp.com/imgs.screencaps.us/200/9-secret-kells/full/secret-kells-disneyscreencaps.com-160.jpg?w=1000&ssl=1)
+- [Сведения о произведении](https://www.cartoonsaloon.ie/irish-animation-studio/feature-films/the-secret-of-kells/)
+- [Дата премьеры](https://gkids.com/2021/06/09/gkids-unboxed-the-secret-of-kells/)
+- [География сцены](https://www.cartoonsaloon.ie/irish-animation-studio/feature-films/the-secret-of-kells/)
+- [Координаты](https://heritageireland.ie/unguided-sites/kells-round-tower/)
+
+## Холодное сердце — Эренделл готовится к коронации
+
+Широкий анимационный план Эренделла: замок на полуострове слева, гавань с парусниками и цветными домами справа, горы и водопад за городом. Кадр №1220 из начала дня коронации.
+
+- Место: Брюгген, Берген · Норвегия
+- Реальный прототип; экранное место: Эренделл · вымышленное королевство
+- [Источник кадра и сцены](https://animationscreencaps.com/frozen-2013/page/7)
+- [Исходное изображение](https://i0.wp.com/imgs.screencaps.us/201/3-frozenbr/full/frozen-disneyscreencaps.com-1220.jpg?w=1000&ssl=1)
+- [Сведения о произведении](https://movies.disney.com/frozen/)
+- [География сцены](https://lumiere-a.akamaihd.net/v1/documents/001_23_dis_frozen_imapct_report_v8_2_5c3c1c6b.pdf)
+
+## Вверх — Дом у Райского водопада
+
+Финальный стоп-кадр: крошечный разноцветный дом Карла стоит справа на краю плоской вершины, рядом белая струя Райского водопада; небо розовое.
+
+- Место: Водопад Анхель · прототип Райского водопада
+- Реальный прототип; экранное место: Райский водопад · Венесуэла (вымышленный)
+- [Источник кадра и сцены](https://jgfrog.blogspot.com/2011/07/photography-in-film-up.html)
+- [Исходное изображение](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMHNBOq8d1ehgu7qHi7hcqsQMrBcMlHu_glaW0rX6okcOV_spdsJeqLJ-ObG71cWjr7KOzrb1cXHNfhBJQEOSNSkULlcaxtPkkrsTW1X0IJ0vhELgnC3jgEULeP2IubYXEDaEyXbnyIX0N/s1600/31.jpg)
+- [Сведения о произведении](https://movies.disney.com/up)
+- [Дата премьеры](https://d23.com/a-to-z/up-film/)
+- [География сцены](https://disney.go.com/inside/mainattraction/090528/index.html)
+
+## Тайна Коко — По улицам Санта-Сесилии
+
+Стоп-кадр №301: улица Санта-Сесилии с бело-красными и жёлтыми домами, торговыми столами и гирляндами papel picado; Мигель бежит в глубине кадра.
+
+- Место: Центральная Мексика · собирательный прототип Санта-Сесилии
+- Реальный прототип; экранное место: Санта-Сесилия · Мексика (вымышленный город)
+- [Источник кадра и сцены](https://animationscreencaps.com/coco-2017/page/2)
+- [Исходное изображение](https://i0.wp.com/imgs.screencaps.us/201/7-coco/full/coco-disneyscreencaps.com-301.jpg?ssl=1)
+- [Сведения о произведении](https://movies.disney.com/coco)
+- [Дата премьеры](https://www.pixar.com/our-story)
+- [География сцены](https://www.pixar.com/coco)
+
+## В поисках Немо — Марлин и Дори добираются до Сиднея
+
+Ночной стоп-кадр 1:10:21: освещённые белые раковины Сиднейского оперного театра у воды, справа арка Harbour Bridge и огни города.
+
+- Место: Сиднейская бухта · Оперный театр
+- [Источник кадра и сцены](https://shotonlocation-eng.blogspot.com/2022/02/sydney-australia.html)
+- [Исходное изображение](https://blogger.googleusercontent.com/img/a/AVvXsEgdGrDIBMB5yAfZUwXcJPEKFrmAl_5pJfoGzCZTRRgsZvOtfd7h9p7JWPJHduqDKl5CrEY_ad9LkcIRN_9zAYphXThdfR0KobncjjKUu7OhIT5M2MC_lBVe0FBhtuzWc674wjfiWOWIklgq7AzyRiCJ0Jcy7llAlORYRICkMdTuxgQdf0MSIPdN3T_J=s800)
+- [Сведения о произведении](https://movies.disney.com/finding-nemo)
+- [Дата премьеры](https://www.seeing-stars.com/Meet/MoviePremierePressReleases/FindingNemo.shtml)
+- [География сцены](https://dictionaryofsydney.org/artefact/finding_nemo)
+- Время сцены по источнику: 01:10:21
+
+## Мадагаскар — Незнакомый берег
+
+Стоп-кадр пляжного разговора: слева Марти обнимает Алекса, рядом Глория, справа частично виден Мелман; за ними голубое море и облачное небо.
+
+- Место: Остров Мадагаскар · вымышленный пляж
+- [Источник кадра и сцены](https://clip.cafe/madagascar-2005/white-sandy-beaches/)
+- [Исходное изображение](https://clip.cafe/img800/white-sandy-beaches.jpg)
+- [Сведения о произведении](https://www.dreamworks.com/movies/madagascar)
+- [Дата премьеры](https://www.imdb.com/title/tt0351283/releaseinfo/)
+- [География сцены](https://www.dreamworks.com/movies/madagascar)
+
+## Левиафан — Ромка у скелета кита
+
+Кадр сцены с Ромкой: мальчик сидит справа на валуне, слева на мокром берегу лежит огромный белый китовый скелет. Позади видны море и скалы Териберки. Кадр 39 в галерее фильма.
+
+- Место: Побережье у Териберки · Кольский полуостров
+- Место съёмки; экранное место: Приморский город на севере России
+- [Источник кадра и сцены](https://film-grab.com/2018/04/11/leviathan/)
+- [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/39%20%28618%29.jpg?bwg=1547228435)
+- [Сведения о произведении](https://www.festival-cannes.com/en/f/leviathan/)
+- [Дата премьеры](https://www.festival-cannes.com/en/2014/competition-leviathan-metaphor-of-the-biblical-monster/)
+- [География сцены](https://www.ponckratov.ru/leviathan.html)
+
+## Невероятная жизнь Уолтера Митти — Спуск к фьорду на лонгборде
+
+Широкий кадр спуска: дорога идёт поперёк переднего плана, крошечная фигура Уолтера на ней; зелёные склоны обрамляют долину, реку и синюю воду фьорда вдалеке.
+
+- Место: Дорога Сейдисфьярдарвегюр · Восточная Исландия
+- [Источник кадра и сцены](https://www.sceen-it.com/sceen/1814/The-Secret-Life-of-Walter-Mitty/Highway-near-Sey-isfj-r-ur)
+- [Исходное изображение](https://www.sceen-it.com/Service/sceenit/sceen/thumb/19704.jpg/w/1000/h/600/crop/false/jpg/true/nos/116745_05_TheSecretLifeofWalterMitty_HighwaynearSey%e2%94%9c%e2%96%91isfjo%e2%95%a0%c3%aar%e2%94%9c%e2%96%91ur_01.jpg)
+- [Сведения о произведении](https://www.filmlinc.org/films/the-secret-life-of-walter-mitty/)
+- [Дата премьеры](https://www.filmlinc.org/press/world-premiere-of-the-secret-life-of-walter-mitty-announced-as-centerpiece/)
+- [География сцены](https://movieloci.com/2519-The-Secret-Life-of-Walter-Mitty?snapshot=30849)
+
+## Пляж — Улов в тайной бухте
+
+Стоп-кадр 30 в галерее: трое мужчин с рыболовными копьями и уловом стоят на белом песке; за ними бирюзовая вода и характерная отвесная скала Майя-Бэй. Использован кадр фильма, а не рекламное фото с поцелуем.
+
+- Место: Бухта Майя-Бэй · Пхи-Пхи-Ле
+- Место съёмки; экранное место: Тайный пляж на вымышленном острове в Таиланде
+- [Источник кадра и сцены](https://film-grab.com/2015/08/13/the-beach/)
+- [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/30%20%281018%29.jpg?bwg=1547461855)
+- [Сведения о произведении](https://catalog.afi.com/Film/61044-THE-BEACH)
+- [Дата премьеры](https://www.graumanschinese.org/2000.html)
+- [География сцены](https://www.sceen-it.com/sceen/1582/The-Beach/Maya-Bay-on-Ko-Phi-Phi-Le)
+
+## Рома — Поход в кино
+
+Чёрно-белый кадр подхода к кинотеатру: Клео и спутники идут вдоль машин; над входом видна большая вертикальная надпись METROPOLITAN, старая афиша и продавец шаров.
+
+- Место: Кинотеатр Metropolitan · Мехико
+- [Источник кадра и сцены](https://www.sceen-it.com/sceen/2991/Roma/Teatro-Metropolitan)
+- [Исходное изображение](https://www.sceen-it.com/Service/sceenit/sceen/thumb/35436.jpg/w/1000/h/600/crop/false/jpg/true/nos/2991_roma_teatro%20metropolitan_0.png)
+- [Сведения о произведении](https://www.netflix.com/title/80240715)
+- [Дата премьеры](https://www.labiennale.org/en/biennale-channel/75th-venice-film-festival-roma)
+- [География сцены](https://www.sceen-it.com/sceen/2991/Roma/Teatro-Metropolitan)
+- [Координаты](https://www.teatrometropolitan.mx/como-llegar)
+
+## Район № 9 — Корабль над Йоханнесбургом
+
+Второй кадр галереи: огромный корабль занимает верх кадра, под ним настоящая панорама Йоханнесбурга с телебашней, шахтными отвалами и низкой жилой застройкой.
+
+- Место: Йоханнесбург · Гаутенг
+- [Источник кадра и сцены](https://film-grab.com/2017/11/27/district-9/)
+- [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/district9002.jpg?bwg=1546902881)
+- [Сведения о произведении](https://www.sonypictures.com/movies/district9)
+- [Дата премьеры](https://en.wikipedia.org/wiki/District_9)
+- [География сцены](https://tkp.tourism.gov.za/ResearchRepo/Shared%20Documents/UP-%20Film%20study%20-%20final%20report.pdf)
+
+## Выживший — Нападение медведицы
+
+Тёмный верхний план схватки в папоротниках: медведица и лежащий Хью Гласс видны слева внизу среди зелёной лесной подстилки и поваленных стволов. Это кадр 11 из галереи фильма.
+
+- Место: Лес Дерринджер · долина Сквамиш, Британская Колумбия
+- Место съёмки; экранное место: Дикая местность американского фронтира · 1823 год
+- [Источник кадра и сцены](https://film-grab.com/2017/08/29/the-revenant/)
+- [Исходное изображение](https://film-grab.com/wp-content/uploads/photo-gallery/imported_from_media_libray/revenant011.jpg?bwg=1546976252)
+- [Сведения о произведении](https://www.20thcenturystudios.com/movies/the-revenant)
+- [Дата премьеры](https://en.wikipedia.org/wiki/The_Revenant_(2015_film))
+- [География сцены](https://www.slrd.bc.ca/sites/default/files/pdfs/notices/Filming_notices/The_Revenant/2411075_FilmActivity.pdf)
+
+Обзорная карта: [Natural Earth, public domain](https://www.naturalearthdata.com/about/terms-of-use/). Подробная подложка: [OpenStreetMap](https://www.openstreetmap.org/copyright). Лицензии библиотек — в `vendor/`.

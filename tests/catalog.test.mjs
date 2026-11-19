@@ -44,7 +44,7 @@ test('Every map point has its own visually reviewed scene frame and source',asyn
     assert.ok(s.shotDescription&&s.shotDescription.length>20,`${s.id}: missing frame/location evidence`);
     assert.equal(new URL(s.imageSource).protocol,'https:',`${s.id}: frame source`);
     const image=await readFile(new URL(s.image,root));assert.ok(image.byteLength>1000);assert.equal(image.readUInt16BE(0),0xffd8);
-    if(s.mapBasis==='filming')assert.ok(s.storyPlace&&s.note,`${s.id}: explain shooting/story geography`);
+    if(['filming','inspiration'].includes(s.mapBasis))assert.ok(s.storyPlace&&s.note&&s.locationSource,`${s.id}: explain shooting/story geography`);
     if(s.episode){assert.equal(films.get(s.film).kind,'series');assert.ok(s.season&&s.episodeSource,`${s.id}: episode provenance`);}
   }
   assert.ok(data.films.some(f=>f.kind==='series'),'No TV series in catalog');

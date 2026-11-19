@@ -28,3 +28,5 @@ html,body{height:100%;width:100%;overscroll-behavior:none}body{position:fixed;in
 .card-image img{object-fit:contain}
 
 @media(max-width:760px) and (max-height:900px){.sidebar-intro{padding-top:12px}.sidebar-intro>:not(.stats){display:none}.stats{margin:0 0 12px;padding-bottom:12px}.stats strong{font-size:21px}.stats>span{gap:4px}}
+
+.kind-bar button{padding-left:4px;padding-right:4px;font-size:12px;white-space:nowrap}.kind-bar button[data-kind=""]{flex:.55}.kind-bar button[data-kind="animation"]{flex:1.5}
