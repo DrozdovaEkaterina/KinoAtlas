@@ -1,0 +1,2569 @@
+{
+  "checkedAt": "2026-11-19",
+  "scope": "193 государства — члена ООН и два государства-наблюдателя: Ватикан и Палестина. Зависимые территории не выделены в отдельные страны.",
+  "method": "Проверяется место действия, а не гражданство режиссёра и не страна производства. Документальное кино включено. Отсутствие точки не означает отсутствия фильмов.",
+  "countries": [
+    {
+      "iso": "AU",
+      "title": "Crocodile Dundee",
+      "source": "https://www.movie-locations.com/movies/c/Crocodile-Dundee.php",
+      "note": "Кадр снят у Anbangbang Billabong в Какаду; показанный на заднем плане массив — Нурланги. Отметка обозначает район, а не точное положение камеры.",
+      "status": "on_map",
+      "sceneIds": [
+        "dundee-outback",
+        "nemo-sydney"
+      ],
+      "country": "Австралия",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AT",
+      "title": "Before Sunrise",
+      "source": "https://www.bfi.org.uk/features/before-sunrise-richard-linklater-vienna-locations",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "sunrise-wheel",
+        "sunrise-records",
+        "thirdman-door",
+        "sunrise-bridge"
+      ],
+      "country": "Австрия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AZ",
+      "title": "Nabat",
+      "source": "https://trigon-film.org/en/films/nabat/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-az-scene"
+      ],
+      "country": "Азербайджан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AL",
+      "title": "Falja e gjakut",
+      "source": "https://www.portobelloproductions.com/portfolio/the-forgiveness-of-blood/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-al-scene"
+      ],
+      "country": "Албания",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "DZ",
+      "title": "La battaglia di Algeri",
+      "source": "https://en.wikipedia.org/wiki/The_Battle_of_Algiers",
+      "note": "Показан район действия. Фильм реконструирует исторические события художественными средствами.",
+      "status": "on_map",
+      "sceneIds": [
+        "algiers-casbah"
+      ],
+      "country": "Алжир",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AO",
+      "title": "Ar condicionado",
+      "source": "https://iffr.com/en/iffr/2020/films/air-conditioner",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ao-scene"
+      ],
+      "country": "Ангола",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AD",
+      "title": "El fred que crema",
+      "source": "https://catalanfilms.cat/en/productions/the-burning-cold",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ad-scene"
+      ],
+      "country": "Андорра",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AG",
+      "title": "The Sweetest Mango",
+      "source": "https://db.ttfilmfestival.com/film/657/the-sweetest-mango/",
+      "note": "Трейлер и фестивальный синопсис подтверждают Антигуа. Конкретный пляж не установлен; точка приблизительно обозначает остров.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-ag"
+      ],
+      "country": "Антигуа и Барбуда",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AR",
+      "title": "El secreto de sus ojos",
+      "source": "https://www.sonyclassics.com/thesecretintheireyes/thesecretintheireyes_presskit.pdf",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ar-scene"
+      ],
+      "country": "Аргентина",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AM",
+      "title": "Սայաթ-Նովա",
+      "source": "https://www.festival-cannes.com/en/2014/cannes-classics-illuminated-cinematography-by-sergei-parajanov/",
+      "note": "Каннский фестиваль подтверждает съёмки фильма в Ахпате. Метка обозначает монастырский комплекс приблизительно; это поэтическая постановка, а не документальная демонстрация хранения рукописей.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-pomegranates-scene"
+      ],
+      "country": "Армения",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AF",
+      "title": "The Breadwinner",
+      "source": "https://westendfilms.com/library/the-breadwinner",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-af-scene"
+      ],
+      "country": "Афганистан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BS",
+      "title": "Casino Royale",
+      "source": "https://www.thejamesbonddossier.com/films/casino-royale/locations/bond-in-the-bahamas-the-one-and-only-ocean-club.htm",
+      "note": "Официальный фрагмент 007 показывает багамскую главу фильма. Точка обозначает пляж отеля Ocean Club приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-bs"
+      ],
+      "country": "Багамские Острова",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BD",
+      "title": "Matir Moina",
+      "source": "https://mk2films.com/en/film/loiseau-dargile-matir-moina/",
+      "note": "В фильме это Восточный Пакистан — территория современного Бангладеш. Метка условно обозначает сельский район; школа не привязывается к неподтверждённому точному адресу.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-claybird-scene"
+      ],
+      "country": "Бангладеш",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BB",
+      "title": "A Hand Full of Dirt",
+      "source": "https://db.ttfilmfestival.com/film/2800/a-hand-full-of-dirt/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bb-scene"
+      ],
+      "country": "Барбадос",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BH",
+      "title": "Alshajarah Alnaemah",
+      "source": "https://www.maffswe.com/wp-content/uploads/2021/02/MAFF-catalogue2015.compressed.pdf",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bh-scene"
+      ],
+      "country": "Бахрейн",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BY",
+      "title": "Come and See",
+      "source": "https://www.janusfilms.com/films/1968",
+      "note": "Действие фильма происходит на территории современной Беларуси в 1943 году. Метка условно обозначает район страны: точный карьер и положение камеры этим источником не установлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-comesee-scene"
+      ],
+      "country": "Беларусь",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BZ",
+      "title": "2012: Kurse a di Xtabai",
+      "source": "https://www.7newsbelize.com/printstory.php?func=print&nid=22631",
+      "note": "Режиссёр прямо называет Сан-Антонио местом истории и съёмки. Адрес дома в кадре не установлен; метка показывает деревню приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-bz"
+      ],
+      "country": "Белиз",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BE",
+      "title": "Rosetta",
+      "source": "https://www.criterion.com/films/28056-rosetta",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-be-scene"
+      ],
+      "country": "Бельгия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BJ",
+      "title": "Barbecue-Pejo",
+      "source": "https://www.canalplus.com/bj/cinema/barbecue-pejo/h/18335453_50001/resume-casting/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bj-scene"
+      ],
+      "country": "Бенин",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BG",
+      "title": "Urok",
+      "source": "https://filmmovement.com/educational/film/the-lesson",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bg-scene"
+      ],
+      "country": "Болгария",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BO",
+      "title": "Utama",
+      "source": "https://kinolorber.com/film/utama",
+      "note": "Действие происходит в боливийском высокогорье. Точка обозначает район Альтиплано приблизительно: источник не устанавливает точное место дороги в выбранном кадре.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-bolivia-llamas"
+      ],
+      "country": "Боливия",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BA",
+      "title": "Quo Vadis, Aida?",
+      "source": "https://www.austrianfilms.com/film/quo_vadis_aida",
+      "note": "Точка показывает место действия приблизительно. Сребреница в фильме воссоздана в том числе на натуре Мостара; кадр не выдаётся за документальные съёмки событий 1995 года.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ba-scene"
+      ],
+      "country": "Босния и Герцеговина",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BW",
+      "title": "The Gods Must Be Crazy",
+      "source": "https://en.wikipedia.org/wiki/The_Gods_Must_Be_Crazy",
+      "note": "Место действия — Калахари в Ботсване; часть натуры снята в нынешней Намибии. Точка региональная и не обозначает установленную деревню или положение камеры.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bw-scene"
+      ],
+      "country": "Ботсвана",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BR",
+      "title": "Cidade de Deus",
+      "source": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
+      "note": "Отметка обозначает район действия. Фильм снимали также в других районах Рио, включая Нову-Сепетибу.",
+      "status": "on_map",
+      "sceneIds": [
+        "citygod-camera",
+        "central-letters"
+      ],
+      "country": "Бразилия",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BN",
+      "title": "Yasmine",
+      "source": "https://asiawa.jpf.go.jp/en/culture/events/dragon-girl-170331/",
+      "note": "Действие происходит в современном Брунее. Метка приблизительно обозначает столичный район; конкретная школа и адрес зала в кадре не установлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-yasmine-scene"
+      ],
+      "country": "Бруней",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BF",
+      "title": "Yaaba",
+      "source": "https://trigon-film.org/en/films/yaaba/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bf-scene"
+      ],
+      "country": "Буркина-Фасо",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BI",
+      "title": "Gito, l’ingrat",
+      "source": "https://africanfilmny.org/films/gito-the-ungrateful-gito-lingrat/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-bi-scene"
+      ],
+      "country": "Бурунди",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "BT",
+      "title": "Lunana: A Yak in the Classroom",
+      "source": "https://filmsboutique.com/film/lunana-a-yak-in-the-classroom/",
+      "note": "Лунана — реальное горное поселение Бутана и место истории. Метка обозначает район деревни приблизительно; конкретное здание класса не устанавливается.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-lunana2-scene"
+      ],
+      "country": "Бутан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "VU",
+      "title": "Tanna",
+      "source": "https://www.nziff.co.nz/2016/timaru/tanna/",
+      "note": "Ясур и остров Танна — реальные места действия и съёмки. Метка показывает район вулкана приблизительно; точная площадка встречи не устанавливается.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-vanuatu-volcano"
+      ],
+      "country": "Вануату",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "VA",
+      "title": "The Two Popes",
+      "source": "https://acmag.com.au/2020/01/09/the-two-popes/amp/",
+      "note": "Место действия — Сикстинская капелла в Ватикане. Для фильма её интерьер специально воссоздали в павильоне; это экранная реконструкция, а не съёмка внутри настоящей капеллы.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-va-scene"
+      ],
+      "country": "Ватикан",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GB",
+      "title": "Notting Hill",
+      "source": "https://www.extstreet.com/Notting_Hill.html",
+      "note": "Внешний вид дома связан с адресом 280 Westbourne Park Road; интерьеры фильма — отдельная съёмочная локация.",
+      "status": "on_map",
+      "sceneIds": [
+        "notting-door",
+        "potter-platform"
+      ],
+      "country": "Великобритания",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "HU",
+      "title": "Werckmeister Harmonies",
+      "source": "https://www.janusfilms.com/films/2174",
+      "note": "Действие разворачивается в неназванном венгерском городке. Натурные съёмки проходили в нескольких венгерских городах; метка приблизительная и не утверждает точный адрес площади из кадра.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-werck-scene"
+      ],
+      "country": "Венгрия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "VE",
+      "title": "Pelo malo",
+      "source": "https://www.retinalatina.org/peliculas/pelo-malo/",
+      "note": "Источник подтверждает сюжет в бедном районе Каракаса. Метка приблизительная: маршрут автобуса и точная остановка в выбранном кадре не установлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-venezuela-bus"
+      ],
+      "country": "Венесуэла",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TL",
+      "title": "A Guerra da Beatriz",
+      "source": "https://www.fairtradefilms.com.au/buy-dvds/synopsis-beatrizs-war/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-tl-scene"
+      ],
+      "country": "Восточный Тимор",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "VN",
+      "title": "Xích lô",
+      "source": "https://thesmartlocal.com/vietnam/cyclo-1995/",
+      "note": "Сюжет разворачивается в Хошимине. Метка городская и приблизительная; конкретная уличная стойка из кадра не имеет установленного адреса.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-cyclo-scene"
+      ],
+      "country": "Вьетнам",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GA",
+      "title": "Dôlè",
+      "source": "https://iffr.com/en/iffr/2001/films/d%C3%B4l%C3%A9",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ga-scene"
+      ],
+      "country": "Габон",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "HT",
+      "title": "Moloch Tropical",
+      "source": "https://www.berlinale.de/en/2010/programme/20104020.html",
+      "note": "Это реальная Цитадель Лаферьер на Гаити, использованная как резиденция вымышленного президента. Показана экранная художественная история, а не документальная хроника заседания.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-haiti-citadel"
+      ],
+      "country": "Гаити",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GY",
+      "title": "The Terror and the Time",
+      "source": "https://www.documentary.org/feature/dreaming-change-world-victor-jara-collective-and-legacy-third-cinema",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-gy-scene"
+      ],
+      "country": "Гайана",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GM",
+      "title": "The Hand of Fate",
+      "source": "https://www.youtube.com/watch?v=cKcRf70PcWk",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-gm-scene"
+      ],
+      "country": "Гамбия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GH",
+      "title": "Azali",
+      "source": "https://en.wikipedia.org/wiki/Azali_%28film%29",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-gh-scene"
+      ],
+      "country": "Гана",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GT",
+      "title": "La Llorona",
+      "source": "https://lacasadeproduccion.com.gt/cine/la-llorona/",
+      "note": "Действие связано с историей Гватемалы и её столицы. Метка является городской привязкой; реальный адрес частного дома и точная позиция камеры не устанавливаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-guatemala-protest"
+      ],
+      "country": "Гватемала",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GN",
+      "title": "Dakan",
+      "source": "https://erostrate.org/en/oeuvres/guinee-conakry-10",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-gn-scene"
+      ],
+      "country": "Гвинея",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GW",
+      "title": "Mortu nega",
+      "source": "https://www.criterion.com/films/35947-mortu-nega",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-gw-scene"
+      ],
+      "country": "Гвинея-Бисау",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "DE",
+      "title": "Der Himmel über Berlin",
+      "source": "https://www.movie-locations.com/movies/w/Wings-Of-Desire.php",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "wings-angel",
+        "wings-library"
+      ],
+      "country": "Германия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "HN",
+      "title": "El Xendra",
+      "source": "https://cultura.cervantes.es/paris/es/el-xendra/127021",
+      "note": "Институт Сервантеса прямо подтверждает сюжетную Москитию в Гондурасе. Метка региональная: фантастический Белый город не выдаётся за реальную археологическую точку.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-hn"
+      ],
+      "country": "Гондурас",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GD",
+      "title": "Blinded",
+      "source": "https://en.wikipedia.org/wiki/Blinded_(2006_film)",
+      "note": "Найден местный игровой фильм; сюжетная география нуждается в дополнительном уточнении, одной страны производства недостаточно.",
+      "status": "setting_unconfirmed",
+      "sceneIds": [],
+      "country": "Гренада",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GR",
+      "title": "Before Midnight",
+      "source": "https://www.sonypictures.com/movies/beforemidnight",
+      "note": "На кадре — реальный аэропорт Каламаты. Это греческое место действия и место натурной съёмки; показан внешний установочный план терминала перед семейной сценой.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-midnight-scene"
+      ],
+      "country": "Греция",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GE",
+      "title": "Chemi Bednieri Ojakhi",
+      "source": "https://www.bigworldpictures.org/films/myhappyfamily/index.html",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ge-scene"
+      ],
+      "country": "Грузия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "DK",
+      "title": "Druk",
+      "source": "https://www.ica.art/films/another-round-ica",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-dk-scene"
+      ],
+      "country": "Дания",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CD",
+      "title": "Félicité",
+      "source": "https://strandreleasing.com/films/felicite/",
+      "note": "Киншаса — подтверждённое место действия. Метка городская и приблизительная; улица в установочном кадре не привязана к точному адресу.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-felicite-5-scene"
+      ],
+      "country": "Демократическая Республика Конго",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "DJ",
+      "title": "Dhalinyaro",
+      "source": "https://africanfilmfestivalnz.org.nz/?film=dhalinyaro",
+      "note": "Действие происходит в Джибути. Метка приблизительно обозначает столичный район; конкретный двор или адрес беседы не установлен.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-djibouti-1-scene"
+      ],
+      "country": "Джибути",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "DM",
+      "title": "Uncivilized",
+      "source": "https://www.brooklynfilmfestival.org/film-detail?fid=2178",
+      "note": "Это документальные съёмки на Доминике. Точная площадка лесного лагеря не опубликована; точка обозначает внутреннюю часть острова приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-dm"
+      ],
+      "country": "Доминика",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "DO",
+      "title": "Sugar",
+      "source": "https://www.sonypictures.com/movies/sugar",
+      "note": "Показана доминиканская часть истории, а не позднейшие эпизоды в Айове и Нью-Йорке. Точка обозначает Сан-Педро-де-Макорис приблизительно; заводской корпус в кадре не привязан к точному адресу.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-dominican-mill"
+      ],
+      "country": "Доминиканская Республика",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "EG",
+      "title": "باب الحديد",
+      "source": "https://en.wikipedia.org/wiki/Cairo_Station",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "cairo-station"
+      ],
+      "country": "Египет",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ZM",
+      "title": "I Am Not a Witch",
+      "source": "https://filmsandfestivals.britishcouncil.org/projects/i-am-not-a-witch",
+      "note": "История помещена в Замбию, но конкретная деревня художественная. Метка региональная; точный лагерь и адрес из одного кадра не утверждаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-witch-1-scene"
+      ],
+      "country": "Замбия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ZW",
+      "title": "Neria",
+      "source": "https://erostrate.org/en/oeuvres/zimbabwe-15",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-zw-scene"
+      ],
+      "country": "Зимбабве",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IL",
+      "title": "Bikur Ha-Tizmoret",
+      "source": "https://www.sonypictures.com/movies/thebandsvisit",
+      "note": "Бейт-Хатиква — вымышленный город в реальном Негеве. Метка региональная и не утверждает, что у кафе есть установленный адрес; Египет не засчитывается по национальности музыкантов.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-il-scene"
+      ],
+      "country": "Израиль",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IN",
+      "title": "Slumdog Millionaire",
+      "source": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
+      "note": "Это музыкальная кода на титрах, а не буквальное продолжение событий основного сюжета.",
+      "status": "on_map",
+      "sceneIds": [
+        "slumdog-station",
+        "lunchbox-delivery"
+      ],
+      "country": "Индия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ID",
+      "title": "Serbuan maut",
+      "source": "https://film-grab.com/2020/08/13/the-raid/",
+      "note": "Многоквартирный дом — художественная локация в Джакарте. Метка городская и приблизительная, без раскрытия или выдумывания адреса показанного коридора.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-raid-scene"
+      ],
+      "country": "Индонезия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "JO",
+      "title": "Theeb",
+      "source": "https://newwavefilms.co.uk/films/theeb/",
+      "note": "История разворачивается в османском Хиджазе, в районах современной южной Иордании. Метка региональная: съёмки проходили в нескольких пустынных локациях, точный участок каньона не утверждается.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-theeb-scene"
+      ],
+      "country": "Иордания",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IQ",
+      "title": "Lakposhtha ham parvaz mikonand",
+      "source": "https://iffr.com/en/iffr/2005/films/turtles-can-fly",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-iq-scene"
+      ],
+      "country": "Ирак",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IR",
+      "title": "جدایی نادر از سیمین",
+      "source": "https://en.wikipedia.org/wiki/A_Separation",
+      "note": "Указан Тегеран по сюжету, без утверждения конкретного адреса суда.",
+      "status": "on_map",
+      "sceneIds": [
+        "separation-court",
+        "world-ir-scene"
+      ],
+      "country": "Иран",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IE",
+      "title": "The Secret of Kells",
+      "source": "https://www.cartoonsaloon.ie/irish-animation-studio/feature-films/the-secret-of-kells/",
+      "note": "Действие происходит в реальном историческом Келлсе, однако двор, стены и персонажи созданы художниками в условном средневековом стиле. Метка показывает район монастырского поселения, а не точное место нарисованного огорода. Саму Келлскую книгу сегодня хранят в Дублине. Год первого выхода — 2009; даты фестивальных показов и национального проката различаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "kells-abbey"
+      ],
+      "country": "Ирландия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IS",
+      "title": "The Secret Life of Walter Mitty",
+      "source": "https://movieloci.com/2519-The-Secret-Life-of-Walter-Mitty?snapshot=30849",
+      "note": "Метка показывает участок дороги 93, где снимали спуск к Сейдисфьордюру. Монтаж объединяет несколько участков склона; панорамный кадр не выдаётся за точную позицию камеры. В фильме география исландских городов и извержения условна.",
+      "status": "on_map",
+      "sceneIds": [
+        "mitty-longboard"
+      ],
+      "country": "Исландия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ES",
+      "title": "Todo sobre mi madre",
+      "source": "https://www.movie-locations.com/movies/a/All-About-My-Mother.php",
+      "note": "На кадре — прогулка двух героинь в Барселоне. Метка обозначает город приблизительно; точное положение камеры и название площади по одному кадру не утверждаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-mother-scene"
+      ],
+      "country": "Испания",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "IT",
+      "title": "Roman Holiday",
+      "source": "https://www.movie-locations.com/movies/r/Roman-Holiday.php",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "roman-gelato",
+        "roman-truth",
+        "dolce-trevi",
+        "roman-farewell"
+      ],
+      "country": "Италия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "YE",
+      "title": "Al Murhaqoon",
+      "source": "https://mad-distribution.film/movies/movie1115416.php",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ye-scene"
+      ],
+      "country": "Йемен",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CV",
+      "title": "Casa de Lava",
+      "source": "https://film-grab.com/2020/05/02/casa-de-lava/",
+      "note": "Фогу — реальное место действия и натуры в Кабо-Верде. Метка показывает остров приблизительно; точное место установки камеры на склоне не устанавливается.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-casa-1-scene"
+      ],
+      "country": "Кабо-Верде",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KZ",
+      "title": "Tulpan",
+      "source": "https://www.palacefilms.com.au/tulpan",
+      "note": "Сюжетная степь относится к Казахстану. Метка региональная; конкретная кибитка и точное положение героя в выбранном кадре не установлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-tulpan2-scene"
+      ],
+      "country": "Казахстан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KH",
+      "title": "花樣年華",
+      "source": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "mood-angkor"
+      ],
+      "country": "Камбоджа",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CM",
+      "title": "The Fisherman’s Diary",
+      "source": "https://www.luxorafricanfilmfestival.com/fr/PastEditions/2021/Film/Long%20Narrative/The%20Fisherman%27s%20Diary",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-cm-scene"
+      ],
+      "country": "Камерун",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CA",
+      "title": "Mommy",
+      "source": "https://canfilmday.ca/film/mommy/",
+      "note": "Фильм прямо помещает историю в условную Канаду. Использована приблизительная привязка к Квебеку и пригородам Монреаля; точный адрес улицы не утверждается. Сюжетные законы в фильме вымышлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-canada-skate"
+      ],
+      "country": "Канада",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "QA",
+      "title": "Clockwise",
+      "source": "https://www.gulf-times.com/story/350242/review",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-qa-scene"
+      ],
+      "country": "Катар",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KE",
+      "title": "Out of Africa",
+      "source": "https://angama.com/experience/out-of-africa-picnic/",
+      "note": "Показан район откоса Олололо над Mara Triangle, у нынешнего Angama Mara. Сам комплекс подтверждает съёмки пикника на этом месте. Метка дана по району комплекса: точное положение камеры и пледа не установлено.",
+      "status": "on_map",
+      "sceneIds": [
+        "africa-picnic"
+      ],
+      "country": "Кения",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CY",
+      "title": "Smuggling Hendrix",
+      "source": "https://www.the-match-factory.com/catalogue/films/smuggling-hendrix.html",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-cy-scene"
+      ],
+      "country": "Кипр",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KG",
+      "title": "Белый пароход",
+      "source": "https://erostrate.org/en/oeuvres/kirghizstan-22",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-kg-scene"
+      ],
+      "country": "Киргизия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KI",
+      "title": "Anote’s Ark",
+      "source": "https://www.piccom.org/programs/anote-s-ark",
+      "note": "Это документальный кадр Кирибати. Метка имеет региональную точность: конкретный атолл и участок берега в подписи к предоставленному кадру не названы.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-kiribati-water"
+      ],
+      "country": "Кирибати",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CN",
+      "title": "重慶森林",
+      "source": "https://en.wikipedia.org/wiki/Chungking_Express",
+      "note": "Закусочная Midnight Express связана с Central и районом эскалатора Mid-Levels. Отметка обозначает район, а не сохранившуюся точку питания.",
+      "status": "on_map",
+      "sceneIds": [
+        "chungking-snack",
+        "mood-noodles",
+        "emperor-palace"
+      ],
+      "country": "Китай",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CO",
+      "title": "El abrazo de la serpiente",
+      "source": "https://embraceoftheserpent.oscilloscope.net/",
+      "note": "Метка обозначает колумбийскую Амазонию приблизительно. Фильм снят в колумбийских джунглях; конкретный речной изгиб в кадре не выдаётся за установленный адрес.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-colombia-canoe"
+      ],
+      "country": "Колумбия",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KM",
+      "title": "La Résidence Ylang Ylang",
+      "source": "https://www.semainedelacritique.com/fr/edition/2008/film/la-residence-ylang-ylang",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-km-scene"
+      ],
+      "country": "Коморы",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CR",
+      "title": "Clara Sola",
+      "source": "https://trigon-film.org/en/films/clara-sola/",
+      "note": "Действие происходит в сельской Коста-Рике. Источник не называет точный адрес дороги: метка лишь региональная и не выдаёт вымышленную деревню за установленное поселение.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-costarica-road"
+      ],
+      "country": "Коста-Рика",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CI",
+      "title": "La Nuit des rois",
+      "source": "https://www.neonrated.com/film/night-of-the-kings",
+      "note": "MACA в Абиджане — сюжетное место фильма. Метка приблизительная; постановочное пространство и освещение кадра не выдаются за документальную съёмку действующего тюремного корпуса.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-kings-1-scene"
+      ],
+      "country": "Кот-д’Ивуар",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CU",
+      "title": "Soy Cuba",
+      "source": "https://www.criterion.com/films/33466-i-am-cuba",
+      "note": "Кадр относится к гаванской части фильма. Метка приблизительно обозначает город; конкретный перекрёсток и положение камеры в этом источнике не установлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-cuba-funeral"
+      ],
+      "country": "Куба",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KW",
+      "title": "Bas ya bahar",
+      "source": "https://cine-scope.com/2018/04/04/the-cruel-sea/",
+      "note": "Показан экранный Кувейт до нефтяного бума. Метка обозначает прибрежный район приблизительно; положение судна и конкретный порт по кадру не устанавливаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-cruelsea-scene"
+      ],
+      "country": "Кувейт",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LA",
+      "title": "The Rocket",
+      "source": "https://www.castellinaria.ch/Presskit-da4efa00?MasterId=g1_213&i=1",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-la-scene"
+      ],
+      "country": "Лаос",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LV",
+      "title": "Dvēseļu putenis",
+      "source": "https://www.nkc.gov.lv/en/blizzard-souls",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-lv-scene"
+      ],
+      "country": "Латвия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LS",
+      "title": "This Is Not a Burial, It’s a Resurrection",
+      "source": "https://www.criterion.com/films/32409-this-is-not-a-burial-its-a-resurrection",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ls-scene"
+      ],
+      "country": "Лесото",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LR",
+      "title": "Pray the Devil Back to Hell",
+      "source": "https://www.forkfilms.com/pray-the-devil-back-to-hell/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-lr-scene"
+      ],
+      "country": "Либерия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LB",
+      "title": "Capharnaüm",
+      "source": "https://artmejo.com/capernaum-a-story-of-hope/",
+      "note": "История происходит в Бейруте. Метка приблизительная; конкретная полоса дороги из кадра не выдаётся за подтверждённый адрес.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-capernaum-scene"
+      ],
+      "country": "Ливан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LY",
+      "title": "Lion of the Desert",
+      "source": "https://ciff.org.eg/en/program/films/lion-of-the-desert",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ly-scene"
+      ],
+      "country": "Ливия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LT",
+      "title": "Sangailės vasara",
+      "source": "https://strandreleasing.com/films/the-summer-of-sangaile/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-lt-scene"
+      ],
+      "country": "Литва",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LI",
+      "title": "Kinder der Berge / Ludmila",
+      "source": "https://alteskino.li/en/film/kinder-der-berge/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-li-scene"
+      ],
+      "country": "Лихтенштейн",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LU",
+      "title": "Gutland",
+      "source": "https://www.psfilmfest.org/2018-ps-film-festival/film-archive/gutland",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-lu-scene"
+      ],
+      "country": "Люксембург",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MU",
+      "title": "Lonbraz Kann",
+      "source": "https://www.imagesfrancophones.org/catalogue/lonbraz-kann-14254",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mu-scene"
+      ],
+      "country": "Маврикий",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MR",
+      "title": "Heremakono",
+      "source": "https://msfilmfestival.fi/en/movies/waiting-for-happiness/",
+      "note": "Действие происходит в Нуадибу. Точка обозначает город приблизительно; адрес комнаты и окна в выбранном кадре не подтверждён.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-waiting-1-scene"
+      ],
+      "country": "Мавритания",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MG",
+      "title": "Madagascar",
+      "source": "https://www.dreamworks.com/movies/madagascar",
+      "note": "Сюжет указывает остров Мадагаскар, но точного реального пляжа в фильме нет. Метка условно обозначает остров целиком; рисованный берег не выдается за конкретный туристический пляж.",
+      "status": "on_map",
+      "sceneIds": [
+        "madagascar-beach"
+      ],
+      "country": "Мадагаскар",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MW",
+      "title": "The Boy Who Harnessed the Wind",
+      "source": "https://en.wikipedia.org/wiki/The_Boy_Who_Harnessed_the_Wind",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mw-scene"
+      ],
+      "country": "Малави",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MY",
+      "title": "Tiger Stripes",
+      "source": "https://filmsboutique.com/film/tiger-stripes/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-my-scene"
+      ],
+      "country": "Малайзия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ML",
+      "title": "Yeelen",
+      "source": "https://trigon-film.org/en/films/yeelen/",
+      "note": "Сюжет связан с культурой бамбара на территории современного Мали. Деревня и эпоха художественно обобщены; метка имеет региональную точность и не обозначает установленный адрес хижины.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-yeelen-1-scene"
+      ],
+      "country": "Мали",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MV",
+      "title": "Ghaazee Bandaarain",
+      "source": "https://www.youtube.com/watch?v=nfZi2YglM2k",
+      "note": "Телевизионная историческая постановка о Мальдивах. Конкретный остров и дом выбранного эпизода не установлены; метка обозначает архипелаг приблизительно. Сохранено качество архивной телевизионной записи.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mv-scene"
+      ],
+      "country": "Мальдивы",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MT",
+      "title": "Luzzu",
+      "source": "https://kinolorber.com/film/luzzu",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mt-scene"
+      ],
+      "country": "Мальта",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MA",
+      "title": "Le Bleu du caftan",
+      "source": "https://film-grab.com/2026/05/11/the-blue-caftan/",
+      "note": "Сюжетная мастерская находится в Сале. Метка обозначает медину приблизительно; конкретный частный адрес и расположение станка по кадру не устанавливаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-bluecaftan-15-scene"
+      ],
+      "country": "Марокко",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MH",
+      "title": "Ainikien Jidjid ilo Boñ",
+      "source": "https://www.microwavefilms.org/Crickets.html",
+      "note": "Трейлер прямо называет Эджит на атолле Маджуро местом жизни переселённой общины. Точка приблизительно обозначает островок; это современная сюжетная сцена, а не архив ядерного взрыва.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-mh"
+      ],
+      "country": "Маршалловы Острова",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MX",
+      "title": "Roma",
+      "source": "https://www.sceen-it.com/sceen/2991/Roma/Teatro-Metropolitan",
+      "note": "На кадре — настоящий фасад Metropolitan на Avenida Independencia. Действие происходит в Мехико 1970-х; здание оформлено для съёмок как действующий кинотеатр того времени, а не как современная концертная площадка.",
+      "status": "on_map",
+      "sceneIds": [
+        "roma-cinema"
+      ],
+      "country": "Мексика",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MZ",
+      "title": "Comboio de Sal e Açúcar",
+      "source": "https://trigon-film.org/en/films/the-train-of-salt-and-sugar/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mz-scene"
+      ],
+      "country": "Мозамбик",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MD",
+      "title": "Carbon",
+      "source": "https://film.md/en/movie-details/carbon",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-md-scene"
+      ],
+      "country": "Молдавия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MC",
+      "title": "Iron Man 2",
+      "source": "https://www.marvel.com/movies/iron-man-2",
+      "note": "Это экранная реконструкция трассы Монако: крупные планы снимали на построенной площадке, а часть окружения добавили визуальными эффектами. Метка обозначает место действия по сюжету, а не место установки камеры.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-ironmonaco-scene"
+      ],
+      "country": "Монако",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MN",
+      "title": "Die Höhle des gelben Hundes",
+      "source": "https://archives.cinemas-asie.com/en/movies/item/3853-the-cave-of-the-yellow-dog.html",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mn-scene"
+      ],
+      "country": "Монголия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MM",
+      "title": "Biruma no tategoto",
+      "source": "https://prod.janusfilms.com/films/1213",
+      "note": "Точка показывает место действия приблизительно. Большая часть фильма снималась в Японии: показан художественный образ Бирмы конца Второй мировой войны.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mm-scene"
+      ],
+      "country": "Мьянма",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NA",
+      "title": "Namibia: The Struggle for Liberation",
+      "source": "https://africanfilmny.org/films/namibia-the-struggle-for-liberation/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-na-scene"
+      ],
+      "country": "Намибия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NR",
+      "title": "Far End of the Sea",
+      "source": "https://www.nauruisland.org/culture/naoero-world-far-end-sea",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-nr-scene"
+      ],
+      "country": "Науру",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NP",
+      "title": "Himalaya, l’enfance d’un chef",
+      "source": "https://www.ericvalli.org/himalaya-eric-valli-film/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-np-scene"
+      ],
+      "country": "Непал",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NE",
+      "title": "Le Wazzou polygame",
+      "source": "https://africanfilmny.org/films/le-wazzou-polygame/",
+      "note": "Действие в нигерской общине; годы источников расходятся между 1970 и 1971.",
+      "status": "frame_needed",
+      "sceneIds": [],
+      "country": "Нигер",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NG",
+      "title": "Eyimofe",
+      "source": "https://www.janusfilms.com/films/2034",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ng-scene"
+      ],
+      "country": "Нигерия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NL",
+      "title": "Amsterdamned",
+      "source": "https://www.filmfestival.nl/en/film/amsterdamned",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-nl-scene"
+      ],
+      "country": "Нидерланды",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NI",
+      "title": "Carla’s Song",
+      "source": "https://protagonistpictures.com/film/carlas-song/",
+      "note": "Выбран кадр никарагуанской главы трейлера Film4, после шотландского начала. Населённый пункт не установлен, поэтому привязка только региональная.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-ni"
+      ],
+      "country": "Никарагуа",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NZ",
+      "title": "The Piano",
+      "source": "https://en.wikipedia.org/wiki/The_Piano",
+      "note": "Действие — Новая Зеландия XIX века, без современного адреса. Знаменитый берег снимали на пляже Карекаре; точка привязана к этому визуальному ориентиру.",
+      "status": "on_map",
+      "sceneIds": [
+        "piano-beach"
+      ],
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "NO",
+      "title": "The Worst Person in the World",
+      "source": "https://www.kinoafisha.info/en/movies/8365442/locations/",
+      "note": "На кадре виден Осло с террасы ресторана Ekeberg. Точка приблизительно отмечает ресторан и окружающий парк; это место действия в Норвегии, а не только норвежский прототип вымышленного города.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-worst-scene"
+      ],
+      "country": "Норвегия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "AE",
+      "title": "City of Life",
+      "source": "https://www.alimostafa.com/work/city-of-life/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ae-scene"
+      ],
+      "country": "Объединённые Арабские Эмираты",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "OM",
+      "title": "Al’boum",
+      "source": "https://www.3continents.com/en/film/alboum/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-om-scene"
+      ],
+      "country": "Оман",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PK",
+      "title": "Joyland",
+      "source": "https://film-grab.com/2024/01/10/joyland/",
+      "note": "Это сюжетный Лахор; точный адрес площадки аттракционов из выбранного общего плана не устанавливается.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-joyland-scene"
+      ],
+      "country": "Пакистан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PW",
+      "title": "The Last Reef: Cities Beneath the Sea",
+      "source": "https://www.youtube.com/watch?v=B5OJ3tgMfAQ",
+      "note": "Продюсер Yes/No Productions отдельно опубликовал материал о съёмках фильма в Jellyfish Lake. Выбран соответствующий озёрный эпизод трейлера, а не любой коралловый риф из многолокационного фильма. Метка приблизительно обозначает озеро.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-pw-scene"
+      ],
+      "country": "Палау",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PS",
+      "title": "Paradise Now",
+      "source": "https://www.lama-films.com/feature-films/paradise-now",
+      "note": "Наблус — подтверждённое место действия. Метка городская и приблизительная: точная смотровая площадка и положение автомобиля не установлены.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-paradise-scene"
+      ],
+      "country": "Палестина",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PA",
+      "title": "The Tailor of Panama",
+      "source": "https://www.sonypictures.com/movies/thetailorofpanama",
+      "note": "В кадре узнаваемые шлюзы Мирафлорес. Метка обозначает комплекс шлюзов, а не предполагаемую позицию камеры.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-pa"
+      ],
+      "country": "Панама",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PG",
+      "title": "Mr Pip",
+      "source": "https://www.nzfilm.co.nz/films/mr-pip",
+      "note": "Новая Зеландская кинокомиссия подтверждает сюжет на Бугенвиле и съёмки в деревне Пидиа. Точка показывает район деревни приблизительно, а не точное место на песке.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-png-beach"
+      ],
+      "country": "Папуа — Новая Гвинея",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PY",
+      "title": "7 cajas",
+      "source": "https://watch.eventive.org/arthouseclassics/play/612cf02eda3bec003ed6a9d1",
+      "note": "Сюжет прямо связан с Mercado 4 в Асунсьоне. Метка показывает рынок приблизительно: конкретный торговый проход не установлен.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-py"
+      ],
+      "country": "Парагвай",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PE",
+      "title": "Diarios de motocicleta",
+      "source": "https://en.wikipedia.org/wiki/The_Motorcycle_Diaries_(film)",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "motorcycle-machu",
+        "motorcycle-river"
+      ],
+      "country": "Перу",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PL",
+      "title": "Ida",
+      "source": "https://www.musicboxfilms.com/film/ida/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-pl-scene"
+      ],
+      "country": "Польша",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PT",
+      "title": "Tabu",
+      "source": "https://leffest.com/en/films/tabu",
+      "note": "Первая часть фильма происходит в Лиссабоне; последующая история в Африке относится к другому времени и месту. Метка показывает лиссабонский эпизод приблизительно, без выдуманного точного адреса парка.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-tabu-scene"
+      ],
+      "country": "Португалия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CG",
+      "title": "La rançon d’une alliance",
+      "source": "https://www.adiac-congo.com/node/112391",
+      "note": "История двух общин в доколониальном Конго; пока без кадра с проверенным местом.",
+      "status": "frame_needed",
+      "sceneIds": [],
+      "country": "Республика Конго",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "RU",
+      "title": "Anastasia",
+      "source": "https://am.animatedviews.com/Anastasia.html",
+      "note": "Это реальный архитектурный прототип, а не место натурной съёмки. Художники использовали Екатерининский дворец в Царском Селе и изменили его пропорции; production notes отдельно описывают замену первоначального замысла с Зимним дворцом. География и события мультфильма художественно переработаны.",
+      "status": "on_map",
+      "sceneIds": [
+        "anastasia-palace",
+        "leviathan-teriberka"
+      ],
+      "country": "Россия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "RW",
+      "title": "Hotel Rwanda",
+      "source": "https://repertoire.cinema.mcc.gouv.qc.ca/film/hotel-rwanda-237240/",
+      "note": "Сюжетное место — отель «Миль Коллин» в Кигали. Его экранный образ воссоздан на другой натуре, в том числе в ЮАР; кадр не выдаётся за съёмку внутри настоящего отеля.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-rw-scene"
+      ],
+      "country": "Руанда",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "RO",
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "source": "https://www.festival-cannes.com/en/f/4-luni-3-saptamani-si-2-zile/",
+      "note": "События происходят в Румынии в 1987 году. Город в повествовании не назван; метка является региональной привязкой к стране и не выдаётся за точный адрес улицы.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-fourmonths-scene"
+      ],
+      "country": "Румыния",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SV",
+      "title": "Voces inocentes",
+      "source": "https://sic.cultura.gob.mx/ficha.php?table=produccion_cine&table_id=183",
+      "note": "Место действия — Сальвадор; натура снималась в Мексике. Экранная деревня не имеет подтверждённого точного адреса, поэтому точка обозначает сюжетную страну приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-sv"
+      ],
+      "country": "Сальвадор",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "WS",
+      "title": "O le tulafale",
+      "source": "https://trigon-film.org/en/films/the-orator/",
+      "note": "История разворачивается в Самоа. Метка приблизительно обозначает Уполу; поле и неназванная деревня в кадре не выдаются за установленный туристический адрес.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-samoa-taro"
+      ],
+      "country": "Самоа",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SM",
+      "title": "Lo sconosciuto di San Marino",
+      "source": "https://www.archiviodelcinemaitaliano.it/risultati/scheda?codice=DC5565",
+      "note": "Точка обозначает сюжетный старый город приблизительно; адрес улицы и позиция камеры не установлены. Фильм датируют производством 1946–1947 годов; в карточке указан год итальянского проката — 1948.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sm-scene"
+      ],
+      "country": "Сан-Марино",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ST",
+      "title": "The Lost Wave: An African Surf Story",
+      "source": "https://www.netflix.com/title/70078781",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-st-scene"
+      ],
+      "country": "Сан-Томе и Принсипи",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SA",
+      "title": "Wadjda",
+      "source": "https://www.eyefilm.nl/en/whats-on/wadjda/520503",
+      "note": "История происходит в Эр-Рияде. Метка городская и приблизительная; торговая площадка в кадре не выдаётся за подтверждённый адрес магазина.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-wadjda-scene"
+      ],
+      "country": "Саудовская Аравия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KP",
+      "title": "Comrade Kim Goes Flying",
+      "source": "https://koryostudio.com/films/comrade-kim-goes-flying/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-kp-scene"
+      ],
+      "country": "Северная Корея",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "MK",
+      "title": "Pred doždot",
+      "source": "https://manchevski.com/films/before-the-rain/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-mk-scene"
+      ],
+      "country": "Северная Македония",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SC",
+      "title": "Aldabra: Once Upon an Island",
+      "source": "https://www.nation.sc/archive/249152/new-3d-film-aldabra-once-upon-an-island",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sc-scene"
+      ],
+      "country": "Сейшельские Острова",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SN",
+      "title": "Touki Bouki",
+      "source": "https://en.wikipedia.org/wiki/Touki_Bouki",
+      "note": "Отметка обозначает город действия; экранный маршрут соединяет несколько мест Дакара.",
+      "status": "on_map",
+      "sceneIds": [
+        "touki-dakar"
+      ],
+      "country": "Сенегал",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "VC",
+      "title": "Living Memories",
+      "source": "https://www.youtube.com/watch?v=42DusrdVyzU",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-vc-scene"
+      ],
+      "country": "Сент-Винсент и Гренадины",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KN",
+      "title": "A Week in Paradise",
+      "source": "https://www.sknvibes.com/news/newsdetails.cfm/118228",
+      "note": "Съёмки на Невисе подтверждены; необходимо отдельно подтвердить, что остров назван в сюжете, а не изображает другое место.",
+      "status": "setting_unconfirmed",
+      "sceneIds": [],
+      "country": "Сент-Китс и Невис",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LC",
+      "title": "Shantaye’s World",
+      "source": "https://silver.afi.com/movies/detail/0100004062/",
+      "note": "Выбрана островная часть трейлера, а не более поздние английские эпизоды. Точная тропа не установлена; метка приблизительно показывает сельскую часть Сент-Люсии.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-lc"
+      ],
+      "country": "Сент-Люсия",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "RS",
+      "title": "Underground",
+      "source": "https://www.festival-cannes.com/en/f/underground/",
+      "note": "В начале фильма показан Белград 1941 года в Югославии. Страна в фильтре указана по современному расположению города — Сербия. Метка обозначает город приблизительно, а не точную улицу постановочного эпизода.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-underground-scene"
+      ],
+      "country": "Сербия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SG",
+      "title": "Crazy Rich Asians",
+      "source": "https://www.sceen-it.com/sceen/2923/Crazy-Rich-Asians/Marina-Bay-Sands-Singapore",
+      "note": "Показана настоящая узнаваемая панорама Сингапура, стилизованная для экранного праздника. Внутренние сцены других мест фильма не следует приписывать этому зданию.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-crazyrich-scene"
+      ],
+      "country": "Сингапур",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SY",
+      "title": "Return to Homs",
+      "source": "https://www.no-nation.de/films/return-to-homs",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sy-scene"
+      ],
+      "country": "Сирия",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SK",
+      "title": "Obchod na korze",
+      "source": "https://www.criterion.com/films/669-the-shop-on-main-street",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sk-scene"
+      ],
+      "country": "Словакия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SI",
+      "title": "Razredni sovražnik",
+      "source": "https://bsf.si/en/movie/razredni-sovraznik/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-si-scene"
+      ],
+      "country": "Словения",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "US",
+      "title": "Ghostbusters",
+      "source": "https://www.movie-locations.com/movies/g/Ghostbusters.php",
+      "note": "Действие происходит в Нью-Йорке; часть библиотечных интерьеров снимали в Лос-Анджелесе.",
+      "status": "on_map",
+      "sceneIds": [
+        "ghost-library",
+        "ghost-firehouse",
+        "tiffany-window",
+        "homealone-hotel",
+        "homealone-tree",
+        "rocky-steps",
+        "vertigo-bay",
+        "vertigo-mission",
+        "lalaland-griffith",
+        "lalaland-bench",
+        "dundee-nyc",
+        "breakingbad-pollos",
+        "friends-bedford",
+        "satc-magnolia",
+        "balto-nome"
+      ],
+      "country": "Соединённые Штаты Америки",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SB",
+      "title": "The Thin Red Line",
+      "source": "https://www.criterion.com/films/27513-the-thin-red-line",
+      "note": "По сюжету это Гуадалканал на Соломоновых Островах в 1942 году. Боевая сцена воссоздана на съёмочных площадках в Австралии; метка обозначает место действия, а не место установки камеры.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-solomon-battle"
+      ],
+      "country": "Соломоновы Острова",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SO",
+      "title": "Black Hawk Down",
+      "source": "https://www.sonypictures.com/movies/blackhawkdown",
+      "note": "Могадишо в фильме изображает марокканский Сале. Точка приблизительно обозначает сюжетный город; это реконструкция событий, а не снятый в Сомали репортаж.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-so-scene"
+      ],
+      "country": "Сомали",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SD",
+      "title": "You Will Die at Twenty",
+      "source": "https://www.dohafilm.com/en/contents/b4f19130-9d84-40b2-9024-9f5e47dbf2d4",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sd-scene"
+      ],
+      "country": "Судан",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SR",
+      "title": "Wan Pipel",
+      "source": "https://www.eyefilm.nl/whats-on/wan-pipel/1154053",
+      "note": "Архив Eye подтверждает возвращение героя в Суринам. Выбран вид городской набережной; положение точки в Парамарибо приблизительное.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-sr"
+      ],
+      "country": "Суринам",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SL",
+      "title": "Blood Diamond",
+      "source": "https://watch.afi.com/movie/blood-diamond",
+      "note": "Место действия — Сьерра-Леоне. Съёмочная натура фильма находится в том числе в Мозамбике и ЮАР; метка показывает сюжетный Фритаун приблизительно и не выдаёт реконструкцию за документальный кадр города.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sl-scene"
+      ],
+      "country": "Сьерра-Леоне",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TJ",
+      "title": "Кош ба кош",
+      "source": "https://iffr.com/en/iffr/1994/films/kosh-ba-kosh",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-tj-scene"
+      ],
+      "country": "Таджикистан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TH",
+      "title": "The Beach",
+      "source": "https://www.sceen-it.com/sceen/1582/The-Beach/Maya-Bay-on-Ko-Phi-Phi-Le",
+      "note": "Экранную бухту снимали в Maya Bay на острове Пхи-Пхи-Ле в Андаманском море. Остров в истории вымышленный; часть окружающих скал и замкнутый облик бухты изменяли цифровыми эффектами.",
+      "status": "on_map",
+      "sceneIds": [
+        "beach-maya"
+      ],
+      "country": "Таиланд",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TZ",
+      "title": "Maangamizi: The Ancient One",
+      "source": "https://www.ica.art/films/womens-stories/maangamizi-the-ancient-one",
+      "note": "Источник подтверждает танзанийскую историю. Точный адрес клиники и положение камеры для этого крупного плана не установлены; точка обозначает только страну, а не конкретное здание.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-tz-scene"
+      ],
+      "country": "Танзания",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TG",
+      "title": "Djanta",
+      "source": "https://en.wikipedia.org/wiki/Djanta",
+      "note": "Найден «Djanta», но пока недостаточно подтверждений, что сюжет происходит именно в Того. Национальность режиссёра не засчитывается за место действия.",
+      "status": "setting_unconfirmed",
+      "sceneIds": [],
+      "country": "Того",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TO",
+      "title": "Leitis in Waiting",
+      "source": "https://www.leitisinwaiting.com/",
+      "note": "Официальная галерея прямо подписывает этот кадр как Leitis on Fafa Island. Метка приблизительно обозначает остров, а не конкретный участок пляжа.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-tonga-fafa"
+      ],
+      "country": "Тонга",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TT",
+      "title": "Green Days by the River",
+      "source": "https://www.fiff.ch/en/green-days-river",
+      "note": "История помещена на сельский Тринидад 1952 года, в район Маяро. Точный двор не установлен; метка региональная.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-tt"
+      ],
+      "country": "Тринидад и Тобаго",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TV",
+      "title": "Time & Tide",
+      "source": "https://www.piccom.org/programs/time-tide",
+      "note": "Точка условно обозначает Тувалу. В выбранном кадре не указан конкретный остров или дом; его не следует воспринимать как установленный адрес в Фунафути.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-tuvalu-return"
+      ],
+      "country": "Тувалу",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TN",
+      "title": "Un été à La Goulette",
+      "source": "https://kinolorber.com/film/asummerinlagoulette",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-tn-scene"
+      ],
+      "country": "Тунис",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TM",
+      "title": "Gelin / Невестка",
+      "source": "https://archives.cinemadureel.org/en/film/nevestka-2/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-tm-scene"
+      ],
+      "country": "Туркмения",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TR",
+      "title": "Bir Zamanlar Anadolu’da",
+      "source": "https://film-grab.com/2020/07/08/once-upon-a-time-in-anatolia/",
+      "note": "Метка обозначает анатолийский район Турции приблизительно; вымышленный маршрут поиска не привязан к единственному перекрёстку.",
+      "status": "on_map",
+      "sceneIds": [
+        "as-anatolia-scene"
+      ],
+      "country": "Турция",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "UG",
+      "title": "Queen of Katwe",
+      "source": "https://movies.disney.com/queen-of-katwe",
+      "note": "История Фионы связана с Катве в Кампале. Точка имеет районную точность; место конкретного стола на открытом воздухе из этого кадра не устанавливается.",
+      "status": "on_map",
+      "sceneIds": [
+        "af-katwe-1-scene"
+      ],
+      "country": "Уганда",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "UZ",
+      "title": "Sen yetim emassan / Ты не сирота",
+      "source": "https://www.youtube.com/watch?v=XecZ-_oCL4M",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-uz-scene"
+      ],
+      "country": "Узбекистан",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "UA",
+      "title": "Броненосец «Потёмкин»",
+      "source": "https://en.wikipedia.org/wiki/Battleship_Potemkin",
+      "note": "Это художественная сцена, а не документальная съёмка. Конкретного расстрела на лестнице, показанного в фильме, исторические источники не подтверждают.",
+      "status": "on_map",
+      "sceneIds": [
+        "potemkin-stairs",
+        "potemkin-harbor"
+      ],
+      "country": "Украина",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "UY",
+      "title": "Whisky",
+      "source": "https://www.pandorafilm.com/filmography/whisky.html",
+      "note": "Действие этой части фильма происходит в Монтевидео. Метка городская и приблизительная; адрес фабрики и окна по кадру не утверждаются.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-uruguay-factory"
+      ],
+      "country": "Уругвай",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "FM",
+      "title": "The Navigators",
+      "source": "https://store.der.org/mobile/the-navigators-p592.aspx",
+      "note": "Автор фильма Сэм Лоу прямо подписывает этот фрагмент как демонстрацию поворота проа Мау Пиаилугом у Сатавала. Метка приблизительно обозначает воды острова; гавайские кадры из другого фрагмента сюда не перенесены.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-fm-scene"
+      ],
+      "country": "Федеративные Штаты Микронезии",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "FJ",
+      "title": "The Land Has Eyes",
+      "source": "https://iffr.com/en/iffr/2004/films/the-land-has-eyes",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-fj-scene"
+      ],
+      "country": "Фиджи",
+      "region": "Океания",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "PH",
+      "title": "Maynila sa mga Kuko ng Liwanag",
+      "source": "https://player.bfi.org.uk/rentals/film/watch-manila-in-the-claws-of-light-1975-online",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ph-scene"
+      ],
+      "country": "Филиппины",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "FI",
+      "title": "Fallen Leaves",
+      "source": "https://www.kinoafisha.info/en/movies/8371220/locations/",
+      "note": "В фильме действие происходит в Хельсинки. Экстерьер Ritz снимали на Eteläinen Hesperiankatu; метка приблизительно показывает этот район, а не кассу или точное положение героев.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-fallen-scene"
+      ],
+      "country": "Финляндия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "FR",
+      "title": "Le Fabuleux Destin d’Amélie Poulain",
+      "source": "https://www.movie-locations.com/movies/a/Amelie.php",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "amelie-cafe",
+        "amelie-sacre",
+        "midnight-steps",
+        "amelie-shop",
+        "emilyinparis-palais"
+      ],
+      "country": "Франция",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "HR",
+      "title": "Ustav Republike Hrvatske",
+      "source": "https://havc.hr/eng/croatian-film/croatian-film-catalogue/the-constitution",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-hr-scene"
+      ],
+      "country": "Хорватия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CF",
+      "title": "Le Silence de la forêt",
+      "source": "https://fr.wikipedia.org/wiki/Le_Silence_de_la_for%C3%AAt",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-cf-scene"
+      ],
+      "country": "Центральноафриканская Республика",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "TD",
+      "title": "Un homme qui crie",
+      "source": "https://www.festival-cannes.com/f/un-homme-qui-crie/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-td-scene"
+      ],
+      "country": "Чад",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ME",
+      "title": "Igla ispod praga",
+      "source": "https://www.fcs.rs/en/movies/igla-ispod-praga-manjinska-koprodukcija/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-me-scene"
+      ],
+      "country": "Черногория",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CZ",
+      "title": "Kolja",
+      "source": "https://www.filmcenter.gov.cz/cs/filmy-tvurci/3920-kolya",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-cz-scene"
+      ],
+      "country": "Чехия",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CL",
+      "title": "No",
+      "source": "https://www.filmlinc.org/films/no/",
+      "note": "Фильм соединяет постановочные сцены и архивные материалы. В выбранном фрагменте показаны улицы Чили; метка обозначает Сантьяго приблизительно, без утверждения конкретного адреса.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-chile-protest"
+      ],
+      "country": "Чили",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "CH",
+      "title": "Clouds of Sils Maria",
+      "source": "https://www.italyformovies.com/film-serie-tv-games/detail/136/sils-maria",
+      "note": "Реальный альпийский пейзаж в районе Зильса и перевала Малоя. Точка обозначает район явления, а не точное положение камеры на горной тропе.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-sils-scene"
+      ],
+      "country": "Швейцария",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SE",
+      "title": "The Seventh Seal",
+      "source": "https://www.bergmaniskane.se/the-seventh-seal/",
+      "note": "Сцену действительно сняли на каменистом берегу Hovs Hallar в Швеции. История средневековой Швеции условна; современный берег не является местом документального события.",
+      "status": "on_map",
+      "sceneIds": [
+        "eu-seventh-scene"
+      ],
+      "country": "Швеция",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "LK",
+      "title": "Machan",
+      "source": "https://www.tiff08.ca/filmsandschedules/films/machan/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-lk-scene"
+      ],
+      "country": "Шри-Ланка",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "EC",
+      "title": "Crónicas",
+      "source": "https://iffr.com/en/iffr/2005/films/cr%C3%B3nicas",
+      "note": "Фестивальный синопсис подтверждает Эквадор и историю вокруг Бабахойо. Точная улица кадра не установлена, поэтому город обозначен приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "audit-trailer-ec"
+      ],
+      "country": "Эквадор",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "GQ",
+      "title": "Where the Road Runs Out",
+      "source": "https://www.netflix.com/title/80114724",
+      "note": "Подтверждена сюжетная страна. Адрес станции и натура именно этого интерьера не установлены: метка обозначает только страну, а не научный объект с проверенными координатами.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-gq-scene"
+      ],
+      "country": "Экваториальная Гвинея",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ER",
+      "title": "Feuerherz",
+      "source": "https://www.berlinale.de/en/2008/programme/20082004.html",
+      "note": "Действие — Эритрея. Военный лагерь воссоздан на кенийской натуре; точка показывает сюжетный регион приблизительно, а не реальную площадку съёмки.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-er-scene"
+      ],
+      "country": "Эритрея",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SZ",
+      "title": "Wah-Wah",
+      "source": "https://filmsandfestivals.britishcouncil.org/projects/wah-wah",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-sz-scene"
+      ],
+      "country": "Эсватини",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "EE",
+      "title": "Klass",
+      "source": "https://ajaloomuuseum.ee/haridus/filmikohver/klass",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ee-scene"
+      ],
+      "country": "Эстония",
+      "region": "Европа",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ET",
+      "title": "Lamb",
+      "source": "https://www.nziff.co.nz/2015/archive/lamb/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-et-scene"
+      ],
+      "country": "Эфиопия",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "KR",
+      "title": "기생충",
+      "source": "https://english.visitseoul.net/other/Jahamun-Tunnel/ENP037158",
+      "note": "На кадре семья проходит внутри тоннеля Чахамун. Предшествующие и последующие лестницы в этой последовательности снимали в нескольких других районах Сеула; дом Паков был построен как декорация.",
+      "status": "on_map",
+      "sceneIds": [
+        "parasite-rain"
+      ],
+      "country": "Южная Корея",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "ZA",
+      "title": "District 9",
+      "source": "https://tkp.tourism.gov.za/ResearchRepo/Shared%20Documents/UP-%20Film%20study%20-%20final%20report.pdf",
+      "note": "Это общий экранный вид Йоханнесбурга, а не конкретный двор лагеря. Метка привязана к городу приблизительно; корабль добавлен визуальными эффектами. Сцены самого лагеря снимали в Чиавело, Соуэто, в другом районе городской агломерации.",
+      "status": "on_map",
+      "sceneIds": [
+        "district-johannesburg"
+      ],
+      "country": "Южно-Африканская Республика",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "SS",
+      "title": "No Simple Way Home",
+      "source": "https://www.berlinale.de/en/2022/programme/202204998.html",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-ss-scene"
+      ],
+      "country": "Южный Судан",
+      "region": "Африка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "JM",
+      "title": "The Harder They Come",
+      "source": "https://www.americangenrefilm.com/theatrical-film-catalog/the-harder-they-come/",
+      "note": "Источники подтверждают сюжетную страну. Точная позиция камеры и адрес показанной площадки не установлены; точка обозначает указанную местность приблизительно.",
+      "status": "on_map",
+      "sceneIds": [
+        "world-jm-scene"
+      ],
+      "country": "Ямайка",
+      "region": "Америка",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "iso": "JP",
+      "title": "Lost in Translation",
+      "source": "https://www.movie-locations.com/movies/l/Lost-In-Translation.php",
+      "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
+      "status": "on_map",
+      "sceneIds": [
+        "lost-bar",
+        "lost-karaoke",
+        "yourname-stairs"
+      ],
+      "country": "Япония",
+      "region": "Азия",
+      "checkedAt": "2026-11-19"
+    }
+  ]
+}

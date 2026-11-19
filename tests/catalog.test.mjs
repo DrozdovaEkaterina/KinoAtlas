@@ -44,10 +44,31 @@ test('Every map point has its own visually reviewed scene frame and source',asyn
     assert.ok(s.shotDescription&&s.shotDescription.length>20,`${s.id}: missing frame/location evidence`);
     assert.equal(new URL(s.imageSource).protocol,'https:',`${s.id}: frame source`);
     const image=await readFile(new URL(s.image,root));assert.ok(image.byteLength>1000);assert.equal(image.readUInt16BE(0),0xffd8);
-    if(['filming','inspiration'].includes(s.mapBasis))assert.ok(s.storyPlace&&s.note&&s.locationSource,`${s.id}: explain shooting/story geography`);
+    if(['filming','inspiration','story'].includes(s.mapBasis))assert.ok(s.storyPlace&&s.note&&s.locationSource,`${s.id}: explain shooting/story geography`);
     if(s.episode){assert.equal(films.get(s.film).kind,'series');assert.ok(s.season&&s.episodeSource,`${s.id}: episode provenance`);}
   }
   assert.ok(data.films.some(f=>f.kind==='series'),'No TV series in catalog');
+});
+
+test('Country audit covers 195 unique countries and distinguishes setting from filming',async()=>{
+  const report=JSON.parse(await readFile(new URL('country-audit.json',root),'utf8'));
+  assert.deepEqual(report.countries,data.countryAudit,'Downloadable audit differs from the map');
+  assert.equal(data.countryAudit.length,195);
+  const countries=new Map(data.countryAudit.map(c=>[c.iso,c]));
+  assert.equal(countries.size,195,'Duplicate country');
+  for(const s of data.scenes){
+    assert.ok(countries.has(s.countryCode),`${s.id}: unknown map country`);
+    if(s.actionCountry)assert.ok(countries.has(s.actionCountry),`${s.id}: unknown narrative country`);
+  }
+  for(const c of countries.values()){
+    assert.match(c.iso,/^[A-Z]{2}$/);assert.ok(c.country&&c.title&&c.note);
+    assert.ok(['Европа','Азия','Африка','Америка','Океания'].includes(c.region),`${c.iso}: missing continent`);
+    assert.equal(new URL(c.source).protocol,'https:');
+    assert.ok(['on_map','frame_needed','setting_unconfirmed'].includes(c.status));
+    const actual=data.scenes.filter(s=>s.actionCountry===c.iso).map(s=>s.id);
+    assert.deepEqual(c.sceneIds,actual,`${c.iso}: audit must reference actual narrative scenes`);
+    assert.equal(c.status==='on_map',actual.length>0,`${c.iso}: unjustified coverage claim`);
+  }
 });
 
 test('Local world geography covers the globe with valid geometries',async()=>{
