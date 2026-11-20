@@ -5,7 +5,7 @@
   "description": "Интерактивный атлас событий мирового кино",
   "scripts": {
     "start": "python3 -m http.server 8765 --bind 127.0.0.1",
-    "test": "node --test tests/catalog.test.mjs",
-    "check": "node --check app.js"
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check app.js && node --check map-policy.js"
   }
 }

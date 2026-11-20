@@ -4849,7 +4849,13 @@
       "imageSource": "https://www.youtube.com/watch?v=40X5EX6Us7c",
       "imageOriginal": "https://www.youtube.com/watch?v=40X5EX6Us7c",
       "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
-      "sourceVideo": "https://www.youtube.com/watch?v=40X5EX6Us7c"
+      "sourceVideo": "https://www.youtube.com/watch?v=40X5EX6Us7c",
+      "video": {
+        "id": "40X5EX6Us7c",
+        "start": 73,
+        "end": 77,
+        "source": "https://www.youtube.com/watch?v=40X5EX6Us7c&t=73s"
+      }
     },
     {
       "id": "world-hr-scene",
@@ -5137,7 +5143,13 @@
       "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
       "sourceVideo": "https://www.youtube.com/watch?v=T5OhkFY1PQE",
       "mapBasis": "story",
-      "storyPlace": "Сикстинская капелла · Ватикан"
+      "storyPlace": "Сикстинская капелла · Ватикан",
+      "video": {
+        "id": "T5OhkFY1PQE",
+        "start": 38,
+        "end": 41,
+        "source": "https://www.youtube.com/watch?v=T5OhkFY1PQE&t=38s"
+      }
     },
     {
       "id": "world-al-scene",
@@ -5837,7 +5849,13 @@
       "imageSource": "https://www.youtube.com/watch?v=ogAnZSPR0go",
       "imageOriginal": "https://www.youtube.com/watch?v=ogAnZSPR0go",
       "frameCaption": "Кадр мультфильма · Кабул",
-      "sourceVideo": "https://www.youtube.com/watch?v=ogAnZSPR0go"
+      "sourceVideo": "https://www.youtube.com/watch?v=ogAnZSPR0go",
+      "video": {
+        "id": "ogAnZSPR0go",
+        "start": 80,
+        "end": 83,
+        "source": "https://www.youtube.com/watch?v=ogAnZSPR0go&t=80s"
+      }
     },
     {
       "id": "world-ir-scene",
@@ -7509,7 +7527,13 @@
       "imageSource": "https://www.youtube.com/watch?v=LaDiYVnh5Eo",
       "imageOriginal": "https://www.youtube.com/watch?v=LaDiYVnh5Eo",
       "sourceVideo": "https://www.youtube.com/watch?v=LaDiYVnh5Eo",
-      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента"
+      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
+      "video": {
+        "id": "LaDiYVnh5Eo",
+        "start": 46,
+        "end": 55,
+        "source": "https://www.youtube.com/watch?v=LaDiYVnh5Eo&t=46s"
+      }
     },
     {
       "id": "audit-trailer-bz",

@@ -3,26 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#101417">
+  <meta name="theme-color" content="#0d0b09">
   <meta name="description" content="Путешествуйте по Земле через сцены мирового кино. Интерактивная карта фильмов и сериалов с кадрами конкретных сцен и проверяемыми источниками.">
   <meta property="og:title" content="Киноатлас — у каждой истории есть своё место">
   <meta property="og:description" content="Сцены фильмов и известных сериалов на карте Земли. Настоящие кадры конкретных локаций, эпизоды и истории мест.">
   <title>Киноатлас — мир через истории кино</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="vendor/leaflet.css">
-  <link rel="stylesheet" href="style.css?v=20261119.7">
+  <link rel="stylesheet" href="style.css?v=20261120.1">
   <script defer src="vendor/leaflet.js"></script>
-  <script defer src="app.js?v=20261119.7"></script>
+  <script defer src="map-policy.js?v=20261120.1"></script>
+  <script defer src="app.js?v=20261120.1"></script>
 </head>
 <body>
   <a class="skip" href="#search">К поиску историй</a>
   <header class="header">
     <a class="brand" href="./" aria-label="Киноатлас, главная"><span class="brand-icon" aria-hidden="true">▰<i></i></span><span>КИНО<span class="brand-light">АТЛАС</span><small>ИСТОРИИ НА КАРТЕ МИРА</small></span></a>
     <nav aria-label="Основная навигация"><button id="map-nav" class="nav-button active">Карта</button><button id="collection-nav" class="nav-button">Коллекция <span id="nav-count"></span></button><button id="about-nav" class="nav-button">О проекте</button></nav>
-    <span class="header-note">Фильмы и сериалы. Реальные места.</span>
   </header>
   <main class="workspace">
     <aside class="sidebar" id="sidebar" aria-label="Поиск и коллекция сцен">
+      <div class="sidebar-heading"><span>КОЛЛЕКЦИЯ МЕСТ</span><button id="sidebar-close" class="icon-button" aria-label="Скрыть боковую панель">×</button></div>
       <div class="sidebar-intro"><p class="eyebrow"><span class="tiny-frame" aria-hidden="true"></span> ВАШ БИЛЕТ В МИРОВОЕ КИНО</p><h1>У каждой истории<br> есть <em>своё место.</em></h1><p class="intro-copy">Находите сцены фильмов, сериалов и мультфильмов. Смотрите кадры именно тех мест, которые отмечены на карте.</p><div class="stats" id="stats"><span><strong>—</strong>сцен</span><span><strong>—</strong>фильма</span><span><strong>—</strong>страны</span></div></div>
       <div class="filter-section">
         <label class="search-box" for="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><input type="search" id="search" aria-label="Поиск по фильму, режиссёру и месту" placeholder="Фильм, режиссёр, место…" autocomplete="off"><kbd>/</kbd></label>
@@ -37,14 +38,15 @@
     <section class="map-stage" aria-label="Карта кино">
       <div id="map" role="region" aria-label="Интерактивная карта сцен фильмов и сериалов"></div>
       <div class="map-shade" aria-hidden="true"></div>
+      <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Показать боковую панель" aria-controls="sidebar" aria-expanded="true" title="Коллекция и поиск"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4zM10 5v14M14 9h3M14 13h3"/></svg></button>
       <div class="region-bar" id="regions" role="group" aria-label="Часть света"><button data-region="" aria-pressed="true">Весь мир</button><button data-region="Европа" aria-pressed="false">Европа</button><button data-region="Азия" aria-pressed="false">Азия</button><button data-region="Америка" aria-pressed="false">Америка</button><button data-region="Африка" aria-pressed="false">Африка</button><button data-region="Океания" aria-pressed="false">Океания</button></div>
       <div class="map-title" aria-hidden="true"><span>ЗЕМЛЯ КРУПНЫМ ПЛАНОМ</span><p>Мир — это тоже<br>съёмочная площадка.</p></div>
       <div class="map-tools"><button id="world-view" aria-label="Показать все найденные сцены" title="Все сцены"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><ellipse cx="12" cy="12" rx="3.6" ry="8"/><path d="M4 12h16M6 7h12M6 17h12"/></svg></button><button id="zoom-in" aria-label="Приблизить карту">+</button><button id="zoom-out" aria-label="Отдалить карту">−</button><button id="fullscreen" aria-label="Полноэкранная карта" title="Полный экран"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/></svg></button></div>
-      <div class="map-hint" id="map-hint"><span class="hint-pin" aria-hidden="true"></span><div>Каждая точка — история<small>Нажмите на отметку, чтобы открыть сцену</small></div></div>
+      <div class="map-info"><div class="map-hint" id="map-hint"><span class="hint-pin" aria-hidden="true"></span><div>Каждая точка — история<small>Нажмите на отметку, чтобы открыть сцену</small></div></div><div class="legend"><span><i class="legend-exact"></i>Реальное место</span><span><i class="legend-approx"></i>Приблизительная привязка</span></div><div class="map-style-switch" role="group" aria-label="Цвет карты"><button data-map-style="color" aria-pressed="true">Цветная</button><button data-map-style="mono" aria-pressed="false">Чёрно-белая</button></div></div>
       <div id="map-notice" class="map-notice" role="status" hidden></div>
-      <button id="mobile-list" class="mobile-list">Все сцены <span id="mobile-count"></span></button>
+      <button id="mobile-list" class="mobile-list" aria-controls="sidebar" aria-expanded="false">Все сцены <span id="mobile-count"></span></button>
       <article id="scene-card" class="scene-card" aria-labelledby="card-title" hidden></article>
-      <div class="map-bottom"><div class="legend"><span><i class="legend-exact"></i>Реальное место</span><span><i class="legend-approx"></i>Приблизительная привязка</span></div><span class="edition">КОЛЛЕКЦИЯ 01 / МИРОВОЕ КИНО</span></div>
+      <div class="map-bottom"><span class="edition">КОЛЛЕКЦИЯ 01 / МИРОВОЕ КИНО</span></div>
     </section>
   </main>
   <dialog id="collection-dialog" class="collection-dialog" aria-labelledby="collection-title"><div class="dialog-header"><div><p class="eyebrow">ВЗГЛЯНИТЕ НА МИР ЧУЖИМИ ГЛАЗАМИ</p><h2 id="collection-title">Фильмы, сериалы и мультфильмы</h2></div><button class="icon-button dialog-close" aria-label="Закрыть коллекцию">×</button></div><p class="dialog-lead">Выберите фильм, сериал или мультфильм — на карте останутся только его сцены.</p><div class="kind-bar collection-kinds" role="group" aria-label="Тип в коллекции"><button data-kind="" aria-pressed="true">Всё</button><button data-kind="film" aria-pressed="false">Фильмы</button><button data-kind="series" aria-pressed="false">Сериалы</button><button data-kind="animation" aria-pressed="false">Мультфильмы</button></div><div id="film-grid" class="film-grid"></div></dialog>
