@@ -10,7 +10,16 @@
       "source": "https://en.wikipedia.org/wiki/Roman_Holiday",
       "image": "assets/shots/roman-gelato.jpg",
       "imageSource": "https://www.extstreet.com/Roman_Holiday.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "2vm2FdHg7Io",
+        "source": "https://www.youtube.com/watch?v=2vm2FdHg7Io",
+        "type": "trailer",
+        "title": "ROMAN HOLIDAY | Trailer | Paramount Movies",
+        "publisher": "Paramount Movies",
+        "duration": 94,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "dolce",
@@ -22,7 +31,16 @@
       "source": "https://en.wikipedia.org/wiki/La_Dolce_Vita",
       "image": "assets/shots/dolce-trevi.jpg",
       "imageSource": "https://film-grab.com/2014/10/03/la-dolce-vita/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "1BeWEPXWDX4",
+        "source": "https://www.youtube.com/watch?v=1BeWEPXWDX4",
+        "type": "trailer",
+        "title": "New trailer for Fellini's La dolce vita - back in cinemas 3 January 2020 | BFI",
+        "publisher": "BFI",
+        "duration": 95,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "amelie",
@@ -34,7 +52,16 @@
       "source": "https://en.wikipedia.org/wiki/Am%C3%A9lie",
       "image": "assets/shots/amelie-cafe.jpg",
       "imageSource": "https://www.extstreet.com/Amelie.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "Py7cDXQae2U",
+        "source": "https://www.youtube.com/watch?v=Py7cDXQae2U",
+        "type": "trailer",
+        "title": "AMÉLIE | Official Trailer",
+        "publisher": "Sony Pictures Classics",
+        "duration": 71,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "sunrise",
@@ -46,7 +73,16 @@
       "source": "https://en.wikipedia.org/wiki/Before_Sunrise",
       "image": "assets/shots/sunrise-wheel.jpg",
       "imageSource": "https://www.extstreet.com/Before_Sunrise.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "jGvcbSabADM",
+        "source": "https://www.youtube.com/watch?v=jGvcbSabADM",
+        "type": "trailer",
+        "title": "Before Sunrise - Original Theatrical Trailer",
+        "publisher": "Warner Bros. Rewind",
+        "duration": 100,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "thirdman",
@@ -58,7 +94,16 @@
       "source": "https://en.wikipedia.org/wiki/The_Third_Man",
       "image": "assets/shots/thirdman-door.jpg",
       "imageSource": "https://www.bfi.org.uk/features/third-man-vienna-locations",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "r9yyDEDGlr0",
+        "source": "https://www.youtube.com/watch?v=r9yyDEDGlr0",
+        "type": "trailer",
+        "title": "The Third Man | Official Trailer",
+        "publisher": "StudiocanalUK",
+        "duration": 95,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "notting",
@@ -70,7 +115,16 @@
       "source": "https://en.wikipedia.org/wiki/Notting_Hill_(film)",
       "image": "assets/shots/notting-door.jpg",
       "imageSource": "https://www.extstreet.com/Notting_Hill.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "bMrOp79dM74",
+        "source": "https://www.youtube.com/watch?v=bMrOp79dM74",
+        "type": "trailer",
+        "title": "Notting Hill Trailer",
+        "publisher": "UniversalMoviesINTL",
+        "duration": 167,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "potter",
@@ -82,7 +136,16 @@
       "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
       "image": "assets/shots/potter-platform.jpg",
       "imageSource": "https://www.extstreet.com/Harry_Potter_and_the_Philosopher's_Stone.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "VyHV0BRtdxo",
+        "source": "https://www.youtube.com/watch?v=VyHV0BRtdxo",
+        "type": "trailer",
+        "title": "Harry Potter and the Sorcerer's Stone (2001) Official Trailer - Daniel Radcliffe Movie HD",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 137,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "ghost",
@@ -94,7 +157,16 @@
       "source": "https://en.wikipedia.org/wiki/Ghostbusters_(1984_film)",
       "image": "assets/shots/ghost-library.jpg",
       "imageSource": "https://www.extstreet.com/Ghostbusters.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "wQAljlSmjC8",
+        "source": "https://www.youtube.com/watch?v=wQAljlSmjC8",
+        "type": "trailer",
+        "title": "Original Trailer (1984) | GHOSTBUSTERS",
+        "publisher": "Ghostbusters",
+        "duration": 153,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "tiffany",
@@ -106,7 +178,16 @@
       "source": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(film)",
       "image": "assets/shots/tiffany-window.jpg",
       "imageSource": "https://www.extstreet.com/Breakfast_at_Tiffany's.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "KlZ4fYqjGJI",
+        "source": "https://www.youtube.com/watch?v=KlZ4fYqjGJI",
+        "type": "trailer",
+        "title": "BREAKFAST AT TIFFANY'S | Official Trailer | Paramount Movies",
+        "publisher": "Paramount Movies",
+        "duration": 101,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "homealone",
@@ -118,7 +199,16 @@
       "source": "https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York",
       "image": "assets/shots/homealone-hotel.jpg",
       "imageSource": "https://www.extstreet.com/Home_Alone_2_Lost_in_New_York.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "5h9VDUNtoto",
+        "source": "https://www.youtube.com/watch?v=5h9VDUNtoto",
+        "type": "trailer",
+        "title": "Home Alone 2: Lost in New York (1992) Trailer #1 | Movieclips Classic Trailers",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 73,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "rocky",
@@ -130,7 +220,16 @@
       "source": "https://en.wikipedia.org/wiki/Rocky",
       "image": "assets/shots/rocky-steps.jpg",
       "imageSource": "https://wp.iamnotastalker.com/2019/07/22/the-philadelphia-museum-of-art-from-rocky/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "-Hk-LYcavrw",
+        "source": "https://www.youtube.com/watch?v=-Hk-LYcavrw",
+        "type": "trailer",
+        "title": "ROCKY (1976) | Official Trailer | MGM",
+        "publisher": "Amazon MGM Studios",
+        "duration": 220,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "vertigo",
@@ -142,7 +241,16 @@
       "source": "https://en.wikipedia.org/wiki/Vertigo_(film)",
       "image": "assets/shots/vertigo-bay.jpg",
       "imageSource": "https://www.extstreet.com/Vertigo.html",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "95o-QM-lz8g",
+        "source": "https://www.youtube.com/watch?v=95o-QM-lz8g",
+        "type": "trailer",
+        "title": "Vertigo - official 60th anniversary trailer",
+        "publisher": "Park Circus",
+        "duration": 95,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "lalaland",
@@ -154,7 +262,16 @@
       "source": "https://en.wikipedia.org/wiki/La_La_Land",
       "image": "assets/shots/lalaland-griffith.jpg",
       "imageSource": "https://film-grab.com/2019/04/12/la-la-land/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "0pdqf4P9MB8",
+        "source": "https://www.youtube.com/watch?v=0pdqf4P9MB8",
+        "type": "trailer",
+        "title": "La La Land (2016 Movie) Official Trailer – 'Dreamers'",
+        "publisher": "Lionsgate Movies",
+        "duration": 147,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "lost",
@@ -166,7 +283,16 @@
       "source": "https://en.wikipedia.org/wiki/Lost_in_Translation_(film)",
       "image": "assets/shots/lost-bar.jpg",
       "imageSource": "https://film-grab.com/2010/09/21/lost-in-translation/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "eQn9wsDjjZs",
+        "source": "https://www.youtube.com/watch?v=eQn9wsDjjZs",
+        "type": "trailer",
+        "title": "Lost in Translation - Trailer",
+        "publisher": "UniversalMoviesINTL",
+        "duration": 134,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "yourname",
@@ -178,7 +304,16 @@
       "source": "https://en.wikipedia.org/wiki/Your_Name",
       "image": "assets/shots/yourname-stairs.jpg",
       "imageSource": "https://film-grab.com/2026/07/13/your-name/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "k4xGqY5IDBE",
+        "source": "https://www.youtube.com/watch?v=k4xGqY5IDBE",
+        "type": "trailer",
+        "title": "「君の名は。」予告",
+        "publisher": "東宝MOVIEチャンネル",
+        "duration": 93,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "chungking",
@@ -190,7 +325,16 @@
       "source": "https://en.wikipedia.org/wiki/Chungking_Express",
       "image": "assets/shots/chungking-snack.jpg",
       "imageSource": "https://film-grab.com/2014/10/20/chungking-express/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "OPCug9jyG9k",
+        "source": "https://www.youtube.com/watch?v=OPCug9jyG9k",
+        "type": "trailer",
+        "title": "CHUNGKING EXPRESS 4K | Official Trailer (English)",
+        "publisher": "Block 2 Distribution",
+        "duration": 162,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "mood",
@@ -203,7 +347,16 @@
       "releaseSource": "https://2017.festival-lumiere.org/manifestations/in-the-mood-for-love.html",
       "image": "assets/shots/mood-noodles.jpg",
       "imageSource": "https://film-grab.com/2013/03/09/in-the-mood-for-love/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "m8GuedsQnWQ",
+        "source": "https://www.youtube.com/watch?v=m8GuedsQnWQ",
+        "type": "trailer",
+        "title": "IN THE MOOD FOR LOVE | Official Trailer | 20th Anniversary Restoration",
+        "publisher": "MUBI",
+        "duration": 85,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "parasite",
@@ -215,7 +368,16 @@
       "source": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
       "image": "assets/shots/parasite-rain.jpg",
       "imageSource": "https://film-grab.com/2024/02/05/parasite/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "isOGD_7hNIY",
+        "source": "https://www.youtube.com/watch?v=isOGD_7hNIY",
+        "type": "trailer",
+        "title": "PARASITE - Official Trailer – In Theaters 10.11.2019",
+        "publisher": "NEON",
+        "duration": 137,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "slumdog",
@@ -227,7 +389,16 @@
       "source": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
       "image": "assets/shots/slumdog-station.jpg",
       "imageSource": "https://film-grab.com/2018/02/19/slumdog-millionaire/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "SQ7P5wEI2CA",
+        "source": "https://www.youtube.com/watch?v=SQ7P5wEI2CA",
+        "type": "trailer",
+        "title": "Slumdog Millionaire | #TBT Trailer | 20th Century FOX",
+        "publisher": "20th Century Studios",
+        "duration": 128,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "lunchbox",
@@ -239,7 +410,16 @@
       "source": "https://en.wikipedia.org/wiki/The_Lunchbox",
       "image": "assets/shots/lunchbox-delivery.jpg",
       "imageSource": "https://www.themoviedb.org/movie/191714/images/backdrops?language=en-US",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "sK3R0rvnlPs",
+        "source": "https://www.youtube.com/watch?v=sK3R0rvnlPs",
+        "type": "trailer",
+        "title": "The Lunchbox | Official Trailer HD (2013)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 125,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "separation",
@@ -251,7 +431,16 @@
       "source": "https://en.wikipedia.org/wiki/A_Separation",
       "image": "assets/shots/separation-court.jpg",
       "imageSource": "https://www.themoviedb.org/movie/60243/images/backdrops?language=en-US",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "58Onuy5USTc",
+        "source": "https://www.youtube.com/watch?v=58Onuy5USTc",
+        "type": "trailer",
+        "title": "A Separation | Official Trailer HD (2011)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 124,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "emperor",
@@ -263,7 +452,16 @@
       "source": "https://en.wikipedia.org/wiki/The_Last_Emperor",
       "image": "assets/shots/emperor-palace.jpg",
       "imageSource": "https://film-grab.com/2024/08/13/the-last-emperor/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "A4cH6g1wD5g",
+        "source": "https://www.youtube.com/watch?v=A4cH6g1wD5g",
+        "type": "trailer",
+        "title": "The Last Emperor [1987] Official Trailer",
+        "publisher": "HanWay Films",
+        "duration": 155,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "citygod",
@@ -275,7 +473,16 @@
       "source": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
       "image": "assets/shots/citygod-camera.jpg",
       "imageSource": "https://film-grab.com/2020/12/17/city-of-god/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "fZJUKixyeXM",
+        "source": "https://www.youtube.com/watch?v=fZJUKixyeXM",
+        "type": "trailer",
+        "title": "CIdade de Deus - Trailer Oficial",
+        "publisher": "O2 Filmes",
+        "duration": 121,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "motorcycle",
@@ -288,7 +495,16 @@
       "releaseSource": "https://www.filmportal.de/film/the-motorcycle-diaries_9572a64ff83540cb83640dea11b81b0b",
       "image": "assets/shots/motorcycle-machu.jpg",
       "imageSource": "https://film-grab.com/2025/02/17/the-motorcycle-diaries/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "0_LAiSdIXos",
+        "source": "https://www.youtube.com/watch?v=0_LAiSdIXos",
+        "type": "trailer",
+        "title": "The Motorcycle Diaries - Official Trailer",
+        "publisher": "Madman Films",
+        "duration": 83,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "central",
@@ -300,7 +516,16 @@
       "source": "https://en.wikipedia.org/wiki/Central_Station_(film)",
       "image": "assets/shots/central-letters.jpg",
       "imageSource": "https://www.atmospheres53.org/film/central-do-brasil/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "qCoqppCsEa8",
+        "source": "https://www.youtube.com/watch?v=qCoqppCsEa8",
+        "type": "trailer",
+        "title": "CENTRAL STATION | 4K Restoration - In Cinemas 15 August",
+        "publisher": "Curzon",
+        "duration": 109,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "algiers",
@@ -313,7 +538,16 @@
       "releaseSource": "https://web.library.yale.edu/film/notes/fn00037",
       "image": "assets/shots/algiers-casbah.jpg",
       "imageSource": "https://www.sensesofcinema.com/2026/feature-articles/the-eternal-return-the-battle-of-algiers-at-60/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "vhhoS3zOskE",
+        "source": "https://www.youtube.com/watch?v=vhhoS3zOskE",
+        "type": "trailer",
+        "title": "THE BATTLE OF ALGIERS - Trailer",
+        "publisher": "Rialto Pictures",
+        "duration": 143,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "cairo",
@@ -325,7 +559,16 @@
       "source": "https://en.wikipedia.org/wiki/Cairo_Station",
       "image": "assets/shots/cairo-station.jpg",
       "imageSource": "https://film-grab.com/2017/01/05/cairo-station/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "NQMYhHCsdy4",
+        "source": "https://www.youtube.com/watch?v=NQMYhHCsdy4",
+        "type": "trailer",
+        "title": "Cairo Station • باب الحديد على أفلامُنا.اونلاين حتى 7 كانون الثاني",
+        "publisher": "AFLAMUNA • أفلامُنا",
+        "duration": 69,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "touki",
@@ -338,7 +581,16 @@
       "releaseSource": "https://www.cinemateca.pt/CinematecaSite/media/Documentos/2023-12-05_TOUKI-BOUKI.pdf",
       "image": "assets/shots/touki-dakar.jpg",
       "imageSource": "https://film-grab.com/2022/09/01/touki-bouki/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "KuPxols8FwU",
+        "source": "https://www.youtube.com/watch?v=KuPxols8FwU",
+        "type": "trailer",
+        "title": "TOUKI BOUKI | Official Trailer | MUBI",
+        "publisher": "MUBI",
+        "duration": 59,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "piano",
@@ -350,7 +602,16 @@
       "source": "https://en.wikipedia.org/wiki/The_Piano",
       "image": "assets/shots/piano-beach.jpg",
       "imageSource": "https://film-grab.com/2013/09/17/the-piano/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "IeHHVJGrfpk",
+        "source": "https://www.youtube.com/watch?v=IeHHVJGrfpk",
+        "type": "trailer",
+        "title": "THE PIANO | 4K Remastered | Official Trailer (1993)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 100,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "dundee",
@@ -362,7 +623,16 @@
       "source": "https://en.wikipedia.org/wiki/Crocodile_Dundee",
       "image": "assets/shots/dundee-outback.jpg",
       "imageSource": "https://nycinfilm.com/2024/03/28/crocodile-dundee-1986/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "oyhNcmRJ5_I",
+        "source": "https://www.youtube.com/watch?v=oyhNcmRJ5_I",
+        "type": "trailer",
+        "title": "Crocodile Dundee 4K Trailer",
+        "publisher": "Crocodile Dundee",
+        "duration": 118,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "wings",
@@ -374,7 +644,16 @@
       "source": "https://en.wikipedia.org/wiki/Wings_of_Desire",
       "image": "assets/shots/wings-angel.jpg",
       "imageSource": "https://film-grab.com/2013/09/26/wings-of-desire/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "0iAzYofuItM",
+        "source": "https://www.youtube.com/watch?v=0iAzYofuItM",
+        "type": "trailer",
+        "title": "WINGS OF DESIRE (4K RESTORATION) | Official UK trailer [HD] In Cinemas 24 JUNE",
+        "publisher": "Curzon",
+        "duration": 96,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "paradiso",
@@ -386,7 +665,16 @@
       "source": "https://en.wikipedia.org/wiki/Cinema_Paradiso",
       "image": "assets/shots/paradiso-square.jpg",
       "imageSource": "https://film-grab.com/2014/06/10/cinema-paradiso/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "JMyVSD6OvO8",
+        "source": "https://www.youtube.com/watch?v=JMyVSD6OvO8",
+        "type": "trailer",
+        "title": "Cinema Paradiso Official Trailer",
+        "publisher": "Arrow Academy",
+        "duration": 91,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "potemkin",
@@ -398,7 +686,16 @@
       "source": "https://en.wikipedia.org/wiki/Battleship_Potemkin",
       "image": "assets/shots/potemkin-stairs.jpg",
       "imageSource": "https://film-grab.com/2014/12/17/battleship-potemkin/",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "VC66LgoOlCs",
+        "source": "https://www.youtube.com/watch?v=VC66LgoOlCs",
+        "type": "trailer",
+        "title": "New trailer for Battleship Potemkin (1925) | Music by Pet Shop Boys | In cinemas 22 Aug",
+        "publisher": "BFI",
+        "duration": 86,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "midnight",
@@ -411,7 +708,16 @@
       "releaseSource": "https://www.festival-cannes.com/en/2011/woody-allens-midnight-in-paris-is-to-open-the-64th-festival-de-cannes/",
       "image": "assets/shots/midnight-steps.jpg",
       "imageSource": "https://www.sceen-it.com/sceen/204/Midnight-in-Paris/Saint-tienne-du-Mont",
-      "kind": "film"
+      "kind": "film",
+      "video": {
+        "id": "FAfR8omt-CY",
+        "source": "https://www.youtube.com/watch?v=FAfR8omt-CY",
+        "type": "trailer",
+        "title": "Midnight in Paris | Official Trailer HD (2011)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 124,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "breakingbad",
@@ -424,7 +730,16 @@
       "source": "https://en.wikipedia.org/wiki/Breaking_Bad",
       "kind": "series",
       "image": "assets/shots/breakingbad-pollos.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/5062/Breaking-Bad/Twisters-Burgers-and-Burritos"
+      "imageSource": "https://www.sceen-it.com/sceen/5062/Breaking-Bad/Twisters-Burgers-and-Burritos",
+      "video": {
+        "id": "XZ8daibM3AE",
+        "source": "https://www.youtube.com/watch?v=XZ8daibM3AE",
+        "type": "trailer",
+        "title": "BREAKING BAD - Seasons 1-5 Trailer",
+        "publisher": "Sony Pics at Home UK",
+        "duration": 65,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "friends",
@@ -437,7 +752,16 @@
       "source": "https://en.wikipedia.org/wiki/Friends",
       "kind": "series",
       "image": "assets/shots/friends-bedford.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/726/Friends/90-Bedford-Street-apartment"
+      "imageSource": "https://www.sceen-it.com/sceen/726/Friends/90-Bedford-Street-apartment",
+      "video": {
+        "id": "H29XSxoKp80",
+        "source": "https://www.youtube.com/watch?v=H29XSxoKp80",
+        "type": "trailer",
+        "title": "Friends:    the Complete Series Collection",
+        "publisher": "Warner Bros. Rewind",
+        "duration": 143,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "sherlock",
@@ -450,7 +774,16 @@
       "source": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)",
       "kind": "series",
       "image": "assets/shots/sherlock-baker.jpg",
-      "imageSource": "https://moviemaps.org/images/2zp"
+      "imageSource": "https://moviemaps.org/images/2zp",
+      "video": {
+        "id": "gGqWqGOSTGQ",
+        "source": "https://www.youtube.com/watch?v=gGqWqGOSTGQ",
+        "type": "trailer",
+        "title": "Sherlock | Official Trailer | Hulu",
+        "publisher": "Hulu",
+        "duration": 39,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "strangerthings",
@@ -463,7 +796,16 @@
       "source": "https://en.wikipedia.org/wiki/Stranger_Things",
       "kind": "series",
       "image": "assets/shots/strangerthings-starcourt.jpg",
-      "imageSource": "https://moviemaps.org/images/1hq4"
+      "imageSource": "https://moviemaps.org/images/1hq4",
+      "video": {
+        "id": "b9EkMc79ZSU",
+        "source": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+        "type": "trailer",
+        "title": "Stranger Things | Official Final Trailer | Netflix",
+        "publisher": "Netflix",
+        "duration": 132,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "gameofthrones",
@@ -476,7 +818,16 @@
       "source": "https://en.wikipedia.org/wiki/Game_of_Thrones",
       "kind": "series",
       "image": "assets/shots/gameofthrones-kingsroad.jpg",
-      "imageSource": "https://moviemaps.org/images/41k"
+      "imageSource": "https://moviemaps.org/images/41k",
+      "video": {
+        "id": "KPLWWIOCOOQ",
+        "source": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+        "type": "trailer",
+        "title": "Game of Thrones | Official Series Trailer (HBO)",
+        "publisher": "GameofThrones",
+        "duration": 209,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "twinpeaks",
@@ -489,7 +840,16 @@
       "source": "https://en.wikipedia.org/wiki/Twin_Peaks",
       "kind": "series",
       "image": "assets/shots/twinpeaks-doubler.jpg",
-      "imageSource": "https://moviemaps.org/images/kwt"
+      "imageSource": "https://moviemaps.org/images/kwt",
+      "video": {
+        "id": "rFuKtJjhBCQ",
+        "source": "https://www.youtube.com/watch?v=rFuKtJjhBCQ",
+        "type": "trailer",
+        "title": "TWIN PEAKS: Seasons 1 & 2 | Official Teaser | Now Streaming on MUBI",
+        "publisher": "MUBI",
+        "duration": 34,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "emilyinparis",
@@ -502,7 +862,16 @@
       "source": "https://en.wikipedia.org/wiki/Emily_in_Paris",
       "kind": "series",
       "image": "assets/shots/emilyinparis-palais.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/4458/Emily-in-Paris/Jardin-Du-Palais-Royale"
+      "imageSource": "https://www.sceen-it.com/sceen/4458/Emily-in-Paris/Jardin-Du-Palais-Royale",
+      "video": {
+        "id": "lptctjAT-Mk",
+        "source": "https://www.youtube.com/watch?v=lptctjAT-Mk",
+        "type": "trailer",
+        "title": "Emily in Paris | Official Trailer | Netflix",
+        "publisher": "Netflix",
+        "duration": 112,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "saul",
@@ -515,7 +884,16 @@
       "release": "2015-02-08",
       "source": "https://en.wikipedia.org/wiki/Better_Call_Saul",
       "image": "assets/shots/saul-cinnabon.jpg",
-      "imageSource": "https://thespinoff.co.nz/culture/11-02-2015/better-call-saul-uno-and-mijo"
+      "imageSource": "https://thespinoff.co.nz/culture/11-02-2015/better-call-saul-uno-and-mijo",
+      "video": {
+        "id": "HN4oydykJFc",
+        "source": "https://www.youtube.com/watch?v=HN4oydykJFc",
+        "type": "trailer",
+        "title": "Better Call Saul | Series Trailer [HD] | Netflix",
+        "publisher": "Still Watching Netflix",
+        "duration": 111,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "wednesday",
@@ -528,7 +906,16 @@
       "release": "2022-11-23",
       "source": "https://www.netflix.com/tudum/articles/wednesday-jenna-ortega-release-date-poster",
       "image": "assets/shots/wednesday-nevermore.jpg",
-      "imageSource": "https://wednesdayseries.com/tour"
+      "imageSource": "https://wednesdayseries.com/tour",
+      "video": {
+        "id": "Di310WS8zLk",
+        "source": "https://www.youtube.com/watch?v=Di310WS8zLk",
+        "type": "trailer",
+        "title": "Wednesday Addams | Official Teaser | Netflix",
+        "publisher": "Netflix",
+        "duration": 133,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "peaky",
@@ -541,7 +928,16 @@
       "release": "2013-09-12",
       "source": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)",
       "image": "assets/shots/peaky-danny.jpg",
-      "imageSource": "https://simkl.com/tv/42580/peaky-blinders/season-1/episode-1/screencaps/"
+      "imageSource": "https://simkl.com/tv/42580/peaky-blinders/season-1/episode-1/screencaps/",
+      "video": {
+        "id": "EM12mcTEI88",
+        "source": "https://www.youtube.com/watch?v=EM12mcTEI88",
+        "type": "trailer",
+        "title": "Peaky Blinders: Series launch trailer - BBC",
+        "publisher": "BBC",
+        "duration": 31,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "satc",
@@ -554,7 +950,16 @@
       "release": "1998-06-06",
       "source": "https://en.wikipedia.org/wiki/Sex_and_the_City",
       "image": "assets/shots/satc-magnolia.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/1693/Sex-and-the-City/Magnolia-Bakery"
+      "imageSource": "https://www.sceen-it.com/sceen/1693/Sex-and-the-City/Magnolia-Bakery",
+      "video": {
+        "id": "b58gZlXm2yI",
+        "source": "https://www.youtube.com/watch?v=b58gZlXm2yI",
+        "type": "trailer",
+        "title": "Sex and the City 25th Anniversary | Official Trailer | HBO",
+        "publisher": "HBO",
+        "duration": 107,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "downton",
@@ -567,7 +972,16 @@
       "release": "2010-09-26",
       "source": "https://en.wikipedia.org/wiki/Downton_Abbey",
       "image": "assets/shots/downton-bates.jpg",
-      "imageSource": "https://shotonlocation-eng.blogspot.com/2017/05/highclere-castle-england.html"
+      "imageSource": "https://shotonlocation-eng.blogspot.com/2017/05/highclere-castle-england.html",
+      "video": {
+        "id": "x2toEBv-Zjo",
+        "source": "https://www.youtube.com/watch?v=x2toEBv-Zjo",
+        "type": "trailer",
+        "title": "Downton Abbey | BritBox Trailer",
+        "publisher": "BritBox",
+        "duration": 57,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "indiana-lastcrusade",
@@ -579,7 +993,16 @@
       "source": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade",
       "kind": "film",
       "image": "assets/shots/indiana-petra.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/1460/Indiana-Jones-and-the-Last-Crusade/Petra"
+      "imageSource": "https://www.sceen-it.com/sceen/1460/Indiana-Jones-and-the-Last-Crusade/Petra",
+      "video": {
+        "id": "DKg36LBVgfg",
+        "source": "https://www.youtube.com/watch?v=DKg36LBVgfg",
+        "type": "trailer",
+        "title": "INDIANA JONES AND THE LAST CRUSADE | Official Trailer | Paramount Movies",
+        "publisher": "Paramount Movies",
+        "duration": 107,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "outofafrica",
@@ -591,7 +1014,16 @@
       "source": "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
       "kind": "film",
       "image": "assets/shots/africa-picnic.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/4058/Out-of-Africa/Mara-Triangle"
+      "imageSource": "https://www.sceen-it.com/sceen/4058/Out-of-Africa/Mara-Triangle",
+      "video": {
+        "id": "2EW2kNCmZZ0",
+        "source": "https://www.youtube.com/watch?v=2EW2kNCmZZ0",
+        "type": "trailer",
+        "title": "Out of Africa Official Trailer #1 - Robert Redford, Meryl Streep Movie (1985) HD",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 179,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "anastasia",
@@ -603,7 +1035,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/anastasia-palace.jpg",
-      "imageSource": "https://animationscreencaps.com/anastasia-1997/"
+      "imageSource": "https://animationscreencaps.com/anastasia-1997/",
+      "video": {
+        "id": "M0vnBeHeuzs",
+        "source": "https://www.youtube.com/watch?v=M0vnBeHeuzs",
+        "type": "trailer",
+        "title": "Anastasia (1997) Trailer #1 | Movieclips Classic Trailers",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 160,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "balto",
@@ -616,7 +1057,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/balto-nome.jpg",
-      "imageSource": "https://animationscreencaps.com/balto-1995/page/7"
+      "imageSource": "https://animationscreencaps.com/balto-1995/page/7",
+      "video": {
+        "id": "HJwvbmRXym4",
+        "source": "https://www.youtube.com/watch?v=HJwvbmRXym4",
+        "type": "trailer",
+        "title": "Balto (1995) Official Trailer - Kevin Bacon, Phil Collins Animated Movie HD",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 133,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "kells",
@@ -629,7 +1079,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/kells-abbey.jpg",
-      "imageSource": "https://animationscreencaps.com/the-secret-of-kells-2009/"
+      "imageSource": "https://animationscreencaps.com/the-secret-of-kells-2009/",
+      "video": {
+        "id": "tMPhHTtKZ8Q",
+        "source": "https://www.youtube.com/watch?v=tMPhHTtKZ8Q",
+        "type": "trailer",
+        "title": "The Secret of Kells [Official Trailer, GKIDS] - Out now on Blu-ray, DVD & Digital!",
+        "publisher": "GKIDS Films",
+        "duration": 116,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "frozen",
@@ -641,7 +1100,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/frozen-arendelle.jpg",
-      "imageSource": "https://animationscreencaps.com/frozen-2013/page/7"
+      "imageSource": "https://animationscreencaps.com/frozen-2013/page/7",
+      "video": {
+        "id": "TbQm5doF_Uc",
+        "source": "https://www.youtube.com/watch?v=TbQm5doF_Uc",
+        "type": "trailer",
+        "title": "Disney's Frozen Official Trailer",
+        "publisher": "Walt Disney Animation Studios",
+        "duration": 153,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "up",
@@ -654,7 +1122,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/up-paradise.jpg",
-      "imageSource": "https://jgfrog.blogspot.com/2011/07/photography-in-film-up.html"
+      "imageSource": "https://jgfrog.blogspot.com/2011/07/photography-in-film-up.html",
+      "video": {
+        "id": "HWEW_qTLSEE",
+        "source": "https://www.youtube.com/watch?v=HWEW_qTLSEE",
+        "type": "trailer",
+        "title": "UP Official Trailer",
+        "publisher": "Pixar",
+        "duration": 151,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "coco",
@@ -667,7 +1144,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/coco-santacecilia.jpg",
-      "imageSource": "https://animationscreencaps.com/coco-2017/page/2"
+      "imageSource": "https://animationscreencaps.com/coco-2017/page/2",
+      "video": {
+        "id": "xlnPHQ3TLX8",
+        "source": "https://www.youtube.com/watch?v=xlnPHQ3TLX8",
+        "type": "trailer",
+        "title": "Coco - Official US Trailer",
+        "publisher": "Pixar",
+        "duration": 89,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "nemo",
@@ -680,7 +1166,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/nemo-sydney.jpg",
-      "imageSource": "https://shotonlocation-eng.blogspot.com/2022/02/sydney-australia.html"
+      "imageSource": "https://shotonlocation-eng.blogspot.com/2022/02/sydney-australia.html",
+      "video": {
+        "id": "SPHfeNgogVs",
+        "source": "https://www.youtube.com/watch?v=SPHfeNgogVs",
+        "type": "trailer",
+        "title": "Finding Nemo 3D Trailer",
+        "publisher": "Pixar",
+        "duration": 113,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "madagascar",
@@ -693,7 +1188,16 @@
       "kind": "film",
       "genre": "Анимация",
       "image": "assets/shots/madagascar-beach.jpg",
-      "imageSource": "https://clip.cafe/madagascar-2005/white-sandy-beaches/"
+      "imageSource": "https://clip.cafe/madagascar-2005/white-sandy-beaches/",
+      "video": {
+        "id": "fq5zU9T_Hl4",
+        "source": "https://www.youtube.com/watch?v=fq5zU9T_Hl4",
+        "type": "trailer",
+        "title": "MADAGASCAR | Official Trailer",
+        "publisher": "Universal Kids",
+        "duration": 114,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "leviathan",
@@ -706,7 +1210,16 @@
       "source": "https://www.festival-cannes.com/en/f/leviathan/",
       "releaseSource": "https://www.festival-cannes.com/en/2014/competition-leviathan-metaphor-of-the-biblical-monster/",
       "image": "assets/shots/leviathan-teriberka.jpg",
-      "imageSource": "https://film-grab.com/2018/04/11/leviathan/"
+      "imageSource": "https://film-grab.com/2018/04/11/leviathan/",
+      "video": {
+        "id": "2oo7H25kirk",
+        "source": "https://www.youtube.com/watch?v=2oo7H25kirk",
+        "type": "trailer",
+        "title": "LEVIATHAN (2014) - Official HD Trailer - A film by Andrey Zvyagintsev",
+        "publisher": "PalaceFilms",
+        "duration": 109,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "mitty",
@@ -719,7 +1232,16 @@
       "source": "https://www.filmlinc.org/films/the-secret-life-of-walter-mitty/",
       "releaseSource": "https://www.filmlinc.org/press/world-premiere-of-the-secret-life-of-walter-mitty-announced-as-centerpiece/",
       "image": "assets/shots/mitty-longboard.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/1814/The-Secret-Life-of-Walter-Mitty/Highway-near-Sey-isfj-r-ur"
+      "imageSource": "https://www.sceen-it.com/sceen/1814/The-Secret-Life-of-Walter-Mitty/Highway-near-Sey-isfj-r-ur",
+      "video": {
+        "id": "ULbWlYLEcAc",
+        "source": "https://www.youtube.com/watch?v=ULbWlYLEcAc",
+        "type": "trailer",
+        "title": "The Secret Life Of Walter Mitty New Official trailer - in cinemas Boxing Day",
+        "publisher": "20th Century Studios AUNZ",
+        "duration": 160,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "beach",
@@ -732,7 +1254,16 @@
       "source": "https://catalog.afi.com/Film/61044-THE-BEACH",
       "releaseSource": "https://www.graumanschinese.org/2000.html",
       "image": "assets/shots/beach-maya.jpg",
-      "imageSource": "https://film-grab.com/2015/08/13/the-beach/"
+      "imageSource": "https://film-grab.com/2015/08/13/the-beach/",
+      "video": {
+        "id": "7vSsx1RkGls",
+        "source": "https://www.youtube.com/watch?v=7vSsx1RkGls",
+        "type": "trailer",
+        "title": "The Beach (2000) Trailer #1 | Movieclips Classic Trailers",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 152,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "roma",
@@ -745,7 +1276,16 @@
       "source": "https://www.netflix.com/title/80240715",
       "releaseSource": "https://www.labiennale.org/en/biennale-channel/75th-venice-film-festival-roma",
       "image": "assets/shots/roma-cinema.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/2991/Roma/Teatro-Metropolitan"
+      "imageSource": "https://www.sceen-it.com/sceen/2991/Roma/Teatro-Metropolitan",
+      "video": {
+        "id": "6BS27ngZtxg",
+        "source": "https://www.youtube.com/watch?v=6BS27ngZtxg",
+        "type": "trailer",
+        "title": "ROMA | Official Trailer | Netflix",
+        "publisher": "Netflix",
+        "duration": 135,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "district9",
@@ -758,7 +1298,16 @@
       "source": "https://www.sonypictures.com/movies/district9",
       "releaseSource": "https://en.wikipedia.org/wiki/District_9",
       "image": "assets/shots/district-johannesburg.jpg",
-      "imageSource": "https://film-grab.com/2017/11/27/district-9/"
+      "imageSource": "https://film-grab.com/2017/11/27/district-9/",
+      "video": {
+        "id": "DyLUwOcR5pk",
+        "source": "https://www.youtube.com/watch?v=DyLUwOcR5pk",
+        "type": "trailer",
+        "title": "District 9 - Official Trailer (HD)",
+        "publisher": "Sony Pictures Entertainment",
+        "duration": 109,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "revenant",
@@ -771,7 +1320,16 @@
       "source": "https://www.20thcenturystudios.com/movies/the-revenant",
       "releaseSource": "https://en.wikipedia.org/wiki/The_Revenant_(2015_film)",
       "image": "assets/shots/revenant-bear.jpg",
-      "imageSource": "https://film-grab.com/2017/08/29/the-revenant/"
+      "imageSource": "https://film-grab.com/2017/08/29/the-revenant/",
+      "video": {
+        "id": "LoebZZ8K5N0",
+        "source": "https://www.youtube.com/watch?v=LoebZZ8K5N0",
+        "type": "trailer",
+        "title": "The Revenant | Official Trailer [HD] | 20th Century FOX",
+        "publisher": "20th Century Studios",
+        "duration": 168,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-mother",
@@ -783,7 +1341,16 @@
       "genre": "Романтика",
       "source": "https://en.wikipedia.org/wiki/All_About_My_Mother",
       "image": "assets/shots/eu-mother-scene.jpg",
-      "imageSource": "https://film-grab.com/2015/03/30/all-about-my-mother/"
+      "imageSource": "https://film-grab.com/2015/03/30/all-about-my-mother/",
+      "video": {
+        "id": "hcVEvcP1iAc",
+        "source": "https://www.youtube.com/watch?v=hcVEvcP1iAc",
+        "type": "trailer",
+        "title": "Todo sobre mi madre - Trailer oficial",
+        "publisher": "eldeseopc",
+        "duration": 111,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-tabu",
@@ -795,7 +1362,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/Tabu_(2012_film)",
       "image": "assets/shots/eu-tabu-scene.jpg",
-      "imageSource": "https://film-grab.com/2016/01/20/tabu/"
+      "imageSource": "https://film-grab.com/2016/01/20/tabu/",
+      "video": {
+        "id": "JsZM6h7TVjw",
+        "source": "https://www.youtube.com/watch?v=JsZM6h7TVjw",
+        "type": "trailer",
+        "title": "Tabu (2012) | Trailer | Telmo Churro | Miguel Gomes | Hortêncílio Aquina | Miguel Gomes",
+        "publisher": "The Match Factory",
+        "duration": 117,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-sils",
@@ -807,7 +1383,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/Clouds_of_Sils_Maria",
       "image": "assets/shots/eu-sils-scene.jpg",
-      "imageSource": "https://film-grab.com/2016/06/24/clouds-of-sils-maria/"
+      "imageSource": "https://film-grab.com/2016/06/24/clouds-of-sils-maria/",
+      "video": {
+        "id": "PbVHlm7RcDs",
+        "source": "https://www.youtube.com/watch?v=PbVHlm7RcDs",
+        "type": "trailer",
+        "title": "Clouds of Sils Maria - Official Trailer I HD I IFC Films",
+        "publisher": "Independent Film Company",
+        "duration": 148,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-seventh",
@@ -819,7 +1404,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/The_Seventh_Seal",
       "image": "assets/shots/eu-seventh-scene.jpg",
-      "imageSource": "https://film-grab.com/2013/02/26/the-seventh-seal/"
+      "imageSource": "https://film-grab.com/2013/02/26/the-seventh-seal/",
+      "video": {
+        "id": "QIWV6fkIdEw",
+        "source": "https://www.youtube.com/watch?v=QIWV6fkIdEw",
+        "type": "trailer",
+        "title": "El séptimo sello - Tráiler",
+        "publisher": "acontrafilmshome",
+        "duration": 96,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-fallen",
@@ -831,7 +1425,16 @@
       "genre": "Романтика",
       "source": "https://en.wikipedia.org/wiki/Fallen_Leaves_(film)",
       "image": "assets/shots/eu-fallen-scene.jpg",
-      "imageSource": "https://film-grab.com/2024/07/08/fallen-leaves/"
+      "imageSource": "https://film-grab.com/2024/07/08/fallen-leaves/",
+      "video": {
+        "id": "a7n8IXlIcS4",
+        "source": "https://www.youtube.com/watch?v=a7n8IXlIcS4",
+        "type": "trailer",
+        "title": "FALLEN LEAVES | Official Trailer | Now Streaming",
+        "publisher": "MUBI",
+        "duration": 93,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-worst",
@@ -843,7 +1446,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/The_Worst_Person_in_the_World_(film)",
       "image": "assets/shots/eu-worst-scene.jpg",
-      "imageSource": "https://film-grab.com/2022/07/01/the-worst-person-in-the-world/"
+      "imageSource": "https://film-grab.com/2022/07/01/the-worst-person-in-the-world/",
+      "video": {
+        "id": "w_cV1q02cyE",
+        "source": "https://www.youtube.com/watch?v=w_cV1q02cyE",
+        "type": "trailer",
+        "title": "THE WORST PERSON IN THE WORLD | Official Trailer | Now Streaming on MUBI",
+        "publisher": "MUBI",
+        "duration": 93,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-fourmonths",
@@ -855,7 +1467,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/4_Months,_3_Weeks_and_2_Days",
       "image": "assets/shots/eu-fourmonths-scene.jpg",
-      "imageSource": "https://film-grab.com/2025/03/10/4-months-3-weeks-and-2-days/"
+      "imageSource": "https://film-grab.com/2025/03/10/4-months-3-weeks-and-2-days/",
+      "video": {
+        "id": "sCQz3gaDv94",
+        "source": "https://www.youtube.com/watch?v=sCQz3gaDv94",
+        "type": "trailer",
+        "title": "4 Months, 3 Weeks & 2 Days trailer",
+        "publisher": "Curzon",
+        "duration": 92,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-comesee",
@@ -867,7 +1488,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/Come_and_See",
       "image": "assets/shots/eu-comesee-scene.jpg",
-      "imageSource": "https://film-grab.com/2021/07/07/come-and-see/"
+      "imageSource": "https://film-grab.com/2021/07/07/come-and-see/",
+      "video": {
+        "id": "UHaSQU-4wss",
+        "source": "https://www.youtube.com/watch?v=UHaSQU-4wss",
+        "type": "trailer",
+        "title": "COME AND SEE Trailer",
+        "publisher": "Film Forum",
+        "duration": 114,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-werck",
@@ -879,7 +1509,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/Werckmeister_Harmonies",
       "image": "assets/shots/eu-werck-scene.jpg",
-      "imageSource": "https://film-grab.com/2015/04/30/the-werckmeister-harmonies/"
+      "imageSource": "https://film-grab.com/2015/04/30/the-werckmeister-harmonies/",
+      "video": {
+        "id": "-tJVdq_G_Go",
+        "source": "https://www.youtube.com/watch?v=-tJVdq_G_Go",
+        "type": "trailer",
+        "title": "Werckmeister Harmonies - 4k Restoration Trailer",
+        "publisher": "JANUS",
+        "duration": 105,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-underground",
@@ -891,7 +1530,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/Underground_(1995_film)",
       "image": "assets/shots/eu-underground-scene.jpg",
-      "imageSource": "https://film-grab.com/2019/01/31/underground/"
+      "imageSource": "https://film-grab.com/2019/01/31/underground/",
+      "video": {
+        "id": "rYTvmLvLchs",
+        "source": "https://www.youtube.com/watch?v=rYTvmLvLchs",
+        "type": "trailer",
+        "title": "Underground – Emir Kusturica – Official Re-Release Trailer",
+        "publisher": "Kino Lorber",
+        "duration": 66,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-midnight",
@@ -903,7 +1551,16 @@
       "genre": "Романтика",
       "source": "https://en.wikipedia.org/wiki/Before_Midnight",
       "image": "assets/shots/eu-midnight-scene.jpg",
-      "imageSource": "https://film-grab.com/2014/01/02/before-midnight/"
+      "imageSource": "https://film-grab.com/2014/01/02/before-midnight/",
+      "video": {
+        "id": "4aT9yiM9ZYU",
+        "source": "https://www.youtube.com/watch?v=4aT9yiM9ZYU",
+        "type": "trailer",
+        "title": "Before Midnight Official Trailer - On Blu-ray™ 10/22 and Digital 10/15!",
+        "publisher": "Sony Pictures Entertainment",
+        "duration": 117,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "eu-ironmonaco",
@@ -915,7 +1572,16 @@
       "genre": "Фантастика",
       "source": "https://en.wikipedia.org/wiki/Iron_Man_2",
       "image": "assets/shots/eu-ironmonaco-scene.jpg",
-      "imageSource": "https://film-grab.com/2014/12/22/iron-man-2/"
+      "imageSource": "https://film-grab.com/2014/12/22/iron-man-2/",
+      "video": {
+        "id": "5fUQkLdJ2kE",
+        "source": "https://www.youtube.com/watch?v=5fUQkLdJ2kE",
+        "type": "trailer",
+        "title": "Iron Man 2 IMAX® Trailer",
+        "publisher": "IMAX",
+        "duration": 67,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ad-scene-film",
@@ -927,7 +1593,16 @@
       "genre": "Драма",
       "source": "https://catalanfilms.cat/en/productions/the-burning-cold",
       "image": "assets/shots/world-ad-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=7TzIfeyKlT4"
+      "imageSource": "https://www.youtube.com/watch?v=7TzIfeyKlT4",
+      "video": {
+        "id": "7TzIfeyKlT4",
+        "source": "https://www.youtube.com/watch?v=7TzIfeyKlT4",
+        "type": "trailer",
+        "title": "EL FRED QUE CREMA. Tráiler oficial (VOSE). 20 de enero en cines",
+        "publisher": "Filmax",
+        "duration": 102,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-be-scene-film",
@@ -939,7 +1614,16 @@
       "genre": "Драма",
       "source": "https://www.criterion.com/films/28056-rosetta",
       "image": "assets/shots/world-be-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=woN2P4r65oA"
+      "imageSource": "https://www.youtube.com/watch?v=woN2P4r65oA",
+      "video": {
+        "id": "woN2P4r65oA",
+        "source": "https://www.youtube.com/watch?v=woN2P4r65oA",
+        "type": "trailer",
+        "title": "ROSETTA Official Trailer",
+        "publisher": "Les Films du Fleuve",
+        "duration": 60,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ba-scene-film",
@@ -951,7 +1635,16 @@
       "genre": "Драма",
       "source": "https://www.austrianfilms.com/film/quo_vadis_aida",
       "image": "assets/shots/world-ba-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ErLD8P4VUjY"
+      "imageSource": "https://www.youtube.com/watch?v=ErLD8P4VUjY",
+      "video": {
+        "id": "ErLD8P4VUjY",
+        "source": "https://www.youtube.com/watch?v=ErLD8P4VUjY",
+        "type": "trailer",
+        "title": "QUO VADIS, AIDA? | Official UK Trailer [HD]",
+        "publisher": "Curzon",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bg-scene-film",
@@ -963,7 +1656,16 @@
       "genre": "Драма",
       "source": "https://filmmovement.com/educational/film/the-lesson",
       "image": "assets/shots/world-bg-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=9M0V2hjzNYQ"
+      "imageSource": "https://www.youtube.com/watch?v=9M0V2hjzNYQ",
+      "video": {
+        "id": "9M0V2hjzNYQ",
+        "source": "https://www.youtube.com/watch?v=9M0V2hjzNYQ",
+        "type": "trailer",
+        "title": "The Lesson (Urok) (2014) | Trailer | Margita Gosheva | Ivan Barnev | Ivan Savov",
+        "publisher": "Film Movement",
+        "duration": 84,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-cy-scene-film",
@@ -975,7 +1677,16 @@
       "genre": "Драма",
       "source": "https://www.the-match-factory.com/catalogue/films/smuggling-hendrix.html",
       "image": "assets/shots/world-cy-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=9ACqXDktph0"
+      "imageSource": "https://www.youtube.com/watch?v=9ACqXDktph0",
+      "video": {
+        "id": "9ACqXDktph0",
+        "source": "https://www.youtube.com/watch?v=9ACqXDktph0",
+        "type": "trailer",
+        "title": "Smuggling Hendrix (2018) | Trailer | Adam Bousdoukos | Fatih Al | Vicky Papadopoulou",
+        "publisher": "The Match Factory",
+        "duration": 104,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-dk-scene-film",
@@ -987,7 +1698,16 @@
       "genre": "Драма",
       "source": "https://www.ica.art/films/another-round-ica",
       "image": "assets/shots/world-dk-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=40X5EX6Us7c"
+      "imageSource": "https://www.youtube.com/watch?v=40X5EX6Us7c",
+      "video": {
+        "id": "40X5EX6Us7c",
+        "source": "https://www.youtube.com/watch?v=40X5EX6Us7c",
+        "type": "trailer",
+        "title": "Another Round | Official Trailer | Starring Mads Mikkelsen",
+        "publisher": "StudiocanalUK",
+        "duration": 141,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-hr-scene-film",
@@ -999,7 +1719,16 @@
       "genre": "Драма",
       "source": "https://havc.hr/eng/croatian-film/croatian-film-catalogue/the-constitution",
       "image": "assets/shots/world-hr-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=bfsRnYl5uj4"
+      "imageSource": "https://www.youtube.com/watch?v=bfsRnYl5uj4",
+      "video": {
+        "id": "WTlgnsV0sec",
+        "source": "https://www.youtube.com/watch?v=WTlgnsV0sec",
+        "type": "trailer",
+        "title": "USTAV REPUBLIKE HRVATSKE - TRAILER",
+        "publisher": "Interfilm Official",
+        "duration": 106,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-lt-scene-film",
@@ -1011,7 +1740,16 @@
       "genre": "Драма",
       "source": "https://strandreleasing.com/films/the-summer-of-sangaile/",
       "image": "assets/shots/world-lt-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=XX3VnXT_4GE"
+      "imageSource": "https://www.youtube.com/watch?v=XX3VnXT_4GE",
+      "video": {
+        "id": "V4dWiT3a35o",
+        "source": "https://www.youtube.com/watch?v=V4dWiT3a35o",
+        "type": "trailer",
+        "title": "Sangailės Vasara (EN: The summer of Sangailė) | Official Trailer",
+        "publisher": "FralitaFilms",
+        "duration": 106,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-lu-scene-film",
@@ -1023,7 +1761,16 @@
       "genre": "Драма",
       "source": "https://www.psfilmfest.org/2018-ps-film-festival/film-archive/gutland",
       "image": "assets/shots/world-lu-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Sif439KtxWM"
+      "imageSource": "https://www.youtube.com/watch?v=Sif439KtxWM",
+      "video": {
+        "id": "Sif439KtxWM",
+        "source": "https://www.youtube.com/watch?v=Sif439KtxWM",
+        "type": "trailer",
+        "title": "GUTLAND Trailer | TIFF 2017",
+        "publisher": "TIFF",
+        "duration": 101,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-lv-scene-film",
@@ -1035,7 +1782,16 @@
       "genre": "Драма",
       "source": "https://www.nkc.gov.lv/en/blizzard-souls",
       "image": "assets/shots/world-lv-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=5TRwQ4NnvvQ"
+      "imageSource": "https://www.youtube.com/watch?v=5TRwQ4NnvvQ",
+      "video": {
+        "id": "88cqCXWRwoQ",
+        "source": "https://www.youtube.com/watch?v=88cqCXWRwoQ",
+        "type": "trailer",
+        "title": "DVĒSEĻU PUTENIS - filmas treileris",
+        "publisher": "KULTFILMA",
+        "duration": 133,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-md-scene-film",
@@ -1047,7 +1803,16 @@
       "genre": "Драма",
       "source": "https://film.md/en/movie-details/carbon",
       "image": "assets/shots/world-md-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ZYF57m2rQGs"
+      "imageSource": "https://www.youtube.com/watch?v=ZYF57m2rQGs",
+      "video": {
+        "id": "ZYF57m2rQGs",
+        "source": "https://www.youtube.com/watch?v=ZYF57m2rQGs",
+        "type": "trailer",
+        "title": "CARBON - trailer",
+        "publisher": "YOUBESC",
+        "duration": 106,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mk-scene-film",
@@ -1059,7 +1824,16 @@
       "genre": "Драма",
       "source": "https://manchevski.com/films/before-the-rain/",
       "image": "assets/shots/world-mk-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=xRD9vVvLl6A"
+      "imageSource": "https://www.youtube.com/watch?v=xRD9vVvLl6A",
+      "video": {
+        "id": "3U5qi9YhGmg",
+        "source": "https://www.youtube.com/watch?v=3U5qi9YhGmg",
+        "type": "trailer",
+        "title": "Before the Rain - International Trailer (High Resolution)",
+        "publisher": "Milcho Manchevski",
+        "duration": 135,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mt-scene-film",
@@ -1071,7 +1845,16 @@
       "genre": "Драма",
       "source": "https://kinolorber.com/film/luzzu",
       "image": "assets/shots/world-mt-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=e3lsYoYjQxg"
+      "imageSource": "https://www.youtube.com/watch?v=e3lsYoYjQxg",
+      "video": {
+        "id": "1kPHPM8kYQE",
+        "source": "https://www.youtube.com/watch?v=1kPHPM8kYQE",
+        "type": "trailer",
+        "title": "Luzzu – Official Trailer",
+        "publisher": "Kino Lorber",
+        "duration": 122,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-me-scene-film",
@@ -1083,7 +1866,16 @@
       "genre": "Драма",
       "source": "https://www.fcs.rs/en/movies/igla-ispod-praga-manjinska-koprodukcija/",
       "image": "assets/shots/world-me-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=HdEEakgt71Y"
+      "imageSource": "https://www.youtube.com/watch?v=HdEEakgt71Y",
+      "video": {
+        "id": "_QusnOSuKZs",
+        "source": "https://www.youtube.com/watch?v=_QusnOSuKZs",
+        "type": "trailer",
+        "title": "IGLA ISPOD PRAGA | THE BLACK PIN  - Trailer",
+        "publisher": "Adriatic Western",
+        "duration": 99,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-nl-scene-film",
@@ -1095,7 +1887,16 @@
       "genre": "Драма",
       "source": "https://www.filmfestival.nl/en/film/amsterdamned",
       "image": "assets/shots/world-nl-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=NC6cs7qgo7E"
+      "imageSource": "https://www.youtube.com/watch?v=NC6cs7qgo7E",
+      "video": {
+        "id": "NC6cs7qgo7E",
+        "source": "https://www.youtube.com/watch?v=NC6cs7qgo7E",
+        "type": "trailer",
+        "title": "AMSTERDAMNED (1988) - Restored 1080p HD U.S. Movie Trailer - Blue Underground",
+        "publisher": "Blue Underground Official",
+        "duration": 104,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-pl-scene-film",
@@ -1107,7 +1908,16 @@
       "genre": "Драма",
       "source": "https://www.musicboxfilms.com/film/ida/",
       "image": "assets/shots/world-pl-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=i_vrlpWB4Vo"
+      "imageSource": "https://www.youtube.com/watch?v=i_vrlpWB4Vo",
+      "video": {
+        "id": "_q7Xmtf4gaU",
+        "source": "https://www.youtube.com/watch?v=_q7Xmtf4gaU",
+        "type": "trailer",
+        "title": "IDA Trailer",
+        "publisher": "Arsenalfilm",
+        "duration": 89,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-si-scene-film",
@@ -1119,7 +1929,16 @@
       "genre": "Драма",
       "source": "https://bsf.si/en/movie/razredni-sovraznik/",
       "image": "assets/shots/world-si-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=eJlFdsgy6TA"
+      "imageSource": "https://www.youtube.com/watch?v=eJlFdsgy6TA",
+      "video": {
+        "id": "QsOsFByeR0U",
+        "source": "https://www.youtube.com/watch?v=QsOsFByeR0U",
+        "type": "trailer",
+        "title": "RAZREDNI SOVRAŽNIK (\"Class Enemy\") - official trailer",
+        "publisher": "FIVIA film",
+        "duration": 134,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sk-scene-film",
@@ -1131,7 +1950,16 @@
       "genre": "Драма",
       "source": "https://www.criterion.com/films/669-the-shop-on-main-street",
       "image": "assets/shots/world-sk-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ow_5K36vb_I"
+      "imageSource": "https://www.youtube.com/watch?v=ow_5K36vb_I",
+      "video": {
+        "id": "ow_5K36vb_I",
+        "source": "https://www.youtube.com/watch?v=ow_5K36vb_I",
+        "type": "trailer",
+        "title": "The Shop on Main Street (Trailer) -AIFF 2019",
+        "publisher": "Athens International Film Festival",
+        "duration": 203,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-va-scene-film",
@@ -1143,7 +1971,16 @@
       "genre": "Драма",
       "source": "https://acmag.com.au/2020/01/09/the-two-popes/amp/",
       "image": "assets/shots/world-va-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=T5OhkFY1PQE"
+      "imageSource": "https://www.youtube.com/watch?v=T5OhkFY1PQE",
+      "video": {
+        "id": "T5OhkFY1PQE",
+        "source": "https://www.youtube.com/watch?v=T5OhkFY1PQE",
+        "type": "trailer",
+        "title": "The Two Popes | Official Trailer | Netflix",
+        "publisher": "Netflix",
+        "duration": 140,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-al-scene-film",
@@ -1155,7 +1992,15 @@
       "genre": "Драма",
       "source": "https://www.portobelloproductions.com/portfolio/the-forgiveness-of-blood/",
       "image": "assets/shots/world-al-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=OJr2qx1XwDs"
+      "imageSource": "https://www.youtube.com/watch?v=OJr2qx1XwDs",
+      "video": {
+        "id": "OJr2qx1XwDs",
+        "source": "https://www.youtube.com/watch?v=OJr2qx1XwDs",
+        "type": "trailer",
+        "title": "The Forgiveness of Blood (2012) Trailer",
+        "publisher": "Movie Trailers",
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ee-scene-film",
@@ -1167,7 +2012,16 @@
       "genre": "Драма",
       "source": "https://ajaloomuuseum.ee/haridus/filmikohver/klass",
       "image": "assets/shots/world-ee-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Wo_LYkn88o8"
+      "imageSource": "https://www.youtube.com/watch?v=Wo_LYkn88o8",
+      "video": {
+        "id": "Wo_LYkn88o8",
+        "source": "https://www.youtube.com/watch?v=Wo_LYkn88o8",
+        "type": "trailer",
+        "title": "The Class (KLASS)  Official UK trailer",
+        "publisher": "060456",
+        "duration": 180,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-cz-scene-film",
@@ -1179,7 +2033,16 @@
       "genre": "Драма",
       "source": "https://www.filmcenter.gov.cz/cs/filmy-tvurci/3920-kolya",
       "image": "assets/shots/world-cz-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=vyhphIMReWU"
+      "imageSource": "https://www.youtube.com/watch?v=vyhphIMReWU",
+      "video": {
+        "id": "W1aNbgUF968",
+        "source": "https://www.youtube.com/watch?v=W1aNbgUF968",
+        "type": "trailer",
+        "title": "Kolja (1996) trailer with English subtitles",
+        "publisher": "Kino Aero",
+        "duration": 161,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-li-scene-film",
@@ -1191,7 +2054,16 @@
       "genre": "Драма",
       "source": "https://alteskino.li/en/film/kinder-der-berge/",
       "image": "assets/shots/world-li-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=xmNX5xqr0Z8"
+      "imageSource": "https://www.youtube.com/watch?v=xmNX5xqr0Z8",
+      "video": {
+        "id": "xmNX5xqr0Z8",
+        "source": "https://www.youtube.com/watch?v=xmNX5xqr0Z8",
+        "type": "source",
+        "title": "Kinder der Berge",
+        "publisher": "mef2005",
+        "duration": 152,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sm-scene-film",
@@ -1203,7 +2075,16 @@
       "genre": "Драма",
       "source": "https://www.archiviodelcinemaitaliano.it/risultati/scheda?codice=DC5565",
       "image": "assets/shots/world-sm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=koGrmbMRFrg"
+      "imageSource": "https://www.youtube.com/watch?v=koGrmbMRFrg",
+      "video": {
+        "id": "koGrmbMRFrg",
+        "source": "https://www.youtube.com/watch?v=koGrmbMRFrg",
+        "type": "source",
+        "title": "Lo sconosciuto di San Marino 1946 (esordio cinematografico di Enrico Maria Salerno)",
+        "publisher": "Omaggio a Enrico Maria Salerno",
+        "duration": 144,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-anatolia",
@@ -1215,7 +2096,16 @@
       "genre": "Драма",
       "source": "https://film-grab.com/2020/07/08/once-upon-a-time-in-anatolia/",
       "image": "assets/shots/as-anatolia-scene.jpg",
-      "imageSource": "https://film-grab.com/2020/07/08/once-upon-a-time-in-anatolia/"
+      "imageSource": "https://film-grab.com/2020/07/08/once-upon-a-time-in-anatolia/",
+      "video": {
+        "id": "eysCkRuHZDw",
+        "source": "https://www.youtube.com/watch?v=eysCkRuHZDw",
+        "type": "trailer",
+        "title": "Once Upon A Time in Anatolia - Official Trailer 1",
+        "publisher": "Nuri Bilge Ceylan",
+        "duration": 90,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-joyland",
@@ -1227,7 +2117,16 @@
       "genre": "Драма",
       "source": "https://film-grab.com/2024/01/10/joyland/",
       "image": "assets/shots/as-joyland-scene.jpg",
-      "imageSource": "https://film-grab.com/2024/01/10/joyland/"
+      "imageSource": "https://film-grab.com/2024/01/10/joyland/",
+      "video": {
+        "id": "Ksx0U0vNym0",
+        "source": "https://www.youtube.com/watch?v=Ksx0U0vNym0",
+        "type": "trailer",
+        "title": "Joyland - Official Trailer - Oscilloscope Laboratories HD",
+        "publisher": "Oscilloscope Laboratories",
+        "duration": 128,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-raid",
@@ -1239,7 +2138,16 @@
       "genre": "Драма",
       "source": "https://film-grab.com/2020/08/13/the-raid/",
       "image": "assets/shots/as-raid-scene.jpg",
-      "imageSource": "https://film-grab.com/2020/08/13/the-raid/"
+      "imageSource": "https://film-grab.com/2020/08/13/the-raid/",
+      "video": {
+        "id": "m6Q7KnXpNOg",
+        "source": "https://www.youtube.com/watch?v=m6Q7KnXpNOg",
+        "type": "trailer",
+        "title": "The Raid | Official US Trailer HD (2011)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-pomegranates",
@@ -1251,7 +2159,16 @@
       "genre": "Драма",
       "source": "https://film-grab.com/2019/05/09/the-colour-of-pomegranates/",
       "image": "assets/shots/as-pomegranates-scene.jpg",
-      "imageSource": "https://film-grab.com/2019/05/09/the-colour-of-pomegranates/"
+      "imageSource": "https://film-grab.com/2019/05/09/the-colour-of-pomegranates/",
+      "video": {
+        "id": "ci1ddK_1h6E",
+        "source": "https://www.youtube.com/watch?v=ci1ddK_1h6E",
+        "type": "trailer",
+        "title": "THE COLOUR OF POMEGRANATES (SAYAT NOVA) | Trailer - Armenian Film Festival Australia 2024",
+        "publisher": "Armenian Film Festival Australia",
+        "duration": 77,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-wadjda",
@@ -1263,7 +2180,16 @@
       "genre": "Драма",
       "source": "https://www.eyefilm.nl/en/whats-on/wadjda/520503",
       "image": "assets/shots/as-wadjda-scene.jpg",
-      "imageSource": "https://www.eyefilm.nl/en/whats-on/wadjda/520503"
+      "imageSource": "https://www.eyefilm.nl/en/whats-on/wadjda/520503",
+      "video": {
+        "id": "s2Q2JvhWjyE",
+        "source": "https://www.youtube.com/watch?v=s2Q2JvhWjyE",
+        "type": "trailer",
+        "title": "Wadjda | Official Trailer HD (2013)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 125,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-cruelsea",
@@ -1275,7 +2201,16 @@
       "genre": "Драма",
       "source": "https://cine-scope.com/2018/04/04/the-cruel-sea/",
       "image": "assets/shots/as-cruelsea-scene.jpg",
-      "imageSource": "https://cine-scope.com/2018/04/04/the-cruel-sea/"
+      "imageSource": "https://cine-scope.com/2018/04/04/the-cruel-sea/",
+      "video": {
+        "id": "XJ-lM7C_pjM",
+        "source": "https://www.youtube.com/watch?v=XJ-lM7C_pjM",
+        "type": "source",
+        "title": "Bas Ya Bahar The Cruel Sea 1972 Arabic with English subtitles",
+        "publisher": "David G",
+        "duration": 5720,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-theeb",
@@ -1287,7 +2222,16 @@
       "genre": "Драма",
       "source": "https://newwavefilms.co.uk/films/theeb/",
       "image": "assets/shots/as-theeb-scene.jpg",
-      "imageSource": "https://newwavefilms.co.uk/films/theeb/"
+      "imageSource": "https://newwavefilms.co.uk/films/theeb/",
+      "video": {
+        "id": "US3NKlGzkwg",
+        "source": "https://www.youtube.com/watch?v=US3NKlGzkwg",
+        "type": "trailer",
+        "title": "Theeb - Official UK trailer. Winner BAFTA British debut, and nominated for Foreign Language Oscar.",
+        "publisher": "New Wave Films",
+        "duration": 88,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-claybird",
@@ -1299,7 +2243,16 @@
       "genre": "Драма",
       "source": "https://mk2films.com/en/film/loiseau-dargile-matir-moina/",
       "image": "assets/shots/as-claybird-scene.jpg",
-      "imageSource": "https://mk2films.com/en/film/loiseau-dargile-matir-moina/"
+      "imageSource": "https://mk2films.com/en/film/loiseau-dargile-matir-moina/",
+      "video": {
+        "id": "ERpjh_BIshI",
+        "source": "https://www.youtube.com/watch?v=ERpjh_BIshI",
+        "type": "trailer",
+        "title": "THE CLAY BIRD trailer",
+        "publisher": "Milestone Films",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-paradise",
@@ -1311,7 +2264,16 @@
       "genre": "Драма",
       "source": "https://www.lama-films.com/feature-films/paradise-now",
       "image": "assets/shots/as-paradise-scene.jpg",
-      "imageSource": "https://www.lama-films.com/feature-films/paradise-now"
+      "imageSource": "https://www.lama-films.com/feature-films/paradise-now",
+      "video": {
+        "id": "9O5KYevUkPw",
+        "source": "https://www.youtube.com/watch?v=9O5KYevUkPw",
+        "type": "trailer",
+        "title": "Paradise Now - Trailer 1",
+        "publisher": "Warner Bros. Rewind",
+        "duration": 152,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-capernaum",
@@ -1323,7 +2285,16 @@
       "genre": "Драма",
       "source": "https://artmejo.com/capernaum-a-story-of-hope/",
       "image": "assets/shots/as-capernaum-scene.jpg",
-      "imageSource": "https://artmejo.com/capernaum-a-story-of-hope/"
+      "imageSource": "https://artmejo.com/capernaum-a-story-of-hope/",
+      "video": {
+        "id": "ULUo0048xZE",
+        "source": "https://www.youtube.com/watch?v=ULUo0048xZE",
+        "type": "trailer",
+        "title": "Capernaum | Official US Trailer HD (2018)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 132,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-cyclo",
@@ -1335,7 +2306,16 @@
       "genre": "Драма",
       "source": "https://thesmartlocal.com/vietnam/cyclo-1995/",
       "image": "assets/shots/as-cyclo-scene.jpg",
-      "imageSource": "https://thesmartlocal.com/vietnam/cyclo-1995/"
+      "imageSource": "https://thesmartlocal.com/vietnam/cyclo-1995/",
+      "video": {
+        "id": "GxXlkPBGjmA",
+        "source": "https://www.youtube.com/watch?v=GxXlkPBGjmA",
+        "type": "trailer",
+        "title": "Cyclo (1995) | Bande-annonce originale",
+        "publisher": "UniversCiné",
+        "duration": 78,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-yasmine",
@@ -1347,7 +2327,16 @@
       "genre": "Драма",
       "source": "https://asiawa.jpf.go.jp/en/culture/events/dragon-girl-170331/",
       "image": "assets/shots/as-yasmine-scene.jpg",
-      "imageSource": "https://asiawa.jpf.go.jp/en/culture/events/dragon-girl-170331/"
+      "imageSource": "https://asiawa.jpf.go.jp/en/culture/events/dragon-girl-170331/",
+      "video": {
+        "id": "HWi1oUg89Mo",
+        "source": "https://www.youtube.com/watch?v=HWi1oUg89Mo",
+        "type": "trailer",
+        "title": "Yasmine Official Trailer 2014",
+        "publisher": "Origin Films",
+        "duration": 147,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-lunana2",
@@ -1359,7 +2348,16 @@
       "genre": "Драма",
       "source": "https://filmsboutique.com/film/lunana-a-yak-in-the-classroom/",
       "image": "assets/shots/as-lunana2-scene.jpg",
-      "imageSource": "https://filmsboutique.com/film/lunana-a-yak-in-the-classroom/"
+      "imageSource": "https://filmsboutique.com/film/lunana-a-yak-in-the-classroom/",
+      "video": {
+        "id": "xbeVZtegdP0",
+        "source": "https://www.youtube.com/watch?v=xbeVZtegdP0",
+        "type": "trailer",
+        "title": "Lunana: A Yak in The Classroom - Official Trailer",
+        "publisher": "Samuel Goldwyn Films",
+        "duration": 133,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-tulpan2",
@@ -1371,7 +2369,16 @@
       "genre": "Драма",
       "source": "https://www.palacefilms.com.au/tulpan",
       "image": "assets/shots/as-tulpan2-scene.jpg",
-      "imageSource": "https://www.palacefilms.com.au/tulpan"
+      "imageSource": "https://www.palacefilms.com.au/tulpan",
+      "video": {
+        "id": "aZaecdNHLxs",
+        "source": "https://www.youtube.com/watch?v=aZaecdNHLxs",
+        "type": "trailer",
+        "title": "TULPAN - Official Trailer - A film by Sergei Dvortsevoy",
+        "publisher": "PalaceFilms",
+        "duration": 145,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "as-crazyrich",
@@ -1383,7 +2390,16 @@
       "genre": "Романтика",
       "source": "https://www.sceen-it.com/sceen/2923/Crazy-Rich-Asians/Marina-Bay-Sands-Singapore",
       "image": "assets/shots/as-crazyrich-scene.jpg",
-      "imageSource": "https://www.sceen-it.com/sceen/2923/Crazy-Rich-Asians/Marina-Bay-Sands-Singapore"
+      "imageSource": "https://www.sceen-it.com/sceen/2923/Crazy-Rich-Asians/Marina-Bay-Sands-Singapore",
+      "video": {
+        "id": "ZQ-YX-5bAs0",
+        "source": "https://www.youtube.com/watch?v=ZQ-YX-5bAs0",
+        "type": "trailer",
+        "title": "CRAZY RICH ASIANS - Official Trailer",
+        "publisher": "Warner Bros.",
+        "duration": 145,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ae-scene-film",
@@ -1395,7 +2411,16 @@
       "genre": "Драма",
       "source": "https://www.alimostafa.com/work/city-of-life/",
       "image": "assets/shots/world-ae-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Iyxudew346k"
+      "imageSource": "https://www.youtube.com/watch?v=Iyxudew346k",
+      "video": {
+        "id": "Iyxudew346k",
+        "source": "https://www.youtube.com/watch?v=Iyxudew346k",
+        "type": "trailer",
+        "title": "City of Life |2009| Official HD Trailer",
+        "publisher": "Front Row Filmed Entertainment",
+        "duration": 136,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-az-scene-film",
@@ -1407,7 +2432,16 @@
       "genre": "Драма",
       "source": "https://trigon-film.org/en/films/nabat/",
       "image": "assets/shots/world-az-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=AYBQ9TjEeGA"
+      "imageSource": "https://www.youtube.com/watch?v=AYBQ9TjEeGA",
+      "video": {
+        "id": "AYBQ9TjEeGA",
+        "source": "https://www.youtube.com/watch?v=AYBQ9TjEeGA",
+        "type": "trailer",
+        "title": "Nabat 2014 Trailer A film by Elchin Musaoghlu",
+        "publisher": "Kinotap",
+        "duration": 101,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bh-scene-film",
@@ -1419,7 +2453,16 @@
       "genre": "Драма",
       "source": "https://www.maffswe.com/wp-content/uploads/2021/02/MAFF-catalogue2015.compressed.pdf",
       "image": "assets/shots/world-bh-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=765ZKpTSU-Y"
+      "imageSource": "https://www.youtube.com/watch?v=765ZKpTSU-Y",
+      "video": {
+        "id": "765ZKpTSU-Y",
+        "source": "https://www.youtube.com/watch?v=765ZKpTSU-Y",
+        "type": "trailer",
+        "title": "The Sleeping Tree Trailer الإعلان الدعائي لفيلم الشجرة النائمة",
+        "publisher": "Mohamed Buali",
+        "duration": 101,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-il-scene-film",
@@ -1431,7 +2474,16 @@
       "genre": "Драма",
       "source": "https://www.sonypictures.com/movies/thebandsvisit",
       "image": "assets/shots/world-il-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=QWYlLb0jm8U"
+      "imageSource": "https://www.youtube.com/watch?v=QWYlLb0jm8U",
+      "video": {
+        "id": "QWYlLb0jm8U",
+        "source": "https://www.youtube.com/watch?v=QWYlLb0jm8U",
+        "type": "trailer",
+        "title": "The Band's Visit | Official Trailer (2007)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 130,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-la-scene-film",
@@ -1443,7 +2495,16 @@
       "genre": "Драма",
       "source": "https://www.castellinaria.ch/Presskit-da4efa00?MasterId=g1_213&i=1",
       "image": "assets/shots/world-la-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=l9dHw423U7Q"
+      "imageSource": "https://www.youtube.com/watch?v=l9dHw423U7Q",
+      "video": {
+        "id": "l9dHw423U7Q",
+        "source": "https://www.youtube.com/watch?v=l9dHw423U7Q",
+        "type": "trailer",
+        "title": "The Rocket Official Trailer 1 (2013) - Australian Drama Movie HD",
+        "publisher": "Rotten Tomatoes Indie",
+        "duration": 137,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-lk-scene-film",
@@ -1455,7 +2516,16 @@
       "genre": "Драма",
       "source": "https://www.tiff08.ca/filmsandschedules/films/machan/",
       "image": "assets/shots/world-lk-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=cr2Sp-xvhCw"
+      "imageSource": "https://www.youtube.com/watch?v=cr2Sp-xvhCw",
+      "video": {
+        "id": "cr2Sp-xvhCw",
+        "source": "https://www.youtube.com/watch?v=cr2Sp-xvhCw",
+        "type": "trailer",
+        "title": "MACHAN - La vera storia di una falsa squadra",
+        "publisher": "mikadodolmen",
+        "duration": 63,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mm-scene-film",
@@ -1467,7 +2537,16 @@
       "genre": "Драма",
       "source": "https://prod.janusfilms.com/films/1213",
       "image": "assets/shots/world-mm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=LA6xYjEw5Uk"
+      "imageSource": "https://www.youtube.com/watch?v=LA6xYjEw5Uk",
+      "video": {
+        "id": "LA6xYjEw5Uk",
+        "source": "https://www.youtube.com/watch?v=LA6xYjEw5Uk",
+        "type": "trailer",
+        "title": "THE BURMESE HARP - Official 4K Restoration Trailer",
+        "publisher": "JANUS",
+        "duration": 123,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-my-scene-film",
@@ -1479,7 +2558,16 @@
       "genre": "Фэнтези",
       "source": "https://filmsboutique.com/film/tiger-stripes/",
       "image": "assets/shots/world-my-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Q7lu0KoD5so"
+      "imageSource": "https://www.youtube.com/watch?v=Q7lu0KoD5so",
+      "video": {
+        "id": "Q7lu0KoD5so",
+        "source": "https://www.youtube.com/watch?v=Q7lu0KoD5so",
+        "type": "trailer",
+        "title": "TIGER STRIPES - Official Trailer",
+        "publisher": "Films Boutique",
+        "duration": 103,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-np-scene-film",
@@ -1491,7 +2579,16 @@
       "genre": "Драма",
       "source": "https://www.ericvalli.org/himalaya-eric-valli-film/",
       "image": "assets/shots/world-np-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=1q8c6hzEyr0"
+      "imageSource": "https://www.youtube.com/watch?v=1q8c6hzEyr0",
+      "video": {
+        "id": "1q8c6hzEyr0",
+        "source": "https://www.youtube.com/watch?v=1q8c6hzEyr0",
+        "type": "trailer",
+        "title": "Himalaya (1999) ORIGINAL TRAILER [HD]",
+        "publisher": "HD Retro Trailers",
+        "duration": 108,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ph-scene-film",
@@ -1503,7 +2600,16 @@
       "genre": "Драма",
       "source": "https://player.bfi.org.uk/rentals/film/watch-manila-in-the-claws-of-light-1975-online",
       "image": "assets/shots/world-ph-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=27qwaj9143Q"
+      "imageSource": "https://www.youtube.com/watch?v=27qwaj9143Q",
+      "video": {
+        "id": "27qwaj9143Q",
+        "source": "https://www.youtube.com/watch?v=27qwaj9143Q",
+        "type": "trailer",
+        "title": "Manila in the Claws of Light (New Trailer)",
+        "publisher": "BFI",
+        "duration": 101,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-kp-scene-film",
@@ -1515,7 +2621,16 @@
       "genre": "Драма",
       "source": "https://koryostudio.com/films/comrade-kim-goes-flying/",
       "image": "assets/shots/world-kp-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=J6VQbagojN0"
+      "imageSource": "https://www.youtube.com/watch?v=J6VQbagojN0",
+      "video": {
+        "id": "J6VQbagojN0",
+        "source": "https://www.youtube.com/watch?v=J6VQbagojN0",
+        "type": "trailer",
+        "title": "Comrade Kim goes Flying Official Trailer",
+        "publisher": "comradekimgoesflying",
+        "duration": 119,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-tl-scene-film",
@@ -1527,7 +2642,16 @@
       "genre": "Драма",
       "source": "https://www.fairtradefilms.com.au/buy-dvds/synopsis-beatrizs-war/",
       "image": "assets/shots/world-tl-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=nF9qarBjxNo"
+      "imageSource": "https://www.youtube.com/watch?v=nF9qarBjxNo",
+      "video": {
+        "id": "nF9qarBjxNo",
+        "source": "https://www.youtube.com/watch?v=nF9qarBjxNo",
+        "type": "trailer",
+        "title": "A Guerra da Beatriz (Beatriz's War) - Official Trailer 2014",
+        "publisher": "FairTrade Films",
+        "duration": 98,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-af-scene-film",
@@ -1539,7 +2663,16 @@
       "genre": "Анимация",
       "source": "https://westendfilms.com/library/the-breadwinner",
       "image": "assets/shots/world-af-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ogAnZSPR0go"
+      "imageSource": "https://www.youtube.com/watch?v=ogAnZSPR0go",
+      "video": {
+        "id": "ogAnZSPR0go",
+        "source": "https://www.youtube.com/watch?v=ogAnZSPR0go",
+        "type": "trailer",
+        "title": "The Breadwinner - Official US Trailer [GKIDS, Now Available on Blu-ray + DVD]",
+        "publisher": "GKIDS Films",
+        "duration": 116,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ir-scene-film",
@@ -1551,7 +2684,16 @@
       "genre": "Анимация",
       "source": "https://www.sonypictures.com/movies/persepolis",
       "image": "assets/shots/world-ir-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=3PXHeKuBzPY"
+      "imageSource": "https://www.youtube.com/watch?v=3PXHeKuBzPY",
+      "video": {
+        "id": "3PXHeKuBzPY",
+        "source": "https://www.youtube.com/watch?v=3PXHeKuBzPY",
+        "type": "trailer",
+        "title": "Persepolis | Official Trailer (2007)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 134,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-iq-scene-film",
@@ -1563,7 +2705,16 @@
       "genre": "Драма",
       "source": "https://iffr.com/en/iffr/2005/films/turtles-can-fly",
       "image": "assets/shots/world-iq-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=y6K2osE1NJo"
+      "imageSource": "https://www.youtube.com/watch?v=y6K2osE1NJo",
+      "video": {
+        "id": "y6K2osE1NJo",
+        "source": "https://www.youtube.com/watch?v=y6K2osE1NJo",
+        "type": "trailer",
+        "title": "Turtles Can Fly | Official Trailer",
+        "publisher": "mo re",
+        "duration": 112,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mn-scene-film",
@@ -1575,7 +2726,16 @@
       "genre": "Драма",
       "source": "https://archives.cinemas-asie.com/en/movies/item/3853-the-cave-of-the-yellow-dog.html",
       "image": "assets/shots/world-mn-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Q_jvyLoa4Bg"
+      "imageSource": "https://www.youtube.com/watch?v=Q_jvyLoa4Bg",
+      "video": {
+        "id": "Q_jvyLoa4Bg",
+        "source": "https://www.youtube.com/watch?v=Q_jvyLoa4Bg",
+        "type": "trailer",
+        "title": "The Cave of the Yellow Dog (2005) [Trailer]",
+        "publisher": "bing wall",
+        "duration": 173,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ge-scene-film",
@@ -1587,7 +2747,16 @@
       "genre": "Драма",
       "source": "https://www.bigworldpictures.org/films/myhappyfamily/index.html",
       "image": "assets/shots/world-ge-scene.jpg",
-      "imageSource": "https://www.bigworldpictures.org/films/myhappyfamily/index.html"
+      "imageSource": "https://www.bigworldpictures.org/films/myhappyfamily/index.html",
+      "video": {
+        "id": "s9j8MvV7tE0",
+        "source": "https://www.youtube.com/watch?v=s9j8MvV7tE0",
+        "type": "trailer",
+        "title": "MY HAPPY FAMILY | Trailer",
+        "publisher": "MIFF",
+        "duration": 127,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-kg-scene-film",
@@ -1599,7 +2768,17 @@
       "genre": "Драма",
       "source": "https://erostrate.org/en/oeuvres/kirghizstan-22",
       "image": "assets/shots/world-kg-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=TH__yG9gz5M"
+      "imageSource": "https://www.youtube.com/watch?v=TH__yG9gz5M",
+      "video": {
+        "id": "TH__yG9gz5M",
+        "source": "https://www.youtube.com/watch?v=TH__yG9gz5M",
+        "type": "source",
+        "title": "Белый пароход (1975) (english subtitle) реж. Болотбек Шамшиев",
+        "sourceKind": "full-film",
+        "publisher": "Киностудия КЫРГЫЗФИЛЬМ",
+        "duration": 5737,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mv-scene-film",
@@ -1611,7 +2790,17 @@
       "genre": "Драма",
       "source": "https://www.youtube.com/watch?v=nfZi2YglM2k",
       "image": "assets/shots/world-mv-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=nfZi2YglM2k"
+      "imageSource": "https://www.youtube.com/watch?v=nfZi2YglM2k",
+      "video": {
+        "id": "nfZi2YglM2k",
+        "source": "https://www.youtube.com/watch?v=nfZi2YglM2k",
+        "type": "source",
+        "title": "Film - Ghaazee Bandaarain",
+        "sourceKind": "full-film",
+        "publisher": "Television Maldives",
+        "duration": 4608,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-tm-scene-film",
@@ -1623,7 +2812,17 @@
       "genre": "Драма",
       "source": "https://archives.cinemadureel.org/en/film/nevestka-2/",
       "image": "assets/shots/world-tm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=TFs8uyn09Yw"
+      "imageSource": "https://www.youtube.com/watch?v=TFs8uyn09Yw",
+      "video": {
+        "id": "TFs8uyn09Yw",
+        "source": "https://www.youtube.com/watch?v=TFs8uyn09Yw",
+        "type": "source",
+        "title": "TURKMENFILM(720p HD) /GELIN - Невестка (1972)",
+        "sourceKind": "full-film",
+        "publisher": "Atavatan Tv",
+        "duration": 4499,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ye-scene-film",
@@ -1635,7 +2834,16 @@
       "genre": "Драма",
       "source": "https://mad-distribution.film/movies/movie1115416.php",
       "image": "assets/shots/world-ye-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=m_ZPbRIsLSs"
+      "imageSource": "https://www.youtube.com/watch?v=m_ZPbRIsLSs",
+      "video": {
+        "id": "m_ZPbRIsLSs",
+        "source": "https://www.youtube.com/watch?v=m_ZPbRIsLSs",
+        "type": "trailer",
+        "title": "الإعلان العالمي لفيلم المرهقون | The Burdened 2023 ( International Trailer )",
+        "publisher": "Amr Gamal",
+        "duration": 78,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-qa-scene-film",
@@ -1647,7 +2855,16 @@
       "genre": "Драма",
       "source": "https://www.gulf-times.com/story/350242/review",
       "image": "assets/shots/world-qa-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Sg8Bp0TjxMA"
+      "imageSource": "https://www.youtube.com/watch?v=Sg8Bp0TjxMA",
+      "video": {
+        "id": "Sg8Bp0TjxMA",
+        "source": "https://www.youtube.com/watch?v=Sg8Bp0TjxMA",
+        "type": "trailer",
+        "title": "Clockwise  Movie trailer written and directed by Khalifa Almuraikhi",
+        "publisher": "Fares horse",
+        "duration": 121,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sy-scene-film",
@@ -1659,7 +2876,16 @@
       "genre": "Документальный",
       "source": "https://www.no-nation.de/films/return-to-homs",
       "image": "assets/shots/world-sy-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Cnx2NA5rEvo"
+      "imageSource": "https://www.youtube.com/watch?v=Cnx2NA5rEvo",
+      "video": {
+        "id": "Cnx2NA5rEvo",
+        "source": "https://www.youtube.com/watch?v=Cnx2NA5rEvo",
+        "type": "trailer",
+        "title": "Return To Homs | Trailer | Available Now",
+        "publisher": "Journeyman Pictures",
+        "duration": 89,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-tj-scene-film",
@@ -1671,7 +2897,17 @@
       "genre": "Драма",
       "source": "https://iffr.com/en/iffr/1994/films/kosh-ba-kosh",
       "image": "assets/shots/world-tj-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=OTXEhZ9QqxA"
+      "imageSource": "https://www.youtube.com/watch?v=OTXEhZ9QqxA",
+      "video": {
+        "id": "OTXEhZ9QqxA",
+        "source": "https://www.youtube.com/watch?v=OTXEhZ9QqxA",
+        "type": "source",
+        "title": "Кош ба кош (Таджикистан, 1993) Сцена с троллейбусом",
+        "sourceKind": "scene",
+        "publisher": "Laksendra Lyo Vong",
+        "duration": 71,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-om-scene-film",
@@ -1683,7 +2919,16 @@
       "genre": "Драма",
       "source": "https://www.3continents.com/en/film/alboum/",
       "image": "assets/shots/world-om-scene.jpg",
-      "imageSource": "https://www.3continents.com/en/film/alboum/"
+      "imageSource": "https://www.3continents.com/en/film/alboum/",
+      "video": {
+        "id": "O-q7LwFXu44",
+        "source": "https://www.youtube.com/watch?v=O-q7LwFXu44",
+        "type": "source",
+        "title": "الفلم السينمائي العُماني ( البوم )  المقدمة - 1",
+        "sourceKind": "preview",
+        "publisher": "NEBRASUNA | نبراسُنا",
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-uz-scene-film",
@@ -1695,7 +2940,17 @@
       "genre": "Драма",
       "source": "https://www.youtube.com/watch?v=XecZ-_oCL4M",
       "image": "assets/shots/world-uz-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=XecZ-_oCL4M"
+      "imageSource": "https://www.youtube.com/watch?v=XecZ-_oCL4M",
+      "video": {
+        "id": "XecZ-_oCL4M",
+        "source": "https://www.youtube.com/watch?v=XecZ-_oCL4M",
+        "type": "source",
+        "title": "Ты не сирота (узбекфильм, на русском языке)",
+        "sourceKind": "full-film",
+        "publisher": "Uzbekkino",
+        "duration": 4530,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-bluecaftan",
@@ -1707,7 +2962,16 @@
       "genre": "Драма",
       "source": "https://film-grab.com/2026/05/11/the-blue-caftan/",
       "image": "assets/shots/af-bluecaftan-15-scene.jpg",
-      "imageSource": "https://film-grab.com/2026/05/11/the-blue-caftan/"
+      "imageSource": "https://film-grab.com/2026/05/11/the-blue-caftan/",
+      "video": {
+        "id": "CRAHt9PFv0E",
+        "source": "https://www.youtube.com/watch?v=CRAHt9PFv0E",
+        "type": "trailer",
+        "title": "The Blue Caftan | Official Trailer HD | Strand Releasing",
+        "publisher": "Strand Releasing",
+        "duration": 90,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-casa",
@@ -1719,7 +2983,16 @@
       "genre": "Драма",
       "source": "https://film-grab.com/2020/05/02/casa-de-lava/",
       "image": "assets/shots/af-casa-1-scene.jpg",
-      "imageSource": "https://film-grab.com/2020/05/02/casa-de-lava/"
+      "imageSource": "https://film-grab.com/2020/05/02/casa-de-lava/",
+      "video": {
+        "id": "WLiKRIXO4jw",
+        "source": "https://www.youtube.com/watch?v=WLiKRIXO4jw",
+        "type": "trailer",
+        "title": "Casa de Lava | Official Trailer",
+        "publisher": "Grasshopper Film",
+        "duration": 35,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-djibouti",
@@ -1731,7 +3004,16 @@
       "genre": "Драма",
       "source": "https://africanfilmfestivalnz.org.nz/?film=dhalinyaro",
       "image": "assets/shots/af-djibouti-1-scene.jpg",
-      "imageSource": "https://africanfilmfestivalnz.org.nz/?film=dhalinyaro"
+      "imageSource": "https://africanfilmfestivalnz.org.nz/?film=dhalinyaro",
+      "video": {
+        "id": "3P6x3NggcLo",
+        "source": "https://www.youtube.com/watch?v=3P6x3NggcLo",
+        "type": "trailer",
+        "title": "Dhalinyaro (2018) - Trailer (French)",
+        "publisher": "My French Stories",
+        "duration": 77,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-felicite",
@@ -1743,7 +3025,16 @@
       "genre": "Драма",
       "source": "https://strandreleasing.com/films/felicite/",
       "image": "assets/shots/af-felicite-5-scene.jpg",
-      "imageSource": "https://strandreleasing.com/films/felicite/"
+      "imageSource": "https://strandreleasing.com/films/felicite/",
+      "video": {
+        "id": "7ttgB59zFNg",
+        "source": "https://www.youtube.com/watch?v=7ttgB59zFNg",
+        "type": "trailer",
+        "title": "FÉLICITÉ | Official Trailer | MUBI",
+        "publisher": "MUBI",
+        "duration": 116,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-katwe",
@@ -1755,7 +3046,16 @@
       "genre": "Драма",
       "source": "https://movies.disney.com/queen-of-katwe",
       "image": "assets/shots/af-katwe-1-scene.jpg",
-      "imageSource": "https://movies.disney.com/queen-of-katwe"
+      "imageSource": "https://movies.disney.com/queen-of-katwe",
+      "video": {
+        "id": "LTOhvSwIrS0",
+        "source": "https://www.youtube.com/watch?v=LTOhvSwIrS0",
+        "type": "trailer",
+        "title": "QUEEN OF KATWE Trailer | Festival 2016",
+        "publisher": "TIFF",
+        "duration": 149,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-kings",
@@ -1767,7 +3067,16 @@
       "genre": "Драма",
       "source": "https://www.neonrated.com/film/night-of-the-kings",
       "image": "assets/shots/af-kings-1-scene.jpg",
-      "imageSource": "https://www.neonrated.com/film/night-of-the-kings"
+      "imageSource": "https://www.neonrated.com/film/night-of-the-kings",
+      "video": {
+        "id": "qeoFQZ6wB8c",
+        "source": "https://www.youtube.com/watch?v=qeoFQZ6wB8c",
+        "type": "trailer",
+        "title": "Night of the Kings - Official Trailer",
+        "publisher": "NEON",
+        "duration": 136,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-waiting",
@@ -1779,7 +3088,16 @@
       "genre": "Драма",
       "source": "https://msfilmfestival.fi/en/movies/waiting-for-happiness/",
       "image": "assets/shots/af-waiting-1-scene.jpg",
-      "imageSource": "https://msfilmfestival.fi/en/movies/waiting-for-happiness/"
+      "imageSource": "https://msfilmfestival.fi/en/movies/waiting-for-happiness/",
+      "video": {
+        "id": "FtaRcIKlfzw",
+        "source": "https://www.youtube.com/watch?v=FtaRcIKlfzw",
+        "type": "trailer",
+        "title": "Heremakono - trailer",
+        "publisher": "International Film Festival Rotterdam – IFFR",
+        "duration": 94,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-witch",
@@ -1791,7 +3109,16 @@
       "genre": "Драма",
       "source": "https://filmsandfestivals.britishcouncil.org/projects/i-am-not-a-witch",
       "image": "assets/shots/af-witch-1-scene.jpg",
-      "imageSource": "https://filmsandfestivals.britishcouncil.org/projects/i-am-not-a-witch"
+      "imageSource": "https://filmsandfestivals.britishcouncil.org/projects/i-am-not-a-witch",
+      "video": {
+        "id": "telx5Pfe2-I",
+        "source": "https://www.youtube.com/watch?v=telx5Pfe2-I",
+        "type": "trailer",
+        "title": "I Am Not A Witch | Film4 Trailer",
+        "publisher": "Film4",
+        "duration": 124,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "af-yeelen",
@@ -1803,7 +3130,16 @@
       "genre": "Драма",
       "source": "https://trigon-film.org/en/films/yeelen/",
       "image": "assets/shots/af-yeelen-1-scene.jpg",
-      "imageSource": "https://trigon-film.org/en/films/yeelen/"
+      "imageSource": "https://trigon-film.org/en/films/yeelen/",
+      "video": {
+        "id": "1az0iJFayi0",
+        "source": "https://www.youtube.com/watch?v=1az0iJFayi0",
+        "type": "trailer",
+        "title": "YEELEN - LA LUMIERE Bande annonce (1987) de Souleymane Cissé",
+        "publisher": "Ciném'Afrique | Bandes Annonces",
+        "duration": 123,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bj-scene-film",
@@ -1815,7 +3151,16 @@
       "genre": "Драма",
       "source": "https://www.canalplus.com/bj/cinema/barbecue-pejo/h/18335453_50001/resume-casting/",
       "image": "assets/shots/world-bj-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=9RbfO9Yq9Co"
+      "imageSource": "https://www.youtube.com/watch?v=9RbfO9Yq9Co",
+      "video": {
+        "id": "9RbfO9Yq9Co",
+        "source": "https://www.youtube.com/watch?v=9RbfO9Yq9Co",
+        "type": "trailer",
+        "title": "Barbecue Pejo, un film de Jean Odoutan bande annonce",
+        "publisher": "AyoCiné",
+        "duration": 113,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bw-scene-film",
@@ -1827,7 +3172,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/The_Gods_Must_Be_Crazy",
       "image": "assets/shots/world-bw-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Ah7qQ_K-OnU"
+      "imageSource": "https://www.youtube.com/watch?v=Ah7qQ_K-OnU",
+      "video": {
+        "id": "Ah7qQ_K-OnU",
+        "source": "https://www.youtube.com/watch?v=Ah7qQ_K-OnU",
+        "type": "trailer",
+        "title": "THE GODS MUST BE CRAZY Official Trailer (1980, Jamie Uys, N!xau, Marius Weyers, Sandra Prinsloo)",
+        "publisher": "Trailer World",
+        "duration": 119,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-cf-scene-film",
@@ -1839,7 +3193,16 @@
       "genre": "Драма",
       "source": "https://fr.wikipedia.org/wiki/Le_Silence_de_la_for%C3%AAt",
       "image": "assets/shots/world-cf-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=PVLfEqbquN8"
+      "imageSource": "https://www.youtube.com/watch?v=PVLfEqbquN8",
+      "video": {
+        "id": "PVLfEqbquN8",
+        "source": "https://www.youtube.com/watch?v=PVLfEqbquN8",
+        "type": "trailer",
+        "title": "LE SILENCE DE LA FORÊT Bande annonce (2003)",
+        "publisher": "Ciném'Afrique | Bandes Annonces",
+        "duration": 256,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-cm-scene-film",
@@ -1851,7 +3214,16 @@
       "genre": "Драма",
       "source": "https://www.luxorafricanfilmfestival.com/fr/PastEditions/2021/Film/Long%20Narrative/The%20Fisherman%27s%20Diary",
       "image": "assets/shots/world-cm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=9wW_UHl_br4"
+      "imageSource": "https://www.youtube.com/watch?v=9wW_UHl_br4",
+      "video": {
+        "id": "9wW_UHl_br4",
+        "source": "https://www.youtube.com/watch?v=9wW_UHl_br4",
+        "type": "trailer",
+        "title": "The Fisherman's Diary | Official Trailer [HD]",
+        "publisher": "Kang Quintus Films",
+        "duration": 129,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-km-scene-film",
@@ -1863,7 +3235,17 @@
       "genre": "Драма",
       "source": "https://www.semainedelacritique.com/fr/edition/2008/film/la-residence-ylang-ylang",
       "image": "assets/shots/world-km-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=R4A-PFh19KQ"
+      "imageSource": "https://www.youtube.com/watch?v=R4A-PFh19KQ",
+      "video": {
+        "id": "R4A-PFh19KQ",
+        "source": "https://www.youtube.com/watch?v=R4A-PFh19KQ",
+        "type": "source",
+        "title": "La résidence Ylang Ylang - Extrait",
+        "sourceKind": "scene",
+        "publisher": "Charlotte Vincent",
+        "duration": 98,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-er-scene-film",
@@ -1875,7 +3257,16 @@
       "genre": "Драма",
       "source": "https://www.berlinale.de/en/2008/programme/20082004.html",
       "image": "assets/shots/world-er-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=cIYggG1UWQQ"
+      "imageSource": "https://www.youtube.com/watch?v=cIYggG1UWQQ",
+      "video": {
+        "id": "cIYggG1UWQQ",
+        "source": "https://www.youtube.com/watch?v=cIYggG1UWQQ",
+        "type": "trailer",
+        "title": "Heart of Fire (Trailer)",
+        "publisher": "Institute of Contemporary Arts",
+        "duration": 122,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-et-scene-film",
@@ -1887,7 +3278,16 @@
       "genre": "Драма",
       "source": "https://www.nziff.co.nz/2015/archive/lamb/",
       "image": "assets/shots/world-et-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=fS9kpcmO9Jo"
+      "imageSource": "https://www.youtube.com/watch?v=fS9kpcmO9Jo",
+      "video": {
+        "id": "fS9kpcmO9Jo",
+        "source": "https://www.youtube.com/watch?v=fS9kpcmO9Jo",
+        "type": "trailer",
+        "title": "Lamb (2015) - Trailer (English Subs)",
+        "publisher": "My French Stories",
+        "duration": 112,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ga-scene-film",
@@ -1899,7 +3299,16 @@
       "genre": "Драма",
       "source": "https://iffr.com/en/iffr/2001/films/d%C3%B4l%C3%A9",
       "image": "assets/shots/world-ga-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Q1qIinonJ0M"
+      "imageSource": "https://www.youtube.com/watch?v=Q1qIinonJ0M",
+      "video": {
+        "id": "Q1qIinonJ0M",
+        "source": "https://www.youtube.com/watch?v=Q1qIinonJ0M",
+        "type": "trailer",
+        "title": "DOLÈ Bande annonce (2000) film gabonais | Prix au festival de cannes",
+        "publisher": "Ciném'Afrique | Bandes Annonces",
+        "duration": 88,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-gh-scene-film",
@@ -1911,7 +3320,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/Azali_%28film%29",
       "image": "assets/shots/world-gh-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=2GAzfj-WYFs"
+      "imageSource": "https://www.youtube.com/watch?v=2GAzfj-WYFs",
+      "video": {
+        "id": "2GAzfj-WYFs",
+        "source": "https://www.youtube.com/watch?v=2GAzfj-WYFs",
+        "type": "trailer",
+        "title": "AZALI OFFICIAL TRAILER",
+        "publisher": "GOLD COAST CINEMA",
+        "duration": 151,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-gn-scene-film",
@@ -1923,7 +3341,16 @@
       "genre": "Драма",
       "source": "https://erostrate.org/en/oeuvres/guinee-conakry-10",
       "image": "assets/shots/world-gn-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=w4RATTXGZs8"
+      "imageSource": "https://www.youtube.com/watch?v=w4RATTXGZs8",
+      "video": {
+        "id": "w4RATTXGZs8",
+        "source": "https://www.youtube.com/watch?v=w4RATTXGZs8",
+        "type": "trailer",
+        "title": "DAKAN Bande annonce (1997) de Mohamed Camara",
+        "publisher": "Ciném'Afrique | Bandes Annonces",
+        "duration": 276,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-gw-scene-film",
@@ -1935,7 +3362,17 @@
       "genre": "Драма",
       "source": "https://www.criterion.com/films/35947-mortu-nega",
       "image": "assets/shots/world-gw-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=cFeMvsefSa0"
+      "imageSource": "https://www.youtube.com/watch?v=cFeMvsefSa0",
+      "video": {
+        "id": "cFeMvsefSa0",
+        "source": "https://www.youtube.com/watch?v=cFeMvsefSa0",
+        "type": "source",
+        "title": "Mortu Nega",
+        "sourceKind": "preview",
+        "publisher": "AfricanFilmLibrary",
+        "duration": 105,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-lr-scene-film",
@@ -1947,7 +3384,16 @@
       "genre": "Документальный",
       "source": "https://www.forkfilms.com/pray-the-devil-back-to-hell/",
       "image": "assets/shots/world-lr-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Y0fZ01lX0f0"
+      "imageSource": "https://www.youtube.com/watch?v=Y0fZ01lX0f0",
+      "video": {
+        "id": "Y0fZ01lX0f0",
+        "source": "https://www.youtube.com/watch?v=Y0fZ01lX0f0",
+        "type": "trailer",
+        "title": "Pray the Devil Back to Hell - Official Trailer",
+        "publisher": "ROCO Films",
+        "duration": 127,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ly-scene-film",
@@ -1959,7 +3405,17 @@
       "genre": "Драма",
       "source": "https://ciff.org.eg/en/program/films/lion-of-the-desert",
       "image": "assets/shots/world-ly-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ZuwD5erjpzI"
+      "imageSource": "https://www.youtube.com/watch?v=ZuwD5erjpzI",
+      "video": {
+        "id": "ZuwD5erjpzI",
+        "source": "https://www.youtube.com/watch?v=ZuwD5erjpzI",
+        "type": "source",
+        "title": "LION OF THE DESERT (4K VERSION) | In Cinemas December 8 | عمر المختار | في صالات السينما ديسمبر ٨",
+        "sourceKind": "preview",
+        "publisher": "Front Row Filmed Entertainment",
+        "duration": 160,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ls-scene-film",
@@ -1971,7 +3427,16 @@
       "genre": "Драма",
       "source": "https://www.criterion.com/films/32409-this-is-not-a-burial-its-a-resurrection",
       "image": "assets/shots/world-ls-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=IZcr2T-eNPE"
+      "imageSource": "https://www.youtube.com/watch?v=IZcr2T-eNPE",
+      "video": {
+        "id": "IZcr2T-eNPE",
+        "source": "https://www.youtube.com/watch?v=IZcr2T-eNPE",
+        "type": "trailer",
+        "title": "THIS IS NOT A BURIAL, IT'S A RESURRECTION - Official Trailer",
+        "publisher": "Paradise City Sales",
+        "duration": 132,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mz-scene-film",
@@ -1983,7 +3448,16 @@
       "genre": "Драма",
       "source": "https://trigon-film.org/en/films/the-train-of-salt-and-sugar/",
       "image": "assets/shots/world-mz-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=8X7hGAEBLPQ"
+      "imageSource": "https://www.youtube.com/watch?v=8X7hGAEBLPQ",
+      "video": {
+        "id": "YHdSsaDWEZ0",
+        "source": "https://www.youtube.com/watch?v=YHdSsaDWEZ0",
+        "type": "trailer",
+        "title": "The Train of Salt and Sugar Trailer",
+        "publisher": "moxietype",
+        "duration": 120,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mu-scene-film",
@@ -1995,7 +3469,16 @@
       "genre": "Драма",
       "source": "https://www.imagesfrancophones.org/catalogue/lonbraz-kann-14254",
       "image": "assets/shots/world-mu-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=GmxgH6obVUQ"
+      "imageSource": "https://www.youtube.com/watch?v=GmxgH6obVUQ",
+      "video": {
+        "id": "GmxgH6obVUQ",
+        "source": "https://www.youtube.com/watch?v=GmxgH6obVUQ",
+        "type": "trailer",
+        "title": "LONBRAZ KANN | Trailer | 2015",
+        "publisher": "Yann Lokam",
+        "duration": 118,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-mw-scene-film",
@@ -2007,7 +3490,16 @@
       "genre": "Драма",
       "source": "https://en.wikipedia.org/wiki/The_Boy_Who_Harnessed_the_Wind",
       "image": "assets/shots/world-mw-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=nPkr9HmglG0"
+      "imageSource": "https://www.youtube.com/watch?v=nPkr9HmglG0",
+      "video": {
+        "id": "nPkr9HmglG0",
+        "source": "https://www.youtube.com/watch?v=nPkr9HmglG0",
+        "type": "trailer",
+        "title": "The Boy Who Harnessed The Wind | Offical Trailer [HD] | Netflix",
+        "publisher": "Netflix",
+        "duration": 154,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-na-scene-film",
@@ -2019,7 +3511,17 @@
       "genre": "Драма",
       "source": "https://africanfilmny.org/films/namibia-the-struggle-for-liberation/",
       "image": "assets/shots/world-na-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=3Frq_7p-j9g"
+      "imageSource": "https://www.youtube.com/watch?v=3Frq_7p-j9g",
+      "video": {
+        "id": "3Frq_7p-j9g",
+        "source": "https://www.youtube.com/watch?v=3Frq_7p-j9g",
+        "type": "source",
+        "title": "Namibia: The Struggle for Liberation (2007).mov",
+        "sourceKind": "preview",
+        "publisher": "drsankofa",
+        "duration": 64,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ng-scene-film",
@@ -2031,7 +3533,16 @@
       "genre": "Драма",
       "source": "https://www.janusfilms.com/films/2034",
       "image": "assets/shots/world-ng-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=H9LbzskTaBQ"
+      "imageSource": "https://www.youtube.com/watch?v=H9LbzskTaBQ",
+      "video": {
+        "id": "H9LbzskTaBQ",
+        "source": "https://www.youtube.com/watch?v=H9LbzskTaBQ",
+        "type": "trailer",
+        "title": "EYIMOFE (THIS IS MY DESIRE) — Janus Films Trailer",
+        "publisher": "CRITERION",
+        "duration": 107,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-rw-scene-film",
@@ -2043,7 +3554,16 @@
       "genre": "Драма",
       "source": "https://repertoire.cinema.mcc.gouv.qc.ca/film/hotel-rwanda-237240/",
       "image": "assets/shots/world-rw-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=2x8UzELvKlY"
+      "imageSource": "https://www.youtube.com/watch?v=2x8UzELvKlY",
+      "video": {
+        "id": "2x8UzELvKlY",
+        "source": "https://www.youtube.com/watch?v=2x8UzELvKlY",
+        "type": "trailer",
+        "title": "Hotel Rwanda (2005) | Official Trailer | MGM Studios",
+        "publisher": "Amazon MGM Studios",
+        "duration": 123,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-so-scene-film",
@@ -2055,7 +3575,16 @@
       "genre": "Драма",
       "source": "https://www.sonypictures.com/movies/blackhawkdown",
       "image": "assets/shots/world-so-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=2GfBkC3qs78"
+      "imageSource": "https://www.youtube.com/watch?v=2GfBkC3qs78",
+      "video": {
+        "id": "2GfBkC3qs78",
+        "source": "https://www.youtube.com/watch?v=2GfBkC3qs78",
+        "type": "trailer",
+        "title": "Black Hawk Down (2001) Official Trailer 1 - Ewan McGregor Movie",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 145,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sz-scene-film",
@@ -2067,7 +3596,16 @@
       "genre": "Драма",
       "source": "https://filmsandfestivals.britishcouncil.org/projects/wah-wah",
       "image": "assets/shots/world-sz-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=tz4uM0rjpdw"
+      "imageSource": "https://www.youtube.com/watch?v=tz4uM0rjpdw",
+      "video": {
+        "id": "tz4uM0rjpdw",
+        "source": "https://www.youtube.com/watch?v=tz4uM0rjpdw",
+        "type": "trailer",
+        "title": "Wah Wah Trailer | Nicholas Hoult, Emily Watson, Gabriel Byrne, Miranda Richardson, Julie Walters",
+        "publisher": "Icon Film Distribution",
+        "duration": 76,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sc-scene-film",
@@ -2079,7 +3617,16 @@
       "genre": "Документальный",
       "source": "https://www.nation.sc/archive/249152/new-3d-film-aldabra-once-upon-an-island",
       "image": "assets/shots/world-sc-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=CUS1L3AFTh0"
+      "imageSource": "https://www.youtube.com/watch?v=CUS1L3AFTh0",
+      "video": {
+        "id": "CUS1L3AFTh0",
+        "source": "https://www.youtube.com/watch?v=CUS1L3AFTh0",
+        "type": "trailer",
+        "title": "Aldabra: Byl jednou jeden ostrov - oficiální trailer",
+        "publisher": "Falcon filmové novinky",
+        "duration": 125,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-td-scene-film",
@@ -2091,7 +3638,16 @@
       "genre": "Драма",
       "source": "https://www.festival-cannes.com/f/un-homme-qui-crie/",
       "image": "assets/shots/world-td-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=8_rvfk5psbU"
+      "imageSource": "https://www.youtube.com/watch?v=8_rvfk5psbU",
+      "video": {
+        "id": "8_rvfk5psbU",
+        "source": "https://www.youtube.com/watch?v=8_rvfk5psbU",
+        "type": "trailer",
+        "title": "A Screaming Man (2010) | Trailer | Youssouf Djaoro | Diouc Koma | Emile Abossolo M'bo",
+        "publisher": "Film Movement",
+        "duration": 113,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-tn-scene-film",
@@ -2103,7 +3659,16 @@
       "genre": "Драма",
       "source": "https://kinolorber.com/film/asummerinlagoulette",
       "image": "assets/shots/world-tn-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=XbuLdfg09vw"
+      "imageSource": "https://www.youtube.com/watch?v=XbuLdfg09vw",
+      "video": {
+        "id": "XbuLdfg09vw",
+        "source": "https://www.youtube.com/watch?v=XbuLdfg09vw",
+        "type": "trailer",
+        "title": "UN ETE A LA GOULETTE (bande-annonce), en Mediabook dès le 21 mai 2019",
+        "publisher": "Agence Miam",
+        "duration": 115,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ao-scene-film",
@@ -2115,7 +3680,16 @@
       "genre": "Драма",
       "source": "https://iffr.com/en/iffr/2020/films/air-conditioner",
       "image": "assets/shots/world-ao-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Aw3q4ZLsL4E"
+      "imageSource": "https://www.youtube.com/watch?v=Aw3q4ZLsL4E",
+      "video": {
+        "id": "Aw3q4ZLsL4E",
+        "source": "https://www.youtube.com/watch?v=Aw3q4ZLsL4E",
+        "type": "trailer",
+        "title": "AIR CONDITIONER [AR CONDICIONADO] Trailer – 2021 New African Film Festival",
+        "publisher": "AFISilverTheatre",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sd-scene-film",
@@ -2127,7 +3701,16 @@
       "genre": "Драма",
       "source": "https://www.dohafilm.com/en/contents/b4f19130-9d84-40b2-9024-9f5e47dbf2d4",
       "image": "assets/shots/world-sd-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=7iLFHmCwZHQ"
+      "imageSource": "https://www.youtube.com/watch?v=7iLFHmCwZHQ",
+      "video": {
+        "id": "7iLFHmCwZHQ",
+        "source": "https://www.youtube.com/watch?v=7iLFHmCwZHQ",
+        "type": "trailer",
+        "title": "You Will Die At Twenty (2019) | Trailer | Amjad Abu Alala | Mustafa Shehata | Moatasem Rashed",
+        "publisher": "Film Movement",
+        "duration": 96,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ss-scene-film",
@@ -2139,7 +3722,16 @@
       "genre": "Документальный",
       "source": "https://www.berlinale.de/en/2022/programme/202204998.html",
       "image": "assets/shots/world-ss-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=wD13axzwLR4"
+      "imageSource": "https://www.youtube.com/watch?v=wD13axzwLR4",
+      "video": {
+        "id": "wD13axzwLR4",
+        "source": "https://www.youtube.com/watch?v=wD13axzwLR4",
+        "type": "trailer",
+        "title": "No Simple Way Home – Trailer – SFF 22",
+        "publisher": "Sydney Film Festival",
+        "duration": 209,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-sl-scene-film",
@@ -2151,7 +3743,16 @@
       "genre": "Драма",
       "source": "https://watch.afi.com/movie/blood-diamond",
       "image": "assets/shots/world-sl-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=yknIZsvQjG4"
+      "imageSource": "https://www.youtube.com/watch?v=yknIZsvQjG4",
+      "video": {
+        "id": "yknIZsvQjG4",
+        "source": "https://www.youtube.com/watch?v=yknIZsvQjG4",
+        "type": "trailer",
+        "title": "Blood Diamond Official Trailer #1 - (2006) HD",
+        "publisher": "Movieclips",
+        "duration": 174,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-gm-scene-film",
@@ -2163,7 +3764,16 @@
       "genre": "Драма",
       "source": "https://www.youtube.com/watch?v=cKcRf70PcWk",
       "image": "assets/shots/world-gm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=cKcRf70PcWk"
+      "imageSource": "https://www.youtube.com/watch?v=cKcRf70PcWk",
+      "video": {
+        "id": "cKcRf70PcWk",
+        "source": "https://www.youtube.com/watch?v=cKcRf70PcWk",
+        "type": "trailer",
+        "title": "The Hand of Fate Teaser Scene",
+        "publisher": "Ibrahim Ceesay EL-Shalom 777",
+        "duration": 364,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bf-scene-film",
@@ -2175,7 +3785,16 @@
       "genre": "Драма",
       "source": "https://trigon-film.org/en/films/yaaba/",
       "image": "assets/shots/world-bf-scene.jpg",
-      "imageSource": "https://trigon-film.org/en/films/yaaba/"
+      "imageSource": "https://trigon-film.org/en/films/yaaba/",
+      "video": {
+        "id": "3bElCEeRTWs",
+        "source": "https://www.youtube.com/watch?v=3bElCEeRTWs",
+        "type": "trailer",
+        "title": "YAABA Bande annonce (1989) d'Idrissa Ouedraogo",
+        "publisher": "Ciném'Afrique | Bandes Annonces",
+        "duration": 148,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bi-scene-film",
@@ -2187,7 +3806,17 @@
       "genre": "Драма",
       "source": "https://africanfilmny.org/films/gito-the-ungrateful-gito-lingrat/",
       "image": "assets/shots/world-bi-scene.jpg",
-      "imageSource": "https://africanfilmny.org/films/gito-the-ungrateful-gito-lingrat/"
+      "imageSource": "https://africanfilmny.org/films/gito-the-ungrateful-gito-lingrat/",
+      "video": {
+        "id": "byZz5oK3dCo",
+        "source": "https://www.youtube.com/watch?v=byZz5oK3dCo",
+        "type": "source",
+        "title": "Gito L'ingrat",
+        "sourceKind": "preview",
+        "publisher": "AfricanFilmLibrary",
+        "duration": 135,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-zw-scene-film",
@@ -2199,7 +3828,16 @@
       "genre": "Драма",
       "source": "https://erostrate.org/en/oeuvres/zimbabwe-15",
       "image": "assets/shots/world-zw-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ZypS294b8ts"
+      "imageSource": "https://www.youtube.com/watch?v=ZypS294b8ts",
+      "video": {
+        "id": "ZypS294b8ts",
+        "source": "https://www.youtube.com/watch?v=ZypS294b8ts",
+        "type": "trailer",
+        "title": "NERIA trailer-Zimbabwean movie",
+        "publisher": "ZollywoodZim",
+        "duration": 127,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-tz-scene-film",
@@ -2211,7 +3849,16 @@
       "genre": "Драма",
       "source": "https://www.ica.art/films/womens-stories/maangamizi-the-ancient-one",
       "image": "assets/shots/world-tz-scene.jpg",
-      "imageSource": "https://www.ica.art/films/womens-stories/maangamizi-the-ancient-one"
+      "imageSource": "https://www.ica.art/films/womens-stories/maangamizi-the-ancient-one",
+      "video": {
+        "id": "89nDSRFw_cA",
+        "source": "https://www.youtube.com/watch?v=89nDSRFw_cA",
+        "type": "trailer",
+        "title": "MAANGAMIZI official film trailer.",
+        "publisher": "Gaddaphy_damshy",
+        "duration": 134,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-gq-scene-film",
@@ -2223,7 +3870,17 @@
       "genre": "Драма",
       "source": "https://www.netflix.com/title/80114724",
       "image": "assets/shots/world-gq-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=9B3LLwKJ2-M"
+      "imageSource": "https://www.youtube.com/watch?v=9B3LLwKJ2-M",
+      "video": {
+        "id": "9B3LLwKJ2-M",
+        "source": "https://www.youtube.com/watch?v=9B3LLwKJ2-M",
+        "type": "source",
+        "title": "Where The Road Runs Out (2014) | Full Length Romance Drama! | Romance Movie Central",
+        "sourceKind": "full-film",
+        "publisher": "Romance Movie Central",
+        "duration": 5579,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-st-scene-film",
@@ -2235,7 +3892,16 @@
       "genre": "Документальный",
       "source": "https://www.netflix.com/title/70078781",
       "image": "assets/shots/world-st-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=bi7UMSDQ8MM"
+      "imageSource": "https://www.youtube.com/watch?v=bi7UMSDQ8MM",
+      "video": {
+        "id": "bi7UMSDQ8MM",
+        "source": "https://www.youtube.com/watch?v=bi7UMSDQ8MM",
+        "type": "trailer",
+        "title": "The Lost Wave - Nautical Channel HL",
+        "publisher": "Nautical Channel",
+        "duration": 37,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-colombia-canoe-film",
@@ -2247,7 +3913,16 @@
       "genre": "Драма",
       "source": "https://embraceoftheserpent.oscilloscope.net/",
       "image": "assets/shots/audit-colombia-canoe.jpg",
-      "imageSource": "https://film-grab.com/2020/07/18/embrace-of-the-serpent/"
+      "imageSource": "https://film-grab.com/2020/07/18/embrace-of-the-serpent/",
+      "video": {
+        "id": "FdOYd-21qaA",
+        "source": "https://www.youtube.com/watch?v=FdOYd-21qaA",
+        "type": "trailer",
+        "title": "El Abrazo de la Serpiente Tráiler Oficial",
+        "publisher": "Ciudad Lunar Producciones",
+        "duration": 147,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-bolivia-llamas-film",
@@ -2259,7 +3934,16 @@
       "genre": "Драма",
       "source": "https://kinolorber.com/film/utama",
       "image": "assets/shots/audit-bolivia-llamas.jpg",
-      "imageSource": "https://film-grab.com/2026/05/02/utama/"
+      "imageSource": "https://film-grab.com/2026/05/02/utama/",
+      "video": {
+        "id": "Sd06g_F-UFw",
+        "source": "https://www.youtube.com/watch?v=Sd06g_F-UFw",
+        "type": "trailer",
+        "title": "Utama - Trailer oficial",
+        "publisher": "BF Distribution",
+        "duration": 127,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-cuba-funeral-film",
@@ -2271,7 +3955,15 @@
       "genre": "Драма",
       "source": "https://www.criterion.com/films/33466-i-am-cuba",
       "image": "assets/shots/audit-cuba-funeral.jpg",
-      "imageSource": "https://film-grab.com/2017/04/03/i-am-cuba/"
+      "imageSource": "https://film-grab.com/2017/04/03/i-am-cuba/",
+      "video": {
+        "id": "D1-W8tXrfnQ",
+        "source": "https://www.youtube.com/watch?v=D1-W8tXrfnQ",
+        "type": "trailer",
+        "title": "I AM CUBA official 1995 trailer",
+        "publisher": "Milestone Films",
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-canada-skate-film",
@@ -2283,7 +3975,16 @@
       "genre": "Драма",
       "source": "https://canfilmday.ca/film/mommy/",
       "image": "assets/shots/audit-canada-skate.jpg",
-      "imageSource": "https://film-grab.com/2018/03/15/mommy/"
+      "imageSource": "https://film-grab.com/2018/03/15/mommy/",
+      "video": {
+        "id": "Q9LVLCYvqSI",
+        "source": "https://www.youtube.com/watch?v=Q9LVLCYvqSI",
+        "type": "trailer",
+        "title": "Mommy Official International Trailer 1 (2014) - Xavier Dolan Drama HD",
+        "publisher": "Rotten Tomatoes Indie",
+        "duration": 194,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-guatemala-protest-film",
@@ -2295,7 +3996,16 @@
       "genre": "Драма",
       "source": "https://lacasadeproduccion.com.gt/cine/la-llorona/",
       "image": "assets/shots/audit-guatemala-protest.jpg",
-      "imageSource": "https://film-grab.com/2026/01/01/la-llorona/"
+      "imageSource": "https://film-grab.com/2026/01/01/la-llorona/",
+      "video": {
+        "id": "U9pa1zsN7bY",
+        "source": "https://www.youtube.com/watch?v=U9pa1zsN7bY",
+        "type": "trailer",
+        "title": "LA LLORONA | Tráiler Oficial",
+        "publisher": "LA CASA DE PRODUCCIÓN",
+        "duration": 148,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-dominican-mill-film",
@@ -2307,7 +4017,16 @@
       "genre": "Драма",
       "source": "https://www.sonypictures.com/movies/sugar",
       "image": "assets/shots/audit-dominican-mill.jpg",
-      "imageSource": "https://film-grab.com/2016/11/22/sugar/"
+      "imageSource": "https://film-grab.com/2016/11/22/sugar/",
+      "video": {
+        "id": "JFPo7XMWGMo",
+        "source": "https://www.youtube.com/watch?v=JFPo7XMWGMo",
+        "type": "trailer",
+        "title": "Sugar | Official Trailer (2009)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 127,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-chile-protest-film",
@@ -2319,7 +4038,16 @@
       "genre": "Драма",
       "source": "https://www.filmlinc.org/films/no/",
       "image": "assets/shots/audit-chile-protest.jpg",
-      "imageSource": "https://film-grab.com/2019/01/09/no/"
+      "imageSource": "https://film-grab.com/2019/01/09/no/",
+      "video": {
+        "id": "lt8VayTqQhQ",
+        "source": "https://www.youtube.com/watch?v=lt8VayTqQhQ",
+        "type": "trailer",
+        "title": "NO | Official Trailer HD (2013)",
+        "publisher": "Sony Pictures Classics",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-solomon-battle-film",
@@ -2331,7 +4059,16 @@
       "genre": "Драма",
       "source": "https://www.criterion.com/films/27513-the-thin-red-line",
       "image": "assets/shots/audit-solomon-battle.jpg",
-      "imageSource": "https://film-grab.com/2012/09/05/the-thin-red-line/"
+      "imageSource": "https://film-grab.com/2012/09/05/the-thin-red-line/",
+      "video": {
+        "id": "ejm0XvT3rB8",
+        "source": "https://www.youtube.com/watch?v=ejm0XvT3rB8",
+        "type": "trailer",
+        "title": "The Thin Red Line (1998) Trailer - The Criterion Collection",
+        "publisher": "CRITERION",
+        "duration": 184,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-vanuatu-volcano-film",
@@ -2343,7 +4080,16 @@
       "genre": "Драма",
       "source": "https://www.nziff.co.nz/2016/timaru/tanna/",
       "image": "assets/shots/audit-vanuatu-volcano.jpg",
-      "imageSource": "https://www.nziff.co.nz/2016/timaru/tanna/"
+      "imageSource": "https://www.nziff.co.nz/2016/timaru/tanna/",
+      "video": {
+        "id": "LnR8pUoPJZU",
+        "source": "https://www.youtube.com/watch?v=LnR8pUoPJZU",
+        "type": "trailer",
+        "title": "TANNA - Trailer (2016)",
+        "publisher": "Umbrella Entertainment",
+        "duration": 127,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-samoa-taro-film",
@@ -2355,7 +4101,16 @@
       "genre": "Драма",
       "source": "https://trigon-film.org/en/films/the-orator/",
       "image": "assets/shots/audit-samoa-taro.jpg",
-      "imageSource": "https://trigon-film.org/en/films/the-orator/"
+      "imageSource": "https://trigon-film.org/en/films/the-orator/",
+      "video": {
+        "id": "Uj-aOu7NVbs",
+        "source": "https://www.youtube.com/watch?v=Uj-aOu7NVbs",
+        "type": "trailer",
+        "title": "THE ORATOR theatrical trailer.",
+        "publisher": "theoratorfilm",
+        "duration": 107,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-png-beach-film",
@@ -2367,7 +4122,16 @@
       "genre": "Драма",
       "source": "https://www.nzfilm.co.nz/films/mr-pip",
       "image": "assets/shots/audit-png-beach.jpg",
-      "imageSource": "https://www.nzfilm.co.nz/films/mr-pip"
+      "imageSource": "https://www.nzfilm.co.nz/films/mr-pip",
+      "video": {
+        "id": "zKsww74sQx8",
+        "source": "https://www.youtube.com/watch?v=zKsww74sQx8",
+        "type": "trailer",
+        "title": "Mr. Pip Official Trailer",
+        "publisher": "shaw theatres",
+        "duration": 172,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-kiribati-water-film",
@@ -2379,7 +4143,16 @@
       "genre": "Документальный",
       "source": "https://www.piccom.org/programs/anote-s-ark",
       "image": "assets/shots/audit-kiribati-water.jpg",
-      "imageSource": "https://www.piccom.org/programs/anote-s-ark"
+      "imageSource": "https://www.piccom.org/programs/anote-s-ark",
+      "video": {
+        "id": "UE2_maYEqF8",
+        "source": "https://www.youtube.com/watch?v=UE2_maYEqF8",
+        "type": "trailer",
+        "title": "ANOTE'S ARK directed by Matthieu Rytz - Official Trailer - Sundance 2018",
+        "publisher": "EyeSteelFilm",
+        "duration": 130,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-tuvalu-return-film",
@@ -2391,7 +4164,17 @@
       "genre": "Документальный",
       "source": "https://www.piccom.org/programs/time-tide",
       "image": "assets/shots/audit-tuvalu-return.jpg",
-      "imageSource": "https://www.piccom.org/programs/time-tide"
+      "imageSource": "https://www.piccom.org/programs/time-tide",
+      "video": {
+        "id": "EJEi2_HDZac",
+        "source": "https://www.youtube.com/watch?v=EJEi2_HDZac",
+        "type": "source",
+        "title": "Time & Tide - Documentary Feature",
+        "sourceKind": "full-film",
+        "publisher": "julie bayer salzman",
+        "duration": 3557,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-uruguay-factory-film",
@@ -2403,7 +4186,16 @@
       "genre": "Драма",
       "source": "https://www.pandorafilm.com/filmography/whisky.html",
       "image": "assets/shots/audit-uruguay-factory.jpg",
-      "imageSource": "https://www.pandorafilm.com/filmography/whisky.html"
+      "imageSource": "https://www.pandorafilm.com/filmography/whisky.html",
+      "video": {
+        "id": "rNbNqBVBsHA",
+        "source": "https://www.youtube.com/watch?v=rNbNqBVBsHA",
+        "type": "trailer",
+        "title": "Whisky - 2004 - Trailer",
+        "publisher": "Matias Péres",
+        "duration": 115,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-costarica-road-film",
@@ -2415,7 +4207,16 @@
       "genre": "Драма",
       "source": "https://trigon-film.org/en/films/clara-sola/",
       "image": "assets/shots/audit-costarica-road.jpg",
-      "imageSource": "https://trigon-film.org/en/films/clara-sola/"
+      "imageSource": "https://trigon-film.org/en/films/clara-sola/",
+      "video": {
+        "id": "GfaxmwCRTQg",
+        "source": "https://www.youtube.com/watch?v=GfaxmwCRTQg",
+        "type": "trailer",
+        "title": "Clara Sola - Official U.S. Trailer - Oscilloscope Laboratories HD",
+        "publisher": "Oscilloscope Laboratories",
+        "duration": 148,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-haiti-citadel-film",
@@ -2427,7 +4228,17 @@
       "genre": "Драма",
       "source": "https://www.berlinale.de/en/2010/programme/20104020.html",
       "image": "assets/shots/audit-haiti-citadel.jpg",
-      "imageSource": "https://www.berlinale.de/en/2010/programme/20104020.html"
+      "imageSource": "https://www.berlinale.de/en/2010/programme/20104020.html",
+      "video": {
+        "id": "YAoiKODoZnI",
+        "source": "https://www.youtube.com/watch?v=YAoiKODoZnI",
+        "type": "source",
+        "title": "Moloch Tropical",
+        "sourceKind": "preview",
+        "publisher": "Jimmy Jean-Louis",
+        "duration": 125,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-venezuela-bus-film",
@@ -2439,7 +4250,16 @@
       "genre": "Драма",
       "source": "https://www.retinalatina.org/peliculas/pelo-malo/",
       "image": "assets/shots/audit-venezuela-bus.jpg",
-      "imageSource": "https://www.retinalatina.org/peliculas/pelo-malo/"
+      "imageSource": "https://www.retinalatina.org/peliculas/pelo-malo/",
+      "video": {
+        "id": "lxOZtOyNkTQ",
+        "source": "https://www.youtube.com/watch?v=lxOZtOyNkTQ",
+        "type": "trailer",
+        "title": "PELO MALO trailer",
+        "publisher": "figafilms",
+        "duration": 111,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-tonga-fafa-film",
@@ -2451,7 +4271,16 @@
       "genre": "Документальный",
       "source": "https://www.leitisinwaiting.com/",
       "image": "assets/shots/audit-tonga-fafa.jpg",
-      "imageSource": "https://www.leitisinwaiting.com/"
+      "imageSource": "https://www.leitisinwaiting.com/",
+      "video": {
+        "id": "f8CeI82DrmM",
+        "source": "https://www.youtube.com/watch?v=f8CeI82DrmM",
+        "type": "trailer",
+        "title": "Leitis in Waiting Trailer | 2018 Documentary Features",
+        "publisher": "Outfest",
+        "duration": 98,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-ag-film",
@@ -2463,7 +4292,16 @@
       "genre": "Мелодрама",
       "source": "https://db.ttfilmfestival.com/film/657/the-sweetest-mango/",
       "image": "assets/shots/audit-trailer-ag.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=ENy3wASDafE"
+      "imageSource": "https://www.youtube.com/watch?v=ENy3wASDafE",
+      "video": {
+        "id": "ENy3wASDafE",
+        "source": "https://www.youtube.com/watch?v=ENy3wASDafE",
+        "type": "trailer",
+        "title": "THE SWEETEST MANGO | trailer | ttff/19",
+        "publisher": "ttfilmfestival",
+        "duration": 66,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-bs-film",
@@ -2475,7 +4313,17 @@
       "genre": "Приключения",
       "source": "https://www.thejamesbonddossier.com/films/casino-royale/locations/bond-in-the-bahamas-the-one-and-only-ocean-club.htm",
       "image": "assets/shots/audit-trailer-bs.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=LaDiYVnh5Eo"
+      "imageSource": "https://www.youtube.com/watch?v=LaDiYVnh5Eo",
+      "video": {
+        "id": "LaDiYVnh5Eo",
+        "source": "https://www.youtube.com/watch?v=LaDiYVnh5Eo",
+        "type": "source",
+        "title": "CASINO ROYALE | The Ocean Club",
+        "sourceKind": "scene",
+        "publisher": "James Bond 007",
+        "duration": 102,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-bz-film",
@@ -2487,7 +4335,16 @@
       "genre": "Триллер",
       "source": "https://www.7newsbelize.com/printstory.php?func=print&nid=22631",
       "image": "assets/shots/audit-trailer-bz.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=GKNgu4zh4oI"
+      "imageSource": "https://www.youtube.com/watch?v=GKNgu4zh4oI",
+      "video": {
+        "id": "GKNgu4zh4oI",
+        "source": "https://www.youtube.com/watch?v=GKNgu4zh4oI",
+        "type": "trailer",
+        "title": "2012: Curse of the Xtabai - Official Trailer",
+        "publisher": "Matthiew Klinck",
+        "duration": 92,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-dm-film",
@@ -2499,7 +4356,16 @@
       "genre": "Документальный",
       "source": "https://www.brooklynfilmfestival.org/film-detail?fid=2178",
       "image": "assets/shots/audit-trailer-dm.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=UOHlwDvJIEU"
+      "imageSource": "https://www.youtube.com/watch?v=UOHlwDvJIEU",
+      "video": {
+        "id": "UOHlwDvJIEU",
+        "source": "https://www.youtube.com/watch?v=UOHlwDvJIEU",
+        "type": "trailer",
+        "title": "\"Uncivilized\" Trailer (AKA Surviving Hurricane Maria in the Forest)",
+        "publisher": "Michael Lees",
+        "duration": 112,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-ec-film",
@@ -2511,7 +4377,16 @@
       "genre": "Триллер",
       "source": "https://iffr.com/en/iffr/2005/films/cr%C3%B3nicas",
       "image": "assets/shots/audit-trailer-ec.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=-AMLH3Cx7_w"
+      "imageSource": "https://www.youtube.com/watch?v=-AMLH3Cx7_w",
+      "video": {
+        "id": "-AMLH3Cx7_w",
+        "source": "https://www.youtube.com/watch?v=-AMLH3Cx7_w",
+        "type": "trailer",
+        "title": "Crónicas Trailer",
+        "publisher": "carrercasanova",
+        "duration": 118,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-hn-film",
@@ -2523,7 +4398,16 @@
       "genre": "Фантастика",
       "source": "https://cultura.cervantes.es/paris/es/el-xendra/127021",
       "image": "assets/shots/audit-trailer-hn.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=87iruhSreBQ"
+      "imageSource": "https://www.youtube.com/watch?v=87iruhSreBQ",
+      "video": {
+        "id": "87iruhSreBQ",
+        "source": "https://www.youtube.com/watch?v=87iruhSreBQ",
+        "type": "trailer",
+        "title": "Official Trailer | El Xendra (2012) English Subtitles.",
+        "publisher": "El Xendra Saga",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-lc-film",
@@ -2535,7 +4419,16 @@
       "genre": "Драма",
       "source": "https://silver.afi.com/movies/detail/0100004062/",
       "image": "assets/shots/audit-trailer-lc.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=YeCoFgIbuMI"
+      "imageSource": "https://www.youtube.com/watch?v=YeCoFgIbuMI",
+      "video": {
+        "id": "YeCoFgIbuMI",
+        "source": "https://www.youtube.com/watch?v=YeCoFgIbuMI",
+        "type": "trailer",
+        "title": "SHANTAYE'S WORLD | Official Trailer | Caribbean Film",
+        "publisher": "Iyanola Pictures",
+        "duration": 65,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-mh-film",
@@ -2547,7 +4440,16 @@
       "genre": "Драма",
       "source": "https://www.microwavefilms.org/Crickets.html",
       "image": "assets/shots/audit-trailer-mh.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=SJl2a26b1vM"
+      "imageSource": "https://www.youtube.com/watch?v=SJl2a26b1vM",
+      "video": {
+        "id": "SJl2a26b1vM",
+        "source": "https://www.youtube.com/watch?v=SJl2a26b1vM",
+        "type": "trailer",
+        "title": "Ainikien Jidjid ilo Boñ (The Sound of Crickets at Night) Trailer",
+        "publisher": "Microwave Films of the Marshall Islands",
+        "duration": 151,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-ni-film",
@@ -2559,7 +4461,16 @@
       "genre": "Драма",
       "source": "https://protagonistpictures.com/film/carlas-song/",
       "image": "assets/shots/audit-trailer-ni.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=iZLReZOORZI"
+      "imageSource": "https://www.youtube.com/watch?v=iZLReZOORZI",
+      "video": {
+        "id": "iZLReZOORZI",
+        "source": "https://www.youtube.com/watch?v=iZLReZOORZI",
+        "type": "trailer",
+        "title": "Carla's Song (1997) | Film4 Trailer",
+        "publisher": "Film4",
+        "duration": 125,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-pa-film",
@@ -2571,7 +4482,16 @@
       "genre": "Триллер",
       "source": "https://www.sonypictures.com/movies/thetailorofpanama",
       "image": "assets/shots/audit-trailer-pa.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=if887QzvTiw"
+      "imageSource": "https://www.youtube.com/watch?v=if887QzvTiw",
+      "video": {
+        "id": "if887QzvTiw",
+        "source": "https://www.youtube.com/watch?v=if887QzvTiw",
+        "type": "trailer",
+        "title": "The Tailor of Panama (2001) Official Trailer 1 - Pierce Brosnan Movie",
+        "publisher": "Rotten Tomatoes Classic Trailers",
+        "duration": 121,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-py-film",
@@ -2583,7 +4503,16 @@
       "genre": "Триллер",
       "source": "https://watch.eventive.org/arthouseclassics/play/612cf02eda3bec003ed6a9d1",
       "image": "assets/shots/audit-trailer-py.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=t1ax_XInBLE"
+      "imageSource": "https://www.youtube.com/watch?v=t1ax_XInBLE",
+      "video": {
+        "id": "t1ax_XInBLE",
+        "source": "https://www.youtube.com/watch?v=t1ax_XInBLE",
+        "type": "trailer",
+        "title": "7 Cajas - Trailer Oficial",
+        "publisher": "7cajaspy",
+        "duration": 113,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-sv-film",
@@ -2595,7 +4524,16 @@
       "genre": "Драма",
       "source": "https://sic.cultura.gob.mx/ficha.php?table=produccion_cine&table_id=183",
       "image": "assets/shots/audit-trailer-sv.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=NnPUOS9wxg0"
+      "imageSource": "https://www.youtube.com/watch?v=NnPUOS9wxg0",
+      "video": {
+        "id": "NnPUOS9wxg0",
+        "source": "https://www.youtube.com/watch?v=NnPUOS9wxg0",
+        "type": "trailer",
+        "title": "Voces Inocentes - Trailer",
+        "publisher": "Alebrije Producciones",
+        "duration": 126,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-sr-film",
@@ -2607,7 +4545,16 @@
       "genre": "Драма",
       "source": "https://www.eyefilm.nl/whats-on/wan-pipel/1154053",
       "image": "assets/shots/audit-trailer-sr.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=zfVuWsWtnmk"
+      "imageSource": "https://www.youtube.com/watch?v=zfVuWsWtnmk",
+      "video": {
+        "id": "zfVuWsWtnmk",
+        "source": "https://www.youtube.com/watch?v=zfVuWsWtnmk",
+        "type": "trailer",
+        "title": "Wan Pipel (trailer)",
+        "publisher": "Eye Filmmuseum",
+        "duration": 200,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "audit-trailer-tt-film",
@@ -2619,7 +4566,16 @@
       "genre": "Драма",
       "source": "https://www.fiff.ch/en/green-days-river",
       "image": "assets/shots/audit-trailer-tt.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=3WL-vcklhIM"
+      "imageSource": "https://www.youtube.com/watch?v=3WL-vcklhIM",
+      "video": {
+        "id": "3WL-vcklhIM",
+        "source": "https://www.youtube.com/watch?v=3WL-vcklhIM",
+        "type": "trailer",
+        "title": "Green Days by the River - Trailer 1 (OFFICIAL)",
+        "publisher": "Green Days",
+        "duration": 145,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-fj-scene-film",
@@ -2631,7 +4587,16 @@
       "genre": "Драма",
       "source": "https://iffr.com/en/iffr/2004/films/the-land-has-eyes",
       "image": "assets/shots/world-fj-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=j7a-4zBPfaU"
+      "imageSource": "https://www.youtube.com/watch?v=j7a-4zBPfaU",
+      "video": {
+        "id": "nG-icXbYz34",
+        "source": "https://www.youtube.com/watch?v=nG-icXbYz34",
+        "type": "trailer",
+        "title": "The Land Has Eyes--Trailer",
+        "publisher": "PIC (Retired Account)",
+        "duration": 33,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-nr-scene-film",
@@ -2643,7 +4608,16 @@
       "genre": "Драма",
       "source": "https://www.nauruisland.org/culture/naoero-world-far-end-sea",
       "image": "assets/shots/world-nr-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=VGChfvJZlcc"
+      "imageSource": "https://www.youtube.com/watch?v=VGChfvJZlcc",
+      "video": {
+        "id": "VGChfvJZlcc",
+        "source": "https://www.youtube.com/watch?v=VGChfvJZlcc",
+        "type": "trailer",
+        "title": "Far End of the Sea | Official Trailer (2026)",
+        "publisher": "Pleasant Island Productions",
+        "duration": 59,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-fm-scene-film",
@@ -2655,7 +4629,17 @@
       "genre": "Документальный",
       "source": "https://store.der.org/mobile/the-navigators-p592.aspx",
       "image": "assets/shots/world-fm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=s5o5Lv1VOxY"
+      "imageSource": "https://www.youtube.com/watch?v=s5o5Lv1VOxY",
+      "video": {
+        "id": "s5o5Lv1VOxY",
+        "source": "https://www.youtube.com/watch?v=s5o5Lv1VOxY",
+        "type": "source",
+        "title": "Mau Piailug   The Navigators Film   proa   shunting",
+        "sourceKind": "scene",
+        "publisher": "Sam Low",
+        "duration": 55,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-ar-scene-film",
@@ -2667,7 +4651,16 @@
       "genre": "Драма",
       "source": "https://www.sonyclassics.com/thesecretintheireyes/thesecretintheireyes_presskit.pdf",
       "image": "assets/shots/world-ar-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=oG3EhlqLmFc"
+      "imageSource": "https://www.youtube.com/watch?v=oG3EhlqLmFc",
+      "video": {
+        "id": "KtrWxaygpYA",
+        "source": "https://www.youtube.com/watch?v=KtrWxaygpYA",
+        "type": "trailer",
+        "title": "THE SECRET IN THEIR EYES - Trailer with English Subtitles",
+        "publisher": "Latido Films",
+        "duration": 157,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-gy-scene-film",
@@ -2679,7 +4672,17 @@
       "genre": "Документальный",
       "source": "https://www.documentary.org/feature/dreaming-change-world-victor-jara-collective-and-legacy-third-cinema",
       "image": "assets/shots/world-gy-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=F9T-FgZTLtE"
+      "imageSource": "https://www.youtube.com/watch?v=F9T-FgZTLtE",
+      "video": {
+        "id": "F9T-FgZTLtE",
+        "source": "https://www.youtube.com/watch?v=F9T-FgZTLtE",
+        "type": "source",
+        "title": "THE TERROR AND THE TIME / Enhanced with  Eng. Subtitles",
+        "sourceKind": "full-film",
+        "publisher": "Rayo Kril",
+        "duration": 4224,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-vc-scene-film",
@@ -2691,7 +4694,17 @@
       "genre": "Документальный",
       "source": "https://www.youtube.com/watch?v=42DusrdVyzU",
       "image": "assets/shots/world-vc-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=42DusrdVyzU"
+      "imageSource": "https://www.youtube.com/watch?v=42DusrdVyzU",
+      "video": {
+        "id": "42DusrdVyzU",
+        "source": "https://www.youtube.com/watch?v=42DusrdVyzU",
+        "type": "source",
+        "title": "Living Memories | The Intangible Cultural Heritage of St. Vincent & the Grenadines 🇻🇨",
+        "sourceKind": "full-film",
+        "publisher": "Akley Olton",
+        "duration": 2067,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-bb-scene-film",
@@ -2703,7 +4716,16 @@
       "genre": "Драма",
       "source": "https://db.ttfilmfestival.com/film/2800/a-hand-full-of-dirt/",
       "image": "assets/shots/world-bb-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=6dqPOgIQXVw"
+      "imageSource": "https://www.youtube.com/watch?v=6dqPOgIQXVw",
+      "video": {
+        "id": "6dqPOgIQXVw",
+        "source": "https://www.youtube.com/watch?v=6dqPOgIQXVw",
+        "type": "trailer",
+        "title": "A Hand Full of Dirt - Trailer",
+        "publisher": "ahandfullofdirt",
+        "duration": 90,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-jm-scene-film",
@@ -2715,7 +4737,16 @@
       "genre": "Драма",
       "source": "https://www.americangenrefilm.com/theatrical-film-catalog/the-harder-they-come/",
       "image": "assets/shots/world-jm-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=q03uqIGYu3s"
+      "imageSource": "https://www.youtube.com/watch?v=q03uqIGYu3s",
+      "video": {
+        "id": "q03uqIGYu3s",
+        "source": "https://www.youtube.com/watch?v=q03uqIGYu3s",
+        "type": "trailer",
+        "title": "Harder They Come Trailer",
+        "publisher": "Umbrella Entertainment",
+        "duration": 210,
+        "verifiedAt": "2026-11-20"
+      }
     },
     {
       "id": "world-pw-scene-film",
@@ -2727,7 +4758,191 @@
       "genre": "Документальный",
       "source": "https://www.youtube.com/watch?v=B5OJ3tgMfAQ",
       "image": "assets/shots/world-pw-scene.jpg",
-      "imageSource": "https://www.youtube.com/watch?v=Ww3zH16f4Ag"
+      "imageSource": "https://www.youtube.com/watch?v=Ww3zH16f4Ag",
+      "video": {
+        "id": "Ww3zH16f4Ag",
+        "source": "https://www.youtube.com/watch?v=Ww3zH16f4Ag",
+        "type": "trailer",
+        "title": "The Last Reef Official Trailer #1 (2012) - Documentary Movie HD",
+        "publisher": "Rotten Tomatoes Coming Soon",
+        "duration": 96,
+        "verifiedAt": "2026-11-20"
+      }
+    },
+    {
+      "id": "polar-into-wild",
+      "title": "В диких условиях",
+      "original": "Into the Wild",
+      "director": "Шон Пенн",
+      "release": "2007",
+      "genre": "Драма",
+      "kind": "film",
+      "source": "https://www.paramount.com/movies/into-the-wild",
+      "image": "assets/shots/new-into-wild-bus.jpg",
+      "imageSource": "https://film-grab.com/2010/07/14/into-the-wild/",
+      "video": {
+        "id": "wVOUJf_ONzc",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=wVOUJf_ONzc",
+        "title": "Into The Wild Trailer",
+        "publisher": "intothewildmovie",
+        "duration": 151,
+        "verifiedAt": "2026-11-20"
+      }
+    },
+    {
+      "id": "polar-thing",
+      "title": "Нечто",
+      "original": "The Thing",
+      "director": "Джон Карпентер",
+      "release": "1982-06-25",
+      "genre": "Фантастика",
+      "kind": "film",
+      "source": "https://theofficialjohncarpenter.com/the-thing/",
+      "image": "assets/shots/new-thing-outpost.jpg",
+      "imageSource": "https://film-grab.com/2011/02/26/the-thing/",
+      "video": {
+        "id": "ySvzHdtCiWE",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=ySvzHdtCiWE",
+        "title": "The Thing (1982) - Official Trailer",
+        "publisher": "ScreamFactoryTV",
+        "duration": 99,
+        "verifiedAt": "2026-11-20"
+      }
+    },
+    {
+      "id": "polar-penguins",
+      "title": "Птицы 2: Путешествие на край света",
+      "original": "La Marche de l’empereur / March of the Penguins",
+      "director": "Люк Жаке",
+      "release": "2005",
+      "genre": "Документальный",
+      "kind": "film",
+      "source": "https://milanrecords.com/release/march-of-the-penguins/",
+      "image": "assets/shots/new-penguins-adelie.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=ohL8rF_jluA",
+      "video": {
+        "id": "ohL8rF_jluA",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=ohL8rF_jluA",
+        "title": "March Of The Penguins - Official® Trailer [HD]",
+        "publisher": "TrailersPlaygroundHD",
+        "duration": 116,
+        "verifiedAt": "2026-11-20"
+      }
+    },
+    {
+      "id": "game-lastofus",
+      "title": "Одни из нас",
+      "original": "The Last of Us",
+      "director": "Крейг Мэйзин, Нил Дракман",
+      "release": "2023-01-15",
+      "genre": "Фантастика",
+      "kind": "series",
+      "source": "https://press.wbd.com/us/video/last-us-official-trailer?language_content_entity=en",
+      "image": "assets/shots/new-lastofus-boston.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+      "video": {
+        "id": "uLtkt8BonwM",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+        "title": "The Last of Us | Official Trailer | Max",
+        "publisher": "HBO Max",
+        "duration": 133,
+        "verifiedAt": "2026-11-20"
+      },
+      "basedOnGame": "The Last of Us",
+      "creator": "Крейг Мэйзин, Нил Дракман"
+    },
+    {
+      "id": "game-fallout",
+      "title": "Фоллаут",
+      "original": "Fallout",
+      "director": "Джонатан Нолан",
+      "release": "2024-04-10",
+      "genre": "Фантастика",
+      "kind": "series",
+      "source": "https://www.aboutamazon.com/news/entertainment/fallout-series-photos",
+      "image": "assets/shots/new-fallout-los-angeles.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=0kQ8i2FpRDk",
+      "video": {
+        "id": "0kQ8i2FpRDk",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=0kQ8i2FpRDk",
+        "title": "Fallout - Teaser Trailer | Prime Video",
+        "publisher": "Prime Video",
+        "duration": 153,
+        "verifiedAt": "2026-11-20"
+      },
+      "basedOnGame": "Fallout",
+      "creator": "Грэм Вагнер, Дженева Робертсон-Дуорет"
+    },
+    {
+      "id": "game-tomb-raider",
+      "title": "Лара Крофт: Расхитительница гробниц",
+      "original": "Lara Croft: Tomb Raider",
+      "director": "Саймон Уэст",
+      "release": "2001",
+      "genre": "Приключения",
+      "kind": "film",
+      "source": "https://hanumanfilms.com/portfolio/tomb-raider/",
+      "image": "assets/shots/new-tomb-angkor.jpg",
+      "imageSource": "https://hanumanfilms.com/portfolio/tomb-raider/",
+      "video": {
+        "id": "cnNBqNb3taw",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=cnNBqNb3taw",
+        "title": "Lara Croft- Tomb Raider - Official Trailer (2001)",
+        "publisher": "Hanumanfilms",
+        "duration": 139,
+        "verifiedAt": "2026-11-20"
+      },
+      "basedOnGame": "Tomb Raider"
+    },
+    {
+      "id": "game-assassin",
+      "title": "Кредо убийцы",
+      "original": "Assassin’s Creed",
+      "director": "Джастин Курзель",
+      "release": "2016",
+      "genre": "Приключения",
+      "kind": "film",
+      "source": "https://www.ubisoft.com/en-us/entertainment/film-tv/assassins-creed-movie",
+      "image": "assets/shots/new-assassin-seville.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=xLBZ1_J1xvM",
+      "video": {
+        "id": "xLBZ1_J1xvM",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=xLBZ1_J1xvM",
+        "title": "Assassin’s Creed | Official Trailer [HD] | 20th Century FOX",
+        "publisher": "20th Century Studios",
+        "duration": 129,
+        "verifiedAt": "2026-11-20"
+      },
+      "basedOnGame": "Assassin’s Creed"
+    },
+    {
+      "id": "game-sonic",
+      "title": "Соник в кино",
+      "original": "Sonic the Hedgehog",
+      "director": "Джефф Фаулер",
+      "release": "2020",
+      "genre": "Приключения",
+      "kind": "film",
+      "source": "https://www.paramount.com/movies/sonic-the-hedgehog",
+      "image": "assets/shots/new-sonic-transamerica.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=Kc9lVbz_-_o",
+      "video": {
+        "id": "szby7ZHLnkA",
+        "type": "trailer",
+        "source": "https://www.youtube.com/watch?v=szby7ZHLnkA",
+        "title": "Sonic The Hedgehog (2020) - New Official Trailer - Paramount Pictures",
+        "publisher": "Paramount Pictures",
+        "duration": 172,
+        "verifiedAt": "2026-11-20"
+      },
+      "basedOnGame": "Sonic the Hedgehog"
     }
   ],
   "scenes": [
@@ -7995,6 +10210,202 @@
       "imageSource": "https://www.youtube.com/watch?v=Ww3zH16f4Ag",
       "imageOriginal": "https://www.youtube.com/watch?v=Ww3zH16f4Ag",
       "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента"
+    },
+    {
+      "id": "polar-into-wild-scene",
+      "film": "polar-into-wild",
+      "title": "Автобус среди аляскинского леса",
+      "place": "Тропа Стампид · Аляска",
+      "country": "США",
+      "countryCode": "US",
+      "actionCountry": "US",
+      "lat": 63.8681,
+      "lng": -149.7693,
+      "precision": "approx",
+      "description": "Кристофер Маккэндлесс превращает заброшенный автобус в своё убежище. Вдали от дорог он пытается жить самостоятельно, но аляскинская природа оказывается гораздо суровее его представлений о свободе.",
+      "note": "Отмечено историческое место автобуса № 142 на тропе Стампид. В фильме использована копия автобуса, а соответствующие планы сняты в районе Кантуэлла; это экранная реконструкция сюжетного места. Настоящий автобус вывезен с тропы в 2020 году.",
+      "locationSource": "https://www.uaf.edu/museum/collections/ethno/projects/bus_142/",
+      "image": "assets/shots/new-into-wild-bus.jpg",
+      "imageSource": "https://film-grab.com/2010/07/14/into-the-wild/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/55 (475).jpg",
+      "shotDescription": "Общий план автобуса № 142 в лесу на фоне аляскинских гор; отдельный кадр из фильма.",
+      "verified": true,
+      "mapBasis": "story",
+      "storyPlace": "Убежище Маккэндлесса на тропе Стампид",
+      "locationSourceExtra": "https://en.wikipedia.org/wiki/Into_the_Wild_(film)"
+    },
+    {
+      "id": "polar-thing-scene",
+      "film": "polar-thing",
+      "title": "Изоляция на полярной станции",
+      "place": "Антарктида · вымышленная станция Outpost 31",
+      "country": "Антарктида",
+      "countryCode": "AQ",
+      "actionCountry": "AQ",
+      "lat": -76,
+      "lng": -110,
+      "precision": "approx",
+      "description": "Научная станция среди снегов становится замкнутым миром, где исследователи сталкиваются с существом, способным принимать чужой облик. Обычный полярный быт сменяется страхом: доверять нельзя даже товарищу.",
+      "note": "US Outpost 31 — вымышленная антарктическая станция. Фильм не даёт проверяемых координат: маркер условно представляет Антарктиду и не обозначает существующую базу. Экранная натура снята за пределами материка.",
+      "locationSource": "https://theofficialjohncarpenter.com/the-thing/",
+      "image": "assets/shots/new-thing-outpost.jpg",
+      "imageSource": "https://film-grab.com/2011/02/26/the-thing/",
+      "imageOriginal": "https://film-grab.com/wp-content/uploads/photo-gallery/11 (1202).jpg",
+      "shotDescription": "Широкий план заснеженных строений полярной станции между горными склонами в фильме «Нечто».",
+      "verified": true,
+      "mapBasis": "story",
+      "storyPlace": "Вымышленная US Outpost 31 · Антарктида"
+    },
+    {
+      "id": "polar-penguins-scene",
+      "film": "polar-penguins",
+      "title": "Путь императорских пингвинов",
+      "place": "Пуэнт-Жеоложи · Земля Адели",
+      "country": "Антарктида",
+      "countryCode": "AQ",
+      "actionCountry": "AQ",
+      "lat": -66.66,
+      "lng": 140.01,
+      "precision": "approx",
+      "description": "Императорские пингвины идут по прибрежным льдам к месту размножения. Документальный фильм наблюдает, как колония проходит антарктическую зиму и выращивает птенцов.",
+      "note": "Фильм снимали у французской станции Дюмон-д’Юрвиль, в районе колонии Пуэнт-Жеоложи. Точка обозначает район колонии, а не точную позицию камеры на меняющемся морском льду. В российском прокате фильм известен как «Птицы 2: Путешествие на край света»; оригинальное французское название — «Марш императора».",
+      "locationSource": "https://depts.washington.edu/turbopen/wordpress/wp-content/uploads/2013/08/B580707.pdf",
+      "image": "assets/shots/new-penguins-adelie.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=ohL8rF_jluA",
+      "imageOriginal": "https://www.youtube.com/watch?v=ohL8rF_jluA",
+      "shotDescription": "Пингвины цепочкой идут по снегу между прибрежной скалой и антарктическими ледяными обрывами.",
+      "verified": true,
+      "frameIndex": 7,
+      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
+      "sourceVideo": "https://www.youtube.com/watch?v=ohL8rF_jluA"
+    },
+    {
+      "id": "game-lastofus-scene",
+      "film": "game-lastofus",
+      "title": "Заросшие улицы Бостона",
+      "place": "Бостон · город после эпидемии",
+      "country": "США",
+      "countryCode": "US",
+      "actionCountry": "US",
+      "lat": 42.36,
+      "lng": -71.06,
+      "precision": "approx",
+      "description": "Джоэл, Тесс и Элли покидают контролируемую карантинную зону. Впереди — опустевший Бостон, где разрушенная городская среда стала частью опасного маршрута через заражённую территорию.",
+      "note": "На экране — постапокалиптический Бостон. Сериал снимался в Альберте; улицы, здания и растительность соединены с цифровой реконструкцией. Маркер обозначает сюжетный город, а не канадскую съёмочную площадку.",
+      "locationSource": "https://www.atlasofwonders.com/2023/01/where-was-the-last-of-us-filmed.html",
+      "image": "assets/shots/new-lastofus-boston.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+      "imageOriginal": "https://www.youtube.com/watch?v=uLtkt8BonwM",
+      "shotDescription": "Широкая заросшая улица с развалинами и зданием с золотым куполом на дальнем плане, показанная как Бостон.",
+      "verified": true,
+      "mapBasis": "story",
+      "storyPlace": "Бостон после грибковой пандемии",
+      "season": 1,
+      "frameIndex": 2,
+      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
+      "sourceVideo": "https://www.youtube.com/watch?v=uLtkt8BonwM"
+    },
+    {
+      "id": "game-fallout-scene",
+      "film": "game-fallout",
+      "title": "Поверхность после ядерной войны",
+      "place": "Руины Лос-Анджелеса",
+      "country": "США",
+      "countryCode": "US",
+      "actionCountry": "US",
+      "lat": 34.05,
+      "lng": -118.24,
+      "precision": "approx",
+      "description": "Люси выходит из защищённого убежища в мир разрушенных городов и опасных новых сообществ. Панорама Лос-Анджелеса показывает масштаб катастрофы, после которой выросло несколько поколений обитателей Пустоши.",
+      "note": "Первый сезон происходит в Лос-Анджелесе и его окрестностях в 2296 году. Панорама — художественная реконструкция будущих руин; точная позиция камеры не установлена, поэтому точка условно обозначает город.",
+      "locationSource": "https://www.aboutamazon.com/news/entertainment/fallout-series-photos",
+      "image": "assets/shots/new-fallout-los-angeles.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=0kQ8i2FpRDk",
+      "imageOriginal": "https://www.youtube.com/watch?v=0kQ8i2FpRDk",
+      "shotDescription": "Общий план разрушенного Лос-Анджелеса из официального тизер-трейлера Prime Video.",
+      "verified": true,
+      "mapBasis": "story",
+      "storyPlace": "Лос-Анджелес, 2296 год",
+      "season": 1,
+      "frameIndex": 8,
+      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
+      "sourceVideo": "https://www.youtube.com/watch?v=0kQ8i2FpRDk"
+    },
+    {
+      "id": "game-tomb-raider-scene",
+      "film": "game-tomb-raider",
+      "title": "Лара среди древних храмов",
+      "place": "Храмы Ангкора · Камбоджа",
+      "country": "Камбоджа",
+      "countryCode": "KH",
+      "actionCountry": "KH",
+      "lat": 13.434,
+      "lng": 103.889,
+      "precision": "approx",
+      "description": "В поисках части древнего артефакта Лара Крофт исследует камбоджийские руины. За её приключением стоят реальные храмы Ангкора, чьи каменные галереи и скульптуры стали частью экранного приключения.",
+      "note": "Кадр опубликован съёмочной компанией Hanuman Films, работавшей над камбоджийской частью картины. Подтверждены съёмки в Ангкоре, включая Та-Пром, Байон и другие храмы. По этому крупному плану нельзя уверенно определить отдельный храм, поэтому привязка дана к комплексу Ангкора.",
+      "locationSource": "https://hanumanfilms.com/portfolio/tomb-raider/",
+      "image": "assets/shots/new-tomb-angkor.jpg",
+      "imageSource": "https://hanumanfilms.com/portfolio/tomb-raider/",
+      "imageOriginal": "https://hanumanfilms.com/wp-content/uploads/2020/03/Tomb-Raider-1920px.jpg",
+      "shotDescription": "Лара Крофт в тёмной майке среди каменных храмовых колонн; отдельный кадр, опубликованный Hanuman Films.",
+      "verified": true
+    },
+    {
+      "id": "game-assassin-scene",
+      "film": "game-assassin",
+      "title": "Город над крышами",
+      "place": "Севилья XV века · экранная реконструкция",
+      "country": "Испания",
+      "countryCode": "ES",
+      "actionCountry": "ES",
+      "lat": 37.388,
+      "lng": -5.993,
+      "precision": "approx",
+      "description": "Агилар и Мария спасаются от преследователей, используя крыши и высоту средневекового города. Каллум переживает приключение своего предка через машину, открывающую генетическую память.",
+      "note": "Сюжетные погони происходят в Севилье, однако многие планы сняты в Валлетте на Мальте. Гиральду добавляли цифровыми средствами. Точка обозначает сюжетный исторический центр Севильи, а не единственную съёмочную площадку.",
+      "locationSource": "https://www.movie-locations.com/movies/a/Assassins-Creed.php",
+      "image": "assets/shots/new-assassin-seville.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=xLBZ1_J1xvM",
+      "imageOriginal": "https://www.youtube.com/watch?v=xLBZ1_J1xvM",
+      "shotDescription": "Общий план реконструированного испанского города с высокой башней и плотной застройкой из официального трейлера.",
+      "verified": true,
+      "mapBasis": "story",
+      "storyPlace": "Севилья времён инквизиции",
+      "frameIndex": 13,
+      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
+      "sourceVideo": "https://www.youtube.com/watch?v=xLBZ1_J1xvM"
+    },
+    {
+      "id": "game-sonic-scene",
+      "film": "game-sonic",
+      "title": "Роботник над крышей небоскрёба",
+      "place": "Transamerica Pyramid · Сан-Франциско",
+      "country": "США",
+      "countryCode": "US",
+      "actionCountry": "US",
+      "lat": 37.7952,
+      "lng": -122.4028,
+      "precision": "exact",
+      "description": "Соник, Том и Мэдди оказываются на крыше Transamerica Pyramid. Роботник окружает их дронами, и Сонику приходится использовать скорость и кольца, чтобы спасти друзей и уйти от ракет.",
+      "note": "На экране — крыша Transamerica Pyramid в Сан-Франциско. Площадка и полёт над городом созданы с цифровыми дополнениями; отметка указывает сюжетный небоскрёб, а не доступную посетителям крышу.",
+      "locationSource": "https://www.pedestrian.tv/streaming/sonic-the-hedgehog-2-recaps-knuckles/",
+      "image": "assets/shots/new-sonic-transamerica.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=Kc9lVbz_-_o",
+      "imageOriginal": "https://www.youtube.com/watch?v=Kc9lVbz_-_o",
+      "shotDescription": "Общий вид крыши Transamerica Pyramid, окружённой дронами Роботника; внизу видны улицы Сан-Франциско.",
+      "verified": true,
+      "mapBasis": "story",
+      "storyPlace": "Крыша Transamerica Pyramid",
+      "video": {
+        "id": "Kc9lVbz_-_o",
+        "start": 16,
+        "end": 27,
+        "source": "https://www.youtube.com/watch?v=Kc9lVbz_-_o&t=16s"
+      },
+      "frameIndex": 5,
+      "frameCaption": "Кадр сцены из опубликованного трейлера / фрагмента",
+      "sourceVideo": "https://www.youtube.com/watch?v=Kc9lVbz_-_o"
     }
   ],
   "schemaVersion": 3,
@@ -8845,7 +11256,8 @@
       "note": "На кадре — прогулка двух героинь в Барселоне. Метка обозначает город приблизительно; точное положение камеры и название площади по одному кадру не утверждаются.",
       "status": "on_map",
       "sceneIds": [
-        "eu-mother-scene"
+        "eu-mother-scene",
+        "game-assassin-scene"
       ],
       "country": "Испания",
       "region": "Европа",
@@ -8913,7 +11325,8 @@
       "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
       "status": "on_map",
       "sceneIds": [
-        "mood-angkor"
+        "mood-angkor",
+        "game-tomb-raider-scene"
       ],
       "country": "Камбоджа",
       "region": "Азия",
@@ -9978,7 +12391,11 @@
         "breakingbad-pollos",
         "friends-bedford",
         "satc-magnolia",
-        "balto-nome"
+        "balto-nome",
+        "polar-into-wild-scene",
+        "game-lastofus-scene",
+        "game-fallout-scene",
+        "game-sonic-scene"
       ],
       "country": "Соединённые Штаты Америки",
       "region": "Америка",

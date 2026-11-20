@@ -2470,3 +2470,17 @@
 - [Сведения о произведении](https://www.youtube.com/watch?v=B5OJ3tgMfAQ)
 - [География сцены](https://www.youtube.com/watch?v=B5OJ3tgMfAQ)
 - Привязка: approx; place. Продюсер Yes/No Productions отдельно опубликовал материал о съёмках фильма в Jellyfish Lake. Выбран соответствующий озёрный эпизод трейлера, а не любой коралловый риф из многолокационного фильма. Метка приблизительно обозначает озеро.
+
+
+## Полярные регионы и экранизации игр
+
+- **В диких условиях**: [произведение](https://www.paramount.com/movies/into-the-wild), [место](https://www.uaf.edu/museum/collections/ethno/projects/bus_142/), [кадр](https://film-grab.com/2010/07/14/into-the-wild/), [трейлер](https://www.youtube.com/watch?v=wVOUJf_ONzc).
+- **Нечто**: [произведение](https://theofficialjohncarpenter.com/the-thing/), [место](https://theofficialjohncarpenter.com/the-thing/), [кадр](https://film-grab.com/2011/02/26/the-thing/), [трейлер](https://www.youtube.com/watch?v=ySvzHdtCiWE).
+- **Птицы 2: Путешествие на край света**: [произведение](https://milanrecords.com/release/march-of-the-penguins/), [место](https://depts.washington.edu/turbopen/wordpress/wp-content/uploads/2013/08/B580707.pdf), [кадр](https://www.youtube.com/watch?v=ohL8rF_jluA), [трейлер](https://www.youtube.com/watch?v=ohL8rF_jluA).
+- **Одни из нас**: [произведение](https://press.wbd.com/us/video/last-us-official-trailer?language_content_entity=en), [место](https://www.atlasofwonders.com/2023/01/where-was-the-last-of-us-filmed.html), [кадр](https://www.youtube.com/watch?v=uLtkt8BonwM), [трейлер](https://www.youtube.com/watch?v=uLtkt8BonwM).
+- **Фоллаут**: [произведение](https://www.aboutamazon.com/news/entertainment/fallout-series-photos), [место](https://www.aboutamazon.com/news/entertainment/fallout-series-photos), [кадр](https://www.youtube.com/watch?v=0kQ8i2FpRDk), [трейлер](https://www.youtube.com/watch?v=0kQ8i2FpRDk).
+- **Лара Крофт: Расхитительница гробниц**: [произведение](https://hanumanfilms.com/portfolio/tomb-raider/), [место](https://hanumanfilms.com/portfolio/tomb-raider/), [кадр](https://hanumanfilms.com/portfolio/tomb-raider/), [трейлер](https://www.youtube.com/watch?v=cnNBqNb3taw).
+- **Кредо убийцы**: [произведение](https://www.ubisoft.com/en-us/entertainment/film-tv/assassins-creed-movie), [место](https://www.movie-locations.com/movies/a/Assassins-Creed.php), [кадр](https://www.youtube.com/watch?v=xLBZ1_J1xvM), [трейлер](https://www.youtube.com/watch?v=xLBZ1_J1xvM).
+- **Соник в кино**: [произведение](https://www.paramount.com/movies/sonic-the-hedgehog), [место](https://www.pedestrian.tv/streaming/sonic-the-hedgehog-2-recaps-knuckles/), [кадр](https://www.youtube.com/watch?v=Kc9lVbz_-_o), [трейлер](https://www.youtube.com/watch?v=szby7ZHLnkA).
+
+Видеовкладки всей коллекции дополнены 20 ноября 2026 года. Для каждого произведения в `data.json` сохранены источник, название ролика и издатель. Точный фрагмент сцены имеет приоритет над трейлером; прочие опубликованные материалы не выдаются за трейлеры или за кадры отмеченного места.

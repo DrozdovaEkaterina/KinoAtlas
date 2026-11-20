@@ -849,7 +849,8 @@
       "note": "На кадре — прогулка двух героинь в Барселоне. Метка обозначает город приблизительно; точное положение камеры и название площади по одному кадру не утверждаются.",
       "status": "on_map",
       "sceneIds": [
-        "eu-mother-scene"
+        "eu-mother-scene",
+        "game-assassin-scene"
       ],
       "country": "Испания",
       "region": "Европа",
@@ -917,7 +918,8 @@
       "note": "На карте есть сцена с подтверждённым местом действия в этой стране.",
       "status": "on_map",
       "sceneIds": [
-        "mood-angkor"
+        "mood-angkor",
+        "game-tomb-raider-scene"
       ],
       "country": "Камбоджа",
       "region": "Азия",
@@ -1982,7 +1984,11 @@
         "breakingbad-pollos",
         "friends-bedford",
         "satc-magnolia",
-        "balto-nome"
+        "balto-nome",
+        "polar-into-wild-scene",
+        "game-lastofus-scene",
+        "game-fallout-scene",
+        "game-sonic-scene"
       ],
       "country": "Соединённые Штаты Америки",
       "region": "Америка",

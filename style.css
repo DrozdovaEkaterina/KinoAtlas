@@ -65,3 +65,20 @@ html,body{height:100%;width:100%;overscroll-behavior:none}body{position:fixed;in
 @media(max-height:600px) and (min-width:761px){.region-bar{max-width:calc(100% - 390px)}.map-info{width:290px}.map-info .legend{font-size:9px;gap:8px}.scene-card{top:178px}}
 
 .row-video{display:inline-block;margin-left:7px;color:var(--accent);font-size:10px;vertical-align:2px}
+/* Compact edition: map geography stays at its natural size; chrome is 20% smaller. */
+:root{--ui-scale:.8}
+.header,.sidebar,.sidebar-toggle,.region-bar,.map-title,.map-info,.map-tools,.map-bottom,.scene-card,.mobile-list,.map-notice,dialog,.toast{zoom:var(--ui-scale)}
+.workspace{height:calc(100dvh - var(--header)*var(--ui-scale))}
+.film-dot{scale:var(--ui-scale)}
+.sidebar-intro{padding-bottom:22px}.filter-section{padding-top:16px}.sidebar-footer{margin-top:auto}.search-feedback{padding:16px 22px;color:var(--muted);font-size:14px;line-height:1.6}
+.map-info-toggle{position:absolute;top:9px;right:9px;width:25px;height:25px;border:1px solid var(--line);border-radius:50%;background:#30271c;color:var(--accent);font:italic 18px Georgia,serif;z-index:2}
+.map-info .map-hint{padding-right:23px}.map-info.is-collapsed{width:44px!important;height:44px;padding:0!important;min-height:0}.map-info.is-collapsed .map-info-toggle{position:static;width:42px;height:42px;border:0;border-radius:6px;font-size:23px;background:transparent}
+.card-actions .google-maps-link{display:block;width:100%;padding:12px 10px;text-align:center;font-size:14px;font-weight:500;border:1px solid #d8b56b55;background:#d8b56b20;color:#f5dfb0;border-radius:5px}.card-actions .google-maps-link:hover{background:#d8b56b35}.video-context{margin:0;padding:8px 18px 12px;font-size:12px;line-height:1.6;color:var(--muted);border-bottom:1px solid var(--line)}
+@media(max-width:760px){.sidebar-intro{display:none}.filter-section{padding-top:20px}.sidebar-footer{padding-bottom:14px}.search-feedback{padding:12px 20px}}
+
+.kind-bar{flex-wrap:wrap}.kind-bar button[data-kind="game"]{flex-basis:100%;border-top:1px solid var(--line);font-size:12px}.kind-bar button[data-kind="game"][aria-pressed=true]{border-top-color:#d8b56b55}.game-meta{color:var(--accent);font-size:13px;line-height:1.5;margin:-7px 0 18px}
+/* Scale the card itself as well as its text, including on narrow screens. */
+.scene-card{height:calc(100dvh - var(--header) - 206px);bottom:auto}
+.map-stage:fullscreen .scene-card{height:calc(100dvh - 206px)}
+@media(max-width:760px){.scene-card{left:auto;right:68px;width:calc(100vw - 80px);height:calc(100dvh - var(--header) - clamp(250px,34vh,300px) - 86px)}.mobile-list{right:auto;width:calc(100vw - 80px)}}
+@media(max-width:760px) and (max-height:650px){.scene-card{height:calc(100dvh - var(--header) - 205px - 78px)}}

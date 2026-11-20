@@ -57,8 +57,8 @@ test('Country audit covers 195 unique countries and distinguishes setting from f
   const countries=new Map(data.countryAudit.map(c=>[c.iso,c]));
   assert.equal(countries.size,195,'Duplicate country');
   for(const s of data.scenes){
-    assert.ok(countries.has(s.countryCode),`${s.id}: unknown map country`);
-    if(s.actionCountry)assert.ok(countries.has(s.actionCountry),`${s.id}: unknown narrative country`);
+    assert.ok(countries.has(s.countryCode)||(s.countryCode==='AQ'&&s.country==='Антарктида'),`${s.id}: unknown map country`);
+    if(s.actionCountry)assert.ok(countries.has(s.actionCountry)||s.actionCountry==='AQ',`${s.id}: unknown narrative country`);
   }
   for(const c of countries.values()){
     assert.match(c.iso,/^[A-Z]{2}$/);assert.ok(c.country&&c.title&&c.note);
